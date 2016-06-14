@@ -1,0 +1,12 @@
+ROL 0, 25
+            MST 0//Initialization
+SAP 4, 0, 50 //define max. positioning speed
+SAP 5, 0, 10 //define max. acceleration
+
+//do something, in this example just running between two positions
+MVP ABS, 0, 5000
+WAIT POS, 0, 0
+MVP ABS, 0, 0
+WAIT POS, 0, 0
+MST 0
+
