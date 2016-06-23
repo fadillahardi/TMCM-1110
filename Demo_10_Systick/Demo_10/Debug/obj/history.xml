@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_10_Systick\cmsis_lib -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_10_Systick -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_10_Systick\cmsis_lib\include -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110 -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_10_Systick\cmsis_boot -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_10_Systick\cmsis -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_10_Systick\ub_lib">
+      <target file="stm32_ub_led.o" lastModified="155714b2cd0">
+         <source file="..\..\..\ub_lib\stm32_ub_led.c" lastModified="13cc415e9e0"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="155714b2fe9">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="13cffc74150"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="155714b34ac">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="13cffc74150"/>
+      </target>
+      <target file="stm32_ub_systick.o" lastModified="15571911415">
+         <source file="..\..\..\ub_lib\stm32_ub_systick.c" lastModified="13d669afc50"/>
+      </target>
+      <target file="stm32f4xx_gpio.o" lastModified="155714b3313">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="13cffc73980"/>
+      </target>
+      <target file="main.o" lastModified="1557192e750">
+         <source file="..\..\..\main.c" lastModified="1557192dca1"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="155714b2b54">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="13cffc73980"/>
+      </target>
+   </processor>
+</history>

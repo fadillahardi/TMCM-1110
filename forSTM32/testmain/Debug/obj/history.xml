@@ -1,26 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <history>
-   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\TMCM 1110\stepRocker-Library-master\forSTM32\cmsis_lib\include -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\TMCM 1110\stepRocker-Library-master\forSTM32 -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\TMCM 1110\stepRocker-Library-master\forSTM32\cmsis -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\TMCM 1110\stepRocker-Library-master -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\TMCM 1110 -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\TMCM 1110\stepRocker-Library-master\forSTM32\cmsis_lib -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\TMCM 1110\stepRocker-Library-master\forSTM32\cmsis_boot">
-      <target file="stm32f4xx_rcc.o" lastModified="1554dac695c">
-         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="1554da37691"/>
-      </target>
-      <target file="stm32f4xx_pwr.o" lastModified="1554dac6574">
-         <source file="..\..\..\cmsis_lib\source\stm32f4xx_pwr.c" lastModified="1554da376b0"/>
-      </target>
-      <target file="system_stm32f4xx.o" lastModified="1554dac6c0c">
-         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="1554da37642"/>
-      </target>
-      <target file="stm32f4xx_gpio.o" lastModified="1554dac6ae3">
-         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="1554da376cf"/>
-      </target>
-      <target file="syscalls.o" lastModified="1554dac6e8d">
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32\cmsis_lib -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32\cmsis_lib\include -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32\cmsis -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32\lib_ub\ub_lib -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110 -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32 -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32\cmsis_boot -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32\lib_ub">
+      <target file="syscalls.o" lastModified="1555c8b1758">
          <source file="..\..\..\syscalls\syscalls.c" lastModified="1554da24c2b"/>
       </target>
-      <target file="main.o" lastModified="1554dac6778">
-         <source file="..\..\..\main.c" lastModified="1554dac55f3"/>
+      <target file="stm32f4xx_gpio.o" lastModified="1555c8b143c">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="1554da376cf"/>
       </target>
-      <target file="startup_stm32f4xx.o" lastModified="1554dac665f">
+      <target file="stm32f4xx_adc.o" lastModified="1555c8dfa0f">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_adc.c" lastModified="1555c8dc120"/>
+      </target>
+      <target file="stm32f4xx_pwr.o" lastModified="1555c8b0dfe">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_pwr.c" lastModified="1554da376b0"/>
+      </target>
+      <target file="stm32f4xx_tim.o" lastModified="1555c8b1dac">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="1555c6ab091"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="1555c8b1599">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="1554da37642"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="1555c8b0f0c">
          <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="1554da37614"/>
+      </target>
+      <target file="stm32f4xx_rtc.o" lastModified="1555c8b1a48">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rtc.c" lastModified="15552346f9a"/>
+      </target>
+      <target file="main.o" lastModified="15571258926">
+         <source file="..\..\..\main.c" lastModified="15571258000"/>
+      </target>
+      <target file="stm32_ub_adc1_single.o" lastModified="1556b7eb151">
+         <source file="..\..\..\lib_ub\ub_lib\stm32_ub_adc1_single.c" lastModified="13da715da20"/>
+      </target>
+      <target file="stm32_ub_pwm_tim4.o" lastModified="1555c8b8305">
+         <source file="..\..\..\lib_ub\ub_lib\stm32_ub_pwm_tim4.c" lastModified="13da6d13fa0"/>
+      </target>
+      <target file="delay.o" lastModified="1555c8b0c46">
+         <source file="..\..\..\cmsis_lib\source\delay.c" lastModified="15552f7c1fd"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="1555c8b12c7">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="1554da37691"/>
       </target>
    </processor>
 </history>

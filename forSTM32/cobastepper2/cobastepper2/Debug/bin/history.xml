@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=cobastepper2.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\cobastepper2 -TC:\CooCox\CoIDE\configuration\ProgramData\cobastepper2/arm-gcc-link.ld -g">
+      <target file="cobastepper2.elf" lastModified="1557baf5122">
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="155771e6d18"/>
+         <source file="..\obj\main.o" lastModified="1557baf4e05"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="155771e7064"/>
+         <source file="..\obj\stm32_ub_systick.o" lastModified="155771e71cb"/>
+         <source file="..\obj\stm32_ub_pwm_tim4.o" lastModified="155771e7323"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="155771e74aa"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="155771e75e2"/>
+         <source file="..\obj\syscalls.o" lastModified="155771e770b"/>
+         <source file="..\obj\misc.o" lastModified="155771e7834"/>
+         <source file="..\obj\stm32_ub_tim2.o" lastModified="155771e796c"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="155771e7c7a"/>
+      </target>
+   </processor>
+</history>

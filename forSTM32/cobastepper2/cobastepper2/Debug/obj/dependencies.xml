@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32\cobastepper2\cmsis_boot /I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32\cobastepper2\ub_lib\timer2 /I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32\cobastepper2 /I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32\cobastepper2\ub_lib /I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32\cobastepper2\cmsis_lib\include /I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32\cobastepper2\cmsis /I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32\cobastepper2\cmsis_lib /I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32\cobastepper2\ub_lib\pwm_tim4 /I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32 /I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\forSTM32\cobastepper2\ub_lib\systick">
+      <source file="..\..\..\ub_lib\systick\stm32_ub_systick.h" lastModified="1557190f33b">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmInstr.h" lastModified="15571979d9c">
+      </source>
+      <source file="..\..\..\cmsis\core_cm4.h" lastModified="15571979966">
+         <include file="..\..\..\cmsis\core_cmInstr.h"/>
+         <include file="..\..\..\cmsis\core_cmFunc.h"/>
+         <include file="..\..\..\cmsis\core_cm4_simd.h"/>
+      </source>
+      <source file="..\..\..\ub_lib\systick\stm32_ub_systick.c" lastModified="13d669afc50">
+         <include file="..\..\..\ub_lib\systick\stm32_ub_systick.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.h" lastModified="15571979659">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="15571979649">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="1557197ff01">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h" lastModified="15571bb068a">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\misc.h" lastModified="15571ac8985">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f4xx_conf.h" lastModified="1557197e851">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f4xx.h" lastModified="15571979a22">
+         <include file="..\..\..\cmsis\core_cm4.h"/>
+         <include file="..\..\..\cmsis_boot\system_stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f4xx_conf.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h" lastModified="1557197fef2">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\misc.c" lastModified="15571ac89b9">
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+      </source>
+      <source file="..\..\..\syscalls\syscalls.c" lastModified="1557197a4d0">
+      </source>
+      <source file="..\..\..\ub_lib\timer2\stm32_ub_tim2.h" lastModified="144064885a0">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmFunc.h" lastModified="15571979d7d">
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="1557197960b">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\ub_lib\timer2\stm32_ub_tim2.c" lastModified="15571af71b5">
+         <include file="..\..\..\ub_lib\timer2\stm32_ub_tim2.h"/>
+      </source>
+      <source file="..\..\..\ub_lib\pwm_tim4\stm32_ub_pwm_tim4.h" lastModified="155770b6e21">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="1557197962a">
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="15571979669">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cm4_simd.h" lastModified="15571979d7d">
+      </source>
+      <source file="..\..\..\ub_lib\pwm_tim4\stm32_ub_pwm_tim4.c" lastModified="155770ad1bf">
+         <include file="..\..\..\ub_lib\pwm_tim4\stm32_ub_pwm_tim4.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h" lastModified="155719795fb">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+   </includePath>
+</dependencies>

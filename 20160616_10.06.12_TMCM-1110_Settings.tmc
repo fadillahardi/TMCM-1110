@@ -1,0 +1,66 @@
+
+//=== module settings for axis 0 ===
+SAP 4, 0, 1000 	// max. positioning speed [int]
+SAP 5, 0, 20 	// max. acceleration [int]
+SAP 6, 0, 255 	// max. current 
+SAP 7, 0, 8 	// standby current 
+SAP 12, 0, 1 	// right limit switch disable 
+SAP 13, 0, 1 	// left limit switch disable 
+SAP 130, 0, 1 	// minimum speed [int]
+SAP 140, 0, 3 	// microstep resolution 
+SAP 149, 0, 0 	// soft stop flag 
+SAP 153, 0, 7 	// ramp divisor 
+SAP 154, 0, 3 	// pulse divisor 
+SAP 160, 0, 0 	// step interpolation enable 
+SAP 161, 0, 0 	// double step enable 
+SAP 162, 0, 2 	// chopper blank time 
+SAP 163, 0, 0 	// chopper mode 
+SAP 164, 0, 0 	// chopper hysteresis decrement 
+SAP 165, 0, 2 	// chopper hysteresis end 
+SAP 166, 0, 3 	// chopper hysteresis start 
+SAP 167, 0, 5 	// chopper off time 
+SAP 168, 0, 0 	// smartEnergy current minimum 
+SAP 169, 0, 0 	// smartEnergy current down step 
+SAP 170, 0, 0 	// smartEnergy hysteresis 
+SAP 171, 0, 0 	// smartEnergy current up step 
+SAP 172, 0, 0 	// smartEnergy hysteresis start 
+SAP 173, 0, 1 	// stallGuard filter enable 
+SAP 174, 0, 5 	// stallGuard threshold 
+SAP 175, 0, 3 	// slope control high side 
+SAP 176, 0, 3 	// slope control low side 
+SAP 177, 0, 0 	// short protection disable 
+SAP 178, 0, 0 	// short detection timer 
+SAP 179, 0, 1 	// Vsense 
+SAP 180, 0, 1 	// smart energy actual current 
+SAP 181, 0, 0 	// stop on stall [int]
+SAP 182, 0, 0 	// smartEnergy threshold speed [int]
+SAP 183, 0, 0 	// smartEnergy slow run current 
+SAP 184, 0, 0 	// random chopper off time 
+SAP 193, 0, 1 	// reference search mode 
+SAP 194, 0, 500 	// reference search speed [int]
+SAP 195, 0, 100 	// reference switch speed [int]
+SAP 204, 0, 0 	// freewheeling delay 
+SAP 210, 0, 25600 	// encoder prescaler 
+SAP 212, 0, 0 	// max. encoder deviation 
+SAP 214, 0, 200 	// power down delay 
+SAP 254, 0, 1 	// step/direction mode 
+
+//=== module settings for axis 1 ===
+SAP 4, 1, 1000 	// max. positioning speed [int]
+SAP 5, 1, 1000 	// max. acceleration [int]
+SAP 12, 1, 1 	// right limit switch disable 
+SAP 13, 1, 1 	// left limit switch disable 
+SAP 130, 1, 1 	// minimum speed [int]
+SAP 149, 1, 0 	// soft stop flag 
+SAP 153, 1, 7 	// ramp divisor 
+SAP 154, 1, 3 	// pulse divisor 
+
+//=== module settings for axis 2 ===
+SAP 4, 2, 1000 	// max. positioning speed [int]
+SAP 5, 2, 1000 	// max. acceleration [int]
+SAP 12, 2, 1 	// right limit switch disable 
+SAP 13, 2, 1 	// left limit switch disable 
+SAP 130, 2, 1 	// minimum speed [int]
+SAP 149, 2, 0 	// soft stop flag 
+SAP 153, 2, 7 	// ramp divisor 
+SAP 154, 2, 3 	// pulse divisor 

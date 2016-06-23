@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_10_Systick\cmsis_lib /I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_10_Systick /I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_10_Systick\cmsis_lib\include /I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110 /I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_10_Systick\cmsis_boot /I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_10_Systick\cmsis /I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_10_Systick\ub_lib">
+      <source file="..\..\..\cmsis\core_cm4.h" lastModified="13cffc74538">
+         <include file="..\..\..\cmsis\core_cmInstr.h"/>
+         <include file="..\..\..\cmsis\core_cmFunc.h"/>
+         <include file="..\..\..\cmsis\core_cm4_simd.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmInstr.h" lastModified="13cffc74538">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.h" lastModified="13cffc74150">
+      </source>
+      <source file="..\..\..\ub_lib\stm32_ub_systick.h" lastModified="1557190f33b">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\ub_lib\stm32_ub_led.h" lastModified="13cc4493e80">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="13cffc74150">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h" lastModified="13cffc73980">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\ub_lib\stm32_ub_led.c" lastModified="13cc415e9e0">
+         <include file="..\..\..\ub_lib\stm32_ub_led.h"/>
+      </source>
+      <source file="..\..\..\ub_lib\stm32_ub_systick.c" lastModified="13d669afc50">
+         <include file="..\..\..\ub_lib\stm32_ub_systick.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f4xx.h" lastModified="13cffc73d68">
+         <include file="..\..\..\cmsis\core_cm4.h"/>
+         <include file="..\..\..\cmsis_boot\system_stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f4xx_conf.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f4xx_conf.h" lastModified="13cffc79358">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\main.h" lastModified="13cc4315180">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmFunc.h" lastModified="13cffc74538">
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="13cffc74150">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="13cffc73980">
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="13cffc73980">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cm4_simd.h" lastModified="13cffc74538">
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h" lastModified="13cffc74150">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+   </includePath>
+</dependencies>

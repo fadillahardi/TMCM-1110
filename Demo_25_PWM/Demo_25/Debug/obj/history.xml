@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_25_PWM\cmsis -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_25_PWM\cmsis_lib\include -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110 -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_25_PWM\cmsis_lib -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_25_PWM\cmsis_boot -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_25_PWM\ub_lib -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Demo_25_PWM">
+      <target file="stm32f4xx_gpio.o" lastModified="1556bf687a4">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="13da6cda5c0"/>
+      </target>
+      <target file="stm32f4xx_adc.o" lastModified="1556bf6834f">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_adc.c" lastModified="13da7164780"/>
+      </target>
+      <target file="stm32f4xx_tim.o" lastModified="1556bf68cd4">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="13da6d44ce0"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="1556bf688ec">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="13da6cda5c0"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="1556bf67dd0">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="13da6cda5c0"/>
+      </target>
+      <target file="main.o" lastModified="1556c09b2bc">
+         <source file="..\..\..\main.c" lastModified="1556c09aa8e"/>
+      </target>
+      <target file="stm32_ub_adc1_single.o" lastModified="1556bf684a6">
+         <source file="..\..\..\ub_lib\stm32_ub_adc1_single.c" lastModified="13da715da20"/>
+      </target>
+      <target file="stm32_ub_pwm_tim4.o" lastModified="1556bf6861d">
+         <source file="..\..\..\ub_lib\stm32_ub_pwm_tim4.c" lastModified="13da6d13fa0"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="1556bf6817a">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="13da6cda5c0"/>
+      </target>
+   </processor>
+</history>
