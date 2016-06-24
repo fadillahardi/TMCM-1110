@@ -1,34 +1,22 @@
-//--------------------------------------------------------------
-// File     : stm32_ub_pwm_tim4.h
-//--------------------------------------------------------------
 
-//--------------------------------------------------------------
 #ifndef __STM32F4_UB_PWM_TIM4_H
 #define __STM32F4_UB_PWM_TIM4_H
 
-
-//--------------------------------------------------------------
-// Includes
-//--------------------------------------------------------------
 #include "stm32f4xx.h"
 #include "stm32f4xx_gpio.h"
 #include "stm32f4xx_rcc.h"
 #include "stm32f4xx_tim.h"
 
 
-//--------------------------------------------------------------
-// Liste aller PWM Pins
-// (keine Nummer doppelt und von 0 beginnend)
-//--------------------------------------------------------------
-typedef enum 
+typedef enum
 {
-  PWM_T4_PD12 = 0,  // PWM per TIM4 an PD12
-  PWM_T4_PD13 = 1,   // PWM per TIM4 an PD14
+  PWM_T4_PD12 = 0,
+  PWM_T4_PD13 = 1,
   PWM_T4_PD14 = 2,
   PWM_T4_PD15 = 3
 }PWM_TIM4_NAME_t;
 
-#define  PWM_TIM4_ANZ  4 // Anzahl von PWM_TIM4_NAME_t
+#define  PWM_TIM4_ANZ  4
 
 
 //--------------------------------------------------------------
@@ -59,15 +47,15 @@ typedef enum
 //--------------------------------------------------------------
 // Struktur eines PWM Kanals
 //--------------------------------------------------------------
-typedef struct {
-  PWM_TIM4_NAME_t PWM_NAME; // Name
-  const uint8_t CHANNEL;    // Channel [1...4]
-  GPIO_TypeDef* PWM_PORT;   // Port
-  const uint16_t PWM_PIN;   // Pin
-  const uint32_t PWM_CLK;   // Clock
-  const uint8_t PWM_SOURCE; // Source
-  const uint16_t PWM_INIT;  // Init
-}PWM_TIM4_t;
+//typedef struct {
+//  PWM_TIM4_NAME_t PWM_NAME; // Name
+//  const uint8_t CHANNEL;    // Channel [1...4]
+//  GPIO_TypeDef* PWM_PORT;   // Port
+//  const uint16_t PWM_PIN;   // Pin
+//  const uint32_t PWM_CLK;   // Clock
+//  const uint8_t PWM_SOURCE; // Source
+//  const uint16_t PWM_INIT;  // Init
+//}PWM_TIM4_t;
 
 
 //--------------------------------------------------------------

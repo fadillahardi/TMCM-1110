@@ -67,13 +67,6 @@
       </source>
       <source file="..\..\..\syscalls\syscalls.c" lastModified="1554da25bcb">
       </source>
-      <source file="..\..\..\main.c" lastModified="155712583e8">
-         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
-         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
-         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
-         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
-         <include file="..\..\..\cmsis_lib\include\delay.h"/>
-      </source>
       <source file="..\..\..\cmsis\core_cmFunc.h" lastModified="1554da27aa0">
       </source>
       <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="1554da37691">
