@@ -25,20 +25,20 @@
       <target file="stm32f4xx_rtc.o" lastModified="1555c8b1a48">
          <source file="..\..\..\cmsis_lib\source\stm32f4xx_rtc.c" lastModified="15552346f9a"/>
       </target>
-      <target file="main.o" lastModified="1558112afa1">
-         <source file="..\..\..\main.c" lastModified="1558112a695"/>
-      </target>
-      <target file="stm32_ub_adc1_single.o" lastModified="1556b7eb151">
-         <source file="..\..\..\lib_ub\ub_lib\stm32_ub_adc1_single.c" lastModified="13da715da20"/>
+      <target file="main.o" lastModified="1558fe6f75e">
+         <source file="..\..\..\main.c" lastModified="1558fe6ee79"/>
       </target>
       <target file="stm32_ub_pwm_tim4.o" lastModified="1555c8b8305">
          <source file="..\..\..\lib_ub\ub_lib\stm32_ub_pwm_tim4.c" lastModified="13da6d13fa0"/>
       </target>
-      <target file="delay.o" lastModified="1555c8b0c46">
-         <source file="..\..\..\cmsis_lib\source\delay.c" lastModified="15552f7c1fd"/>
+      <target file="stm32_ub_adc1_single.o" lastModified="1556b7eb151">
+         <source file="..\..\..\lib_ub\ub_lib\stm32_ub_adc1_single.c" lastModified="13da715da20"/>
       </target>
       <target file="stm32f4xx_rcc.o" lastModified="1555c8b12c7">
          <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="1554da37691"/>
+      </target>
+      <target file="delay.o" lastModified="1555c8b0c46">
+         <source file="..\..\..\cmsis_lib\source\delay.c" lastModified="15552f7c1fd"/>
       </target>
    </processor>
 </history>

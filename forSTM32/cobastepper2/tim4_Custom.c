@@ -1,21 +1,43 @@
-void TIM4_Init()
+#include "stm32f4xx.h"
+#include "stm32f4xx_rcc.h"
+#include "stm32f4xx_tim.h"
+#include "misc.h"
+
+
+uint32_t timer_enable_flag=0;
+
+void timer_start()
+{
+	TIM_Cmd(TIM4, ENABLE);
+	timer_enable_flag=1;
+}
+
+void timer_stop()
+{
+	timer_enable_flag=0;
+	TIM_Cmd(TIM4, DISABLE);
+}
+
+
+void TIM4_Init(/*uint16_t prescaler, uint16_t periode*/)
 {
 	//int value;
 	TIM_TimeBaseInitTypeDef TIM_Struct;
 
-	RCC_APB1PeriphClockCmd(RCC_APB1Peeriph_TIM4, ENABLE);
+	RCC_APB1PeriphClockCmd(RCC_APB1Periph_TIM4, ENABLE);
+	
+	TIM_Cmd(TIM4, DISABLE);
 
 	TIM_Struct.TIM_Prescaler = 6;
+	TIM_Struct.TIM_Period = 599
 	TIM_Struct.TIM_CounterMode = TIM_CounterMode_Up;
-
-	TIM_Struct.TIM_Period = 1199;
 	TIM_Struct.TIM_ClockDivision = TIM_CKD_DIV1;
-	TIM_Struct.TIM_RepetitionCounter = 0;
 	TIM_TimeBaseInit(TIM4, &TIM_Struct);
-	TIM_Cmd(TIM4, ENABLE);
+	
+	TIM_ARRPreloadConfig(TIM4, ENABLE);
 }
 
-void PWM_Init_TIM4_GPIO()
+void PWM_Init_TIM4()
 {
 	TIM_OCInitTypeDef TIM_OCStruct;
 	GPIO_InitTypeDef GPIO_InitStruct;
@@ -28,23 +50,17 @@ void PWM_Init_TIM4_GPIO()
     TIM_OCStruct.TIM_OutputState = TIM_OutputState_Enable;
     TIM_OCStruct.TIM_OCPolarity = TIM_OCPolarity_Low;
     
-/*
-    To get proper duty cycle, you have simple equation
-    
-    pulse_length = ((TIM_Period + 1) * DutyCycle) / 100 - 1
-    
-    where DutyCycle is in percent, between 0 and 100%
-    
-    25% duty cycle:     pulse_length = ((8399 + 1) * 25) / 100 - 1 = 2099
-    50% duty cycle:     pulse_length = ((8399 + 1) * 50) / 100 - 1 = 4199
-    75% duty cycle:     pulse_length = ((8399 + 1) * 75) / 100 - 1 = 6299
-    100% duty cycle:    pulse_length = ((8399 + 1) * 100) / 100 - 1 = 8399
- */
-    TIM_OCStruct.TIM_Pulse = 599; /* 50% duty cycle */
+//Duty Cycle
+    TIM_OCStruct.TIM_Pulse = 299; /* 50% duty cycle */
     TIM_OC2Init(TIM4, &TIM_OCStruct);
     TIM_OC2PreloadConfig(TIM4, TIM_OCPreload_Enable);
 
-    /* Clock for GPIOD */
+
+}
+
+void GPIO_init()
+{
+	/* Clock for GPIOD */
     RCC_AHB1PeriphClockCmd(RCC_AHB1Periph_GPIOD, ENABLE);
  
     /* Alternating functions for pins */

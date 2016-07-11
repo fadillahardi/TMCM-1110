@@ -47,9 +47,14 @@ void main()
 	long y=0 ,newDelay=0;
 	int flag=0;
 
+	for(x=0;x<12800;x++)
+	{
+		run_stepper(1000);
+	}
+
     while(1)
     {
-    	flag = GPIO_ReadInputDataBit(GPIOA, GPIO_Pin_0);
+    	/*flag = GPIO_ReadInputDataBit(GPIOA, GPIO_Pin_0);
     	if(flag ==1)
     	{
     		for(y=500;y>100;y--)
@@ -77,8 +82,8 @@ void main()
     			    			run_stepper(newDelay);
     			    		}
     		}
-    	}
+    	}*/
+
 
     }
 }
-
