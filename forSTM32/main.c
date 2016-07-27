@@ -73,16 +73,21 @@ int main()
 {
 	RCC_AHB1PeriphClockCmd(RCC_AHB1Periph_GPIOA, ENABLE);
 	SystemInit();
-	GPIO_InitStruct.GPIO_Pin = GPIO_Pin_1;
+	GPIO_InitStruct.GPIO_Pin = GPIO_Pin_0;
     GPIO_InitStruct.GPIO_OType = GPIO_OType_PP;
     GPIO_InitStruct.GPIO_PuPd = GPIO_PuPd_NOPULL;
-    GPIO_InitStruct.GPIO_Mode = GPIO_Mode_OUT;
+    GPIO_InitStruct.GPIO_Mode = GPIO_Mode_IN;
     GPIO_InitStruct.GPIO_Speed = GPIO_Speed_100MHz;
     GPIO_Init(GPIOA, &GPIO_InitStruct);
 
-    GPIO_ResetBits(GPIOA, GPIO_Pin_1);
-	TIM4_Init();
-	PWM_Init_TIM4_GPIO();
+    /*if((GPIO_ReadInputDataBit(GPIOA, GPIO_Pin_0))==1)
+    {
+    	TIM4_Init();
+    	PWM_Init_TIM4_GPIO();
+    }*/
+    TIM4_Init();
+    	PWM_Init_TIM4_GPIO();
+
 	while(1);
 	{
 

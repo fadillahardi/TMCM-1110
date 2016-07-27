@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -IF:\Data_Temp_Ordner\stm32f4\prj_ub\Demo_Prj\Demo_05_ADC_Single\cmsis_lib\include -IF:\Data_Temp_Ordner\stm32f4\prj_ub\Demo_Prj\Demo_05_ADC_Single -IF:\Data_Temp_Ordner\stm32f4\prj_ub\Demo_Prj\Demo_05_ADC_Single\cmsis_lib -IF:\Data_Temp_Ordner\stm32f4\prj_ub\Demo_Prj\Demo_05_ADC_Single\cmsis -IF:\Data_Temp_Ordner\stm32f4\prj_ub\Demo_Prj -IF:\Data_Temp_Ordner\stm32f4\prj_ub\Demo_Prj\Demo_05_ADC_Single\ub_lib -IF:\Data_Temp_Ordner\stm32f4\prj_ub\Demo_Prj\Demo_05_ADC_Single\cmsis_boot">
+      <target file="stm32_ub_led.o" lastModified="13ce7301452">
+         <source file="..\..\..\ub_lib\stm32_ub_led.c" lastModified="13cc55f8694"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="13ce7261abe">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="13ce723b6af"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="13ce7261b89">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="13ce723b69b"/>
+      </target>
+      <target file="stm32f4xx_gpio.o" lastModified="13ce7261b3b">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="13ce723b687"/>
+      </target>
+      <target file="stm32f4xx_adc.o" lastModified="13ce7264afe">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_adc.c" lastModified="13ce7263c1e"/>
+      </target>
+      <target file="main.o" lastModified="13ce7313a49">
+         <source file="..\..\..\main.c" lastModified="13ce731354a"/>
+      </target>
+      <target file="stm32_ub_adc1_single.o" lastModified="13ce729a1c4">
+         <source file="..\..\..\ub_lib\stm32_ub_adc1_single.c" lastModified="13ce7299dce"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="13ce7261a13">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="13ce723b691"/>
+      </target>
+   </processor>
+</history>
