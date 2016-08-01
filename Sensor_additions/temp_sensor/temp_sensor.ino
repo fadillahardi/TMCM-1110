@@ -1,0 +1,131 @@
+//#include <math.h>
+int sensor1 = A3;
+int sensor2 = A2;
+//const float R_pullup = 10000;
+//const float res_def = 10000;
+//const float temp_def = 25;
+//const float B_coef = 3950;
+byte pwm_pin = 3;
+int pwm_value;
+
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(115200);
+  pinMode(sensor1, INPUT);
+  pinMode(sensor2, INPUT);
+  pinMode(pwm_pin, INPUT);
+
+}
+
+/*void steinhart()
+{
+  float value = analogRead(sensor1);
+  Serial.print("sensor read = ");
+  Serial.println(value);
+  
+  float convert = (1023/value)-1;
+  float R_read = 10000/(convert);
+  Serial.print("resistance = ");
+  Serial.println(R_read);
+  
+  float a = 1.1279;
+  float b = 0.23429;
+  float c = 0.000087298;
+  float x = log(R_read);
+
+  float temp = 1000/(a + (b*x) + (c*x*x*x));
+  float inCelcius = 273.15-temp;
+
+  Serial.println(temp);
+  Serial.print("in celcius = ");
+  Serial.println(inCelcius);
+  Serial.println(" ");
+  
+  delay(800);
+}*/
+
+void TempSensor()
+{
+  float value = analogRead(sensor1);
+  Serial.print("sensor read = ");
+  Serial.println(value);
+
+  int i;
+  float nilai_temp = 0;
+  for(i=0;i<5;i++)
+  {
+    nilai_temp = nilai_temp + value;
+  }
+  nilai_temp = nilai_temp/5.0;
+  
+  float convert = (1023/value)-1;
+  float R_read = 1000/(convert);
+  Serial.print("resistance = ");
+  Serial.println(R_read);
+  
+  float Bxlog = log(R_read/10000);
+  //Serial.print("hasil log = ");
+  //Serial.println(Bxlog);
+  
+  float steinhart = 298.15*4268.2146/(4268.2146+(298.15*Bxlog));
+  //float steinhart = 298.15*3950/(3950+(298.15*Bxlog));
+  //Serial.print("steinhart T = ");
+  //Serial.println(steinhart);
+  
+  float inCelcius = steinhart-273.15;
+  Serial.print("in celcius = ");
+  Serial.println(inCelcius);
+  Serial.println(" ");
+  
+  delay(800);
+}
+
+void FlowSensor()
+{
+  float flowRAW = analogRead(sensor2);
+  //Serial.println(flowRAW);
+  float conv = (flowRAW/1023)*5;
+  int pulse;
+  int sign = 0;
+  int newpls;
+  //Serial.println(conv);
+  if(flowRAW<500)
+  {
+    pulse = 0;
+  }
+  else pulse = 1;
+  newpls = pulse;
+  if(newpls =! pulse)
+  {
+    sign = sign + 1;
+  }
+  Serial.print(pulse);
+  Serial.print(sign);
+  
+  delay(100);
+  
+}
+
+/*void sample()
+{
+  int i;
+  float nilai_temp = 0;
+  for(i=0;i<5;i++)
+  {
+    nilai_temp = nilai_temp + inCelcius;
+  }
+  nilai_temp = nilai_temp/5.0;
+  return nilai_temp;
+}*/
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  //TempSensor();
+  //steinhart();
+  Serial.println(" ");
+  FlowSensor();
+ // pwm_value = pulseIn(pwm_pin, HIGH);
+  //Serial.println(pwm_value);
+  //delay(50);
+  
+}

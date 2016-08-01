@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Project version="2G - 1.7.8" name="cobastepper2">
-  <Target name="cobastepper2" isCurrent="1">
+<Project version="2G - 1.7.8" name="cobaADC">
+  <Target name="cobaADC" isCurrent="1">
     <Device manufacturerId="9" manufacturerName="ST" chipId="344" chipName="STM32F407VG" boardId="" boardName=""/>
     <BuildOption>
       <Compile>
@@ -32,12 +32,12 @@
           <Memory name="IROM2" type="ReadOnly" size="" startValue=""/>
           <Memory name="IRAM2" type="ReadWrite" size="0x00010000" startValue="0x10000000"/>
         </MemoryAreas>
-        <LocateLinkFile path="../../../../../../../coocox/coide/configuration/programdata/cobastepper2/arm-gcc-link.ld" type="0"/>
+        <LocateLinkFile path="../../../../../../coocox/coide/configuration/programdata/cobaadc/arm-gcc-link.ld" type="0"/>
       </Link>
       <Output>
         <Option name="OutputFileType" value="0"/>
         <Option name="Path" value="./"/>
-        <Option name="Name" value="cobastepper2"/>
+        <Option name="Name" value="cobaADC"/>
         <Option name="HEX" value="1"/>
         <Option name="BIN" value="1"/>
       </Output>
@@ -73,43 +73,31 @@
     <Component id="500" name="CMSIS BOOT" path="" type="2"/>
     <Component id="501" name="RCC" path="" type="2"/>
     <Component id="504" name="GPIO" path="" type="2"/>
-    <Component id="513" name="TIM" path="" type="2"/>
-    <Component id="524" name="MISC" path="" type="2"/>
+    <Component id="514" name="ADC" path="" type="2"/>
   </Components>
   <Files>
     <File name="cmsis_lib/source/stm32f4xx_gpio.c" path="cmsis_lib/source/stm32f4xx_gpio.c" type="1"/>
+    <File name="cmsis" path="" type="2"/>
+    <File name="cmsis_lib/source/stm32f4xx_adc.c" path="cmsis_lib/source/stm32f4xx_adc.c" type="1"/>
+    <File name="cmsis_lib" path="" type="2"/>
     <File name="cmsis_boot/startup/startup_stm32f4xx.c" path="cmsis_boot/startup/startup_stm32f4xx.c" type="1"/>
+    <File name="syscalls/syscalls.c" path="syscalls/syscalls.c" type="1"/>
     <File name="cmsis_lib/source/stm32f4xx_rcc.c" path="cmsis_lib/source/stm32f4xx_rcc.c" type="1"/>
     <File name="cmsis/core_cmInstr.h" path="cmsis/core_cmInstr.h" type="1"/>
-    <File name="cmsis_lib/source/stm32_ub_pwm_tim4.c" path="ub_lib/pwm_tim4/stm32_ub_pwm_tim4.c" type="1"/>
+    <File name="cmsis_lib/source" path="" type="2"/>
+    <File name="cmsis_lib/include/stm32f4xx_gpio.h" path="cmsis_lib/include/stm32f4xx_gpio.h" type="1"/>
     <File name="cmsis_boot" path="" type="2"/>
-    <File name="cmsis_lib/include/stm32_ub_pwm_tim4.h" path="ub_lib/pwm_tim4/stm32_ub_pwm_tim4.h" type="1"/>
-    <File name="cmsis_lib/source/stm32_ub_led.c" path="../../Demo_55_Timer/ub_lib/stm32_ub_led.c" type="1"/>
-    <File name="cmsis/core_cm4_simd.h" path="cmsis/core_cm4_simd.h" type="1"/>
-    <File name="cmsis_boot/startup" path="" type="2"/>
+    <File name="syscalls" path="" type="2"/>
+    <File name="cmsis_boot/stm32f4xx_conf.h" path="cmsis_boot/stm32f4xx_conf.h" type="1"/>
+    <File name="cmsis_boot/system_stm32f4xx.h" path="cmsis_boot/system_stm32f4xx.h" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_adc.h" path="cmsis_lib/include/stm32f4xx_adc.h" type="1"/>
     <File name="cmsis_boot/stm32f4xx.h" path="cmsis_boot/stm32f4xx.h" type="1"/>
+    <File name="cmsis_boot/startup" path="" type="2"/>
+    <File name="cmsis/core_cm4_simd.h" path="cmsis/core_cm4_simd.h" type="1"/>
+    <File name="cmsis_lib/include" path="" type="2"/>
     <File name="cmsis/core_cmFunc.h" path="cmsis/core_cmFunc.h" type="1"/>
     <File name="cmsis/core_cm4.h" path="cmsis/core_cm4.h" type="1"/>
     <File name="cmsis_boot/system_stm32f4xx.c" path="cmsis_boot/system_stm32f4xx.c" type="1"/>
-    <File name="cmsis_lib/source/stm32_ub_systick.c" path="ub_lib/systick/stm32_ub_systick.c" type="1"/>
-    <File name="cmsis_lib/include/stm32_ub_led.h" path="../../Demo_55_Timer/ub_lib/stm32_ub_led.h" type="1"/>
-    <File name="cmsis" path="" type="2"/>
-    <File name="cmsis_lib/source/misc.c" path="cmsis_lib/source/misc.c" type="1"/>
-    <File name="cmsis_lib/include/stm32f4xx_tim.h" path="cmsis_lib/include/stm32f4xx_tim.h" type="1"/>
-    <File name="cmsis_lib" path="" type="2"/>
-    <File name="cmsis_lib/include/stm32_ub_systick.h" path="ub_lib/systick/stm32_ub_systick.h" type="1"/>
-    <File name="syscalls/syscalls.c" path="syscalls/syscalls.c" type="1"/>
-    <File name="cmsis_lib/include/main.h" path="../../Demo_55_Timer/main.h" type="1"/>
-    <File name="cmsis_lib/source" path="" type="2"/>
-    <File name="cmsis_lib/source/stm32f4xx_tim.c" path="cmsis_lib/source/stm32f4xx_tim.c" type="1"/>
-    <File name="cmsis_lib/include/stm32f4xx_gpio.h" path="cmsis_lib/include/stm32f4xx_gpio.h" type="1"/>
-    <File name="cmsis_lib/source/stm32_ub_tim2.c" path="ub_lib/timer2/stm32_ub_tim2.c" type="1"/>
-    <File name="syscalls" path="" type="2"/>
-    <File name="cmsis_lib/include/misc.h" path="cmsis_lib/include/misc.h" type="1"/>
-    <File name="cmsis_boot/stm32f4xx_conf.h" path="cmsis_boot/stm32f4xx_conf.h" type="1"/>
-    <File name="cmsis_boot/system_stm32f4xx.h" path="cmsis_boot/system_stm32f4xx.h" type="1"/>
-    <File name="cmsis_lib/include" path="" type="2"/>
-    <File name="cmsis_lib/include/stm32_ub_tim2.h" path="ub_lib/timer2/stm32_ub_tim2.h" type="1"/>
     <File name="cmsis_lib/include/stm32f4xx_rcc.h" path="cmsis_lib/include/stm32f4xx_rcc.h" type="1"/>
     <File name="main.c" path="main.c" type="1"/>
   </Files>
