@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\lib_stm by UB\Demo_28_EXTI\cmsis_boot -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\lib_stm by UB\Demo_28_EXTI\cmsis_lib\include -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\lib_stm by UB\Demo_28_EXTI -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\lib_stm by UB\Demo_28_EXTI\cmsis_lib -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\lib_stm by UB -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\lib_stm by UB\Demo_28_EXTI\cmsis -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\lib_stm by UB\Demo_28_EXTI\ub_lib">
+      <target file="stm32f4xx_gpio.o" lastModified="1564e99ac9f">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="13dc3c43a90"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="1564e99ade7">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="13dc3c43a90"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="1564e99a491">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="13dc3c43a90"/>
+      </target>
+      <target file="stm32f4xx_exti.o" lastModified="1564e99af4f">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_exti.c" lastModified="13dc3c70180"/>
+      </target>
+      <target file="stm32f4xx_syscfg.o" lastModified="1564e99a368">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_syscfg.c" lastModified="13dc3c72890"/>
+      </target>
+      <target file="stm32_ub_led.o" lastModified="1564e99a608">
+         <source file="..\..\..\ub_lib\stm32_ub_led.c" lastModified="13cc44cd860"/>
+      </target>
+      <target file="main.o" lastModified="1564e99a750">
+         <source file="..\..\..\main.c" lastModified="13dc918b340"/>
+      </target>
+      <target file="stm32_ub_ext_int0.o" lastModified="1564e99aaea">
+         <source file="..\..\..\ub_lib\stm32_ub_ext_int0.c" lastModified="13dc918b340"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="1564e99a992">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="13dc3c43a90"/>
+      </target>
+      <target file="misc.o" lastModified="1564e99b097">
+         <source file="..\..\..\cmsis_lib\source\misc.c" lastModified="13dc3c74000"/>
+      </target>
+   </processor>
+</history>
