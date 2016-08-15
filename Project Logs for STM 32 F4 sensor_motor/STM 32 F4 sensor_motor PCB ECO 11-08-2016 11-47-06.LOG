@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Member From Class: ClassName=STM 32 F4 sensor_motor Member=C1
+Removed Member From Class: ClassName=STM 32 F4 sensor_motor Member=pot10k
+Change Component Designator: OldDesignator=C2 NewDesignator=10uF
+Added Component: Designator=100uF(My_cap100n)
+Added Component: Designator=pot(HDR1X5)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=spd_ctl(My_CN2)
+Added Pin To Net: NetName=GND Pin=100uF-1
+Added Pin To Net: NetName=Net10v_2 Pin=pot-1
+Added Pin To Net: NetName=GND Pin=pot-5
+Added Pin To Net: NetName=Netop-amp1_1 Pin=R3-1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=Net10uF_2
+Added Pin To Net: NetName=Net100uF_2 Pin=100uF-2
+Added Pin To Net: NetName=Net100uF_2 Pin=regulator-1
+Added Pin To Net: NetName=Net100uF_2 Pin=switch-2
+Added Net: Name=Net100uF_2
+Added Pin To Net: NetName=Netpot_3 Pin=pot-3
+Added Pin To Net: NetName=Netpot_3 Pin=spd_ctl-1
+Added Net: Name=Netpot_3
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=spd_ctl-2
+Added Net: Name=NetR3_2
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component 100uF Cap
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component pot Header 5
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component R3 Res1
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component spd_ctl CON2 pin blue

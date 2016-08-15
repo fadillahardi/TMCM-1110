@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C1-+
+Removed Pin From Net: NetName=GND Pin=C2-+
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap Pol New DesignItemId=Cap ceramic
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap Pol New DesignItemId=Cap ceramic
+Change Component Footprint: Designator=C1 Old Footprint=My_cap3300u New Footprint=My_cap100n
+Change Component Footprint: Designator=C2 Old Footprint=My_cap3300u New Footprint=My_cap100n
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=regulator-1
+Added Pin To Net: NetName=NetC1_2 Pin=switch-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=HV-3
+Added Pin To Net: NetName=NetC2_2 Pin=regulator-3
+Added Net: Name=NetC2_2

@@ -1,6 +1,8 @@
 //#include <math.h>
 int sensor1 = A3;
 int sensor2 = A2;
+int motor = A1;
+int cobapin=13;
 //const float R_pullup = 10000;
 //const float res_def = 10000;
 //const float temp_def = 25;
@@ -12,6 +14,8 @@ void setup() {
   Serial.begin(38400);
   pinMode(sensor1, INPUT);
   pinMode(sensor2, INPUT);
+  pinMode(motor,OUTPUT);
+  pinMode(cobapin,OUTPUT);
 
 }
 
@@ -94,9 +98,28 @@ void FlowSensor()
   
 }
 
+void motorFull(){
+  analogWrite(motor,255);
+  delay(100);
+  analogWrite(motor,0);
+  delay(100);
+}
+
 void loop() {
   // put your main code here, to run repeatedly:
-  TempSensor();
+  //TempSensor();
+  //motorFull();
+  //delay(100);
+  analogWrite(motor,100);
+  delay(2000);
+  analogWrite(motor,150);
+  delay(2000);
+  analogWrite(motor,200);
+  delay(2000);
+  analogWrite(motor,150);
+  delay(2000);
+  analogWrite(motor,100);
+  delay(2000);
   
   
 }

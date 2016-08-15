@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=cobaADC.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\cobaADC -TC:\CooCox\CoIDE\configuration\ProgramData\cobaADC/arm-gcc-link.ld -g">
+      <target file="cobaADC.elf" lastModified="1567dbbc64d">
+         <source file="..\obj\stm32f4xx_dac.o" lastModified="156775ebb0c"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="156775ebc06"/>
+         <source file="..\obj\main.o" lastModified="1567dbbc145"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="156775ebf51"/>
+         <source file="..\obj\stm32f4xx_adc.o" lastModified="156775ec145"/>
+         <source file="..\obj\stm32_ub_systick.o" lastModified="1567c9011c5"/>
+         <source file="..\obj\stm32_ub_adc1_single.o" lastModified="1567dbbc2e8"/>
+         <source file="..\obj\stm32_ub_dac.o" lastModified="156775ec443"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="156775ec608"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="156775ec79e"/>
+         <source file="..\obj\syscalls.o" lastModified="156775eca00"/>
+      </target>
+   </processor>
+</history>

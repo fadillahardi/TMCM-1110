@@ -23,10 +23,12 @@
 typedef enum {
   ADC_PA3 = 0,  // PA3
   ADC_PC4 = 1,  // PC4
-  ADC_PC5 = 2   // PC5
+  ADC_PC5 = 2,   // PC5
+  ADC_PC0 = 3,
+  ADC_PC1 = 4
 }ADC1s_NAME_t;
 
-#define  ADC1s_ANZ   3 // Anzahl von ADC1s_NAME_t
+#define  ADC1s_ANZ   5 // Anzahl von ADC1s_NAME_t
 
 
 //--------------------------------------------------------------

@@ -1,0 +1,263 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=COLOUR SENSOR-1
+Removed Pin From Net: NetName=VCC Pin=COLOUR SENSOR-2
+Removed Pin From Net: NetName=GND Pin=DPow-2
+Removed Pin From Net: NetName=VCC Pin=F1-2
+Removed Pin From Net: NetName=VCC Pin=GET_FIRE-1
+Removed Pin From Net: NetName=GND Pin=I2C-1
+Removed Pin From Net: NetName=VCC Pin=I2C-2
+Removed Pin From Net: NetName=GND Pin=INT2-1
+Removed Pin From Net: NetName=VCC Pin=INT2-2
+Removed Pin From Net: NetName=GND Pin=KIPAS-1
+Removed Pin From Net: NetName=VCC Pin=KIPAS-2
+Removed Pin From Net: NetName=NetKANAN2_40 Pin=KIPAS-3
+Removed Pin From Net: NetName=GND Pin=KIPAS_2-1
+Removed Pin From Net: NetName=VCC Pin=KIPAS_2-2
+Removed Pin From Net: NetName=GND Pin=LCD-1
+Removed Pin From Net: NetName=VCC Pin=LCD-2
+Removed Pin From Net: NetName=NetKIRI2_27 Pin=LCD-3
+Removed Pin From Net: NetName=GND Pin=LCD-4
+Removed Pin From Net: NetName=NetKIRI2_30 Pin=LCD-5
+Removed Pin From Net: NetName=NetKIRI2_29 Pin=LCD-7
+Removed Pin From Net: NetName=NetKIRI2_32 Pin=LCD-8
+Removed Pin From Net: NetName=NetKIRI2_31 Pin=LCD-9
+Removed Pin From Net: NetName=NetKIRI2_34 Pin=LCD-10
+Removed Pin From Net: NetName=GND Pin=MODE-1
+Removed Pin From Net: NetName=VCC Pin=MODE-2
+Removed Pin From Net: NetName=NetKANAN2_17 Pin=MODE-3
+Removed Pin From Net: NetName=NetKANAN2_16 Pin=MODE-4
+Removed Pin From Net: NetName=NetKANAN2_15 Pin=MODE-5
+Removed Pin From Net: NetName=NetKANAN2_14 Pin=MODE-6
+Removed Pin From Net: NetName=GND Pin=P4-1
+Removed Pin From Net: NetName=NetKIRI2_13 Pin=P4-2
+Removed Pin From Net: NetName=NetKIRI2_14 Pin=P4-3
+Removed Pin From Net: NetName=VCC Pin=PC1-1
+Removed Pin From Net: NetName=GND Pin=PC1-2
+Removed Pin From Net: NetName=VCC Pin=PC2-1
+Removed Pin From Net: NetName=GND Pin=PC2-2
+Removed Pin From Net: NetName=VCC Pin=PC3-1
+Removed Pin From Net: NetName=GND Pin=PC3-2
+Removed Pin From Net: NetName=GND Pin=PCUBEC-2
+Removed Pin From Net: NetName=NetKIRI2_16 Pin=PIXY-3
+Removed Pin From Net: NetName=NetKANAN2_20 Pin=PIXY-5
+Removed Pin From Net: NetName=NetKIRI2_15 Pin=PIXY-7
+Removed Pin From Net: NetName=NetKANAN2_19 Pin=PIXY-9
+Removed Pin From Net: NetName=GND Pin=PIXY-10
+Removed Pin From Net: NetName=GND Pin=PROX1-1
+Removed Pin From Net: NetName=VCC Pin=PROX1-2
+Removed Pin From Net: NetName=NetKANAN2_13 Pin=PROX1-3
+Removed Pin From Net: NetName=GND Pin=PROX2-1
+Removed Pin From Net: NetName=VCC Pin=PROX2-2
+Removed Pin From Net: NetName=NetKANAN2_12 Pin=PROX2-3
+Removed Pin From Net: NetName=GND Pin=PROX3-1
+Removed Pin From Net: NetName=VCC Pin=PROX3-2
+Removed Pin From Net: NetName=NetKIRI2_26 Pin=PROX3-3
+Removed Pin From Net: NetName=GND Pin=PROX4-1
+Removed Pin From Net: NetName=VCC Pin=PROX4-2
+Removed Pin From Net: NetName=NetKIRI2_25 Pin=PROX4-3
+Removed Pin From Net: NetName=GND Pin=PROX5-1
+Removed Pin From Net: NetName=VCC Pin=PROX5-2
+Removed Pin From Net: NetName=NetKIRI2_28 Pin=PROX5-3
+Removed Pin From Net: NetName=VCC Pin=R5-2
+Removed Pin From Net: NetName=VCC Pin=R6-2
+Removed Pin From Net: NetName=NetKANAN2_20 Pin=R7-1
+Removed Pin From Net: NetName=VCC Pin=R7-2
+Removed Pin From Net: NetName=NetKANAN2_19 Pin=R8-1
+Removed Pin From Net: NetName=VCC Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=RESET-1
+Removed Pin From Net: NetName=VCC Pin=Rint1-1
+Removed Pin From Net: NetName=VCC Pin=Rint2-1
+Removed Pin From Net: NetName=VCC Pin=Rint3-1
+Removed Pin From Net: NetName=VCC Pin=Rint4-1
+Removed Pin From Net: NetName=VCC Pin=Rkip-1
+Removed Pin From Net: NetName=NetKANAN2_40 Pin=Rkip-2
+Removed Pin From Net: NetName=VCC Pin=RPow-1
+Removed Pin From Net: NetName=VCC Pin=RReset2-2
+Removed Pin From Net: NetName=VCC Pin=RSound-1
+Removed Pin From Net: NetName=NetKANAN2_11 Pin=RSound-2
+Removed Pin From Net: NetName=VCC Pin=RStart-1
+Removed Pin From Net: NetName=NetKANAN2_10 Pin=RStart-2
+Removed Pin From Net: NetName=GND Pin=SOUND-1
+Removed Pin From Net: NetName=VCC Pin=SOUND-2
+Removed Pin From Net: NetName=NetKANAN2_11 Pin=SOUND-3
+Removed Pin From Net: NetName=GND Pin=SRF 10-1
+Removed Pin From Net: NetName=VCC Pin=SRF 10-2
+Removed Pin From Net: NetName=GND Pin=START-1
+Removed Pin From Net: NetName=NetKANAN2_10 Pin=START-2
+Removed Pin From Net: NetName=GND Pin=STOP-2
+Removed Pin From Net: NetName=GND Pin=TPA8-1
+Removed Pin From Net: NetName=VCC Pin=TPA8-2
+Removed Pin From Net: NetName=GND Pin=USART3-1
+Removed Pin From Net: NetName=NetKIRI2_39 Pin=USART3-2
+Removed Pin From Net: NetName=NetKIRI2_42 Pin=USART3-3
+Removed Pin From Net: NetName=GND Pin=UV-TR1-1
+Removed Pin From Net: NetName=VCC Pin=UV-TR1-2
+Removed Pin From Net: NetName=GND Pin=UV-TR-1
+Removed Pin From Net: NetName=VCC Pin=UV-TR-2
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=COLOUR SENSOR
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=Dint1
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=Dint2
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=Dint3
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=Dint4
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=DPow
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=F1
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=GET_FIRE
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=I2C
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=INT2
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=JP1
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=KIPAS_2
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=KIPAS
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=LCD
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=MODE
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=P4
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=PC1
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=PC2
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=PC3
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=PCUBEC
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=PIXY
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=PROX1
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=PROX2
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=PROX3
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=PROX4
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=PROX5
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=R5
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=R6
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=R7
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=R8
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=RESET
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=Rint1
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=Rint2
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=Rint3
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=Rint4
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=Rkip
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=RPow
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=RReset2
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=RSound
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=RStart
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=S1
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=SOUND
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=SRF 10
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=START
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=STOP
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=TPA8
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=USART3
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=UV-TR1
+Removed Member From Class: ClassName=STM 32 F4 Robusta V1 Member=UV-TR
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap New DesignItemId=Cap Pol
+Change Component Footprint: Designator=C1 Old Footprint=C1206 New Footprint=My_cap3300u
+Change Component Comment : Designator=C1 Old Comment=100nF New Comment=Cap
+Added Component: Designator=10v(My_CN2)
+Added Component: Designator=C2(My_cap3300u)
+Added Component: Designator=HV(HDR1X6)
+Added Component: Designator=LV(HDR1X6)
+Added Component: Designator=op-amp1(P008)
+Added Component: Designator=pot10k(VR5)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=regulator(My_TO-220)
+Added Component: Designator=switch(SPST-2)
+Added Pin To Net: NetName=GND Pin=10v-1
+Added Pin To Net: NetName=GND Pin=C1-+
+Added Pin To Net: NetName=GND Pin=C2-+
+Added Pin To Net: NetName=GND Pin=HV-4
+Added Pin To Net: NetName=NetKIRI2_15 Pin=LV-2
+Added Pin To Net: NetName=NetKANAN2_5 Pin=LV-3
+Added Pin To Net: NetName=GND Pin=LV-4
+Added Pin To Net: NetName=GND Pin=op-amp1-4
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=regulator-2
+Added Pin To Net: NetName=Net10v_2 Pin=10v-2
+Added Pin To Net: NetName=Net10v_2 Pin=op-amp1-8
+Added Pin To Net: NetName=Net10v_2 Pin=switch-1
+Added Net: Name=Net10v_2
+Added Pin To Net: NetName=NetC1_- Pin=C1--
+Added Pin To Net: NetName=NetC1_- Pin=regulator-1
+Added Pin To Net: NetName=NetC1_- Pin=switch-2
+Added Net: Name=NetC1_-
+Added Pin To Net: NetName=NetC2_- Pin=C2--
+Added Pin To Net: NetName=NetC2_- Pin=HV-3
+Added Pin To Net: NetName=NetC2_- Pin=regulator-3
+Added Net: Name=NetC2_-
+Added Pin To Net: NetName=NetHV_1 Pin=HV-1
+Added Pin To Net: NetName=NetHV_1 Pin=HV-5
+Added Pin To Net: NetName=NetHV_1 Pin=HV-6
+Added Pin To Net: NetName=NetHV_1 Pin=LV-1
+Added Pin To Net: NetName=NetHV_1 Pin=LV-5
+Added Pin To Net: NetName=NetHV_1 Pin=LV-6
+Added Net: Name=NetHV_1
+Added Pin To Net: NetName=NetHV_2 Pin=HV-2
+Added Pin To Net: NetName=NetHV_2 Pin=op-amp1-3
+Added Net: Name=NetHV_2
+Added Pin To Net: NetName=NetKANAN2_32 Pin=KANAN2-32
+Added Pin To Net: NetName=NetKANAN2_32 Pin=KANAN-32
+Added Net: Name=NetKANAN2_32
+Added Pin To Net: NetName=NetKANAN2_33 Pin=KANAN2-33
+Added Pin To Net: NetName=NetKANAN2_33 Pin=KANAN-33
+Added Net: Name=NetKANAN2_33
+Added Pin To Net: NetName=NetKANAN2_34 Pin=KANAN2-34
+Added Pin To Net: NetName=NetKANAN2_34 Pin=KANAN-34
+Added Net: Name=NetKANAN2_34
+Added Pin To Net: NetName=NetKANAN2_35 Pin=KANAN2-35
+Added Pin To Net: NetName=NetKANAN2_35 Pin=KANAN-35
+Added Net: Name=NetKANAN2_35
+Added Pin To Net: NetName=NetKANAN2_37 Pin=KANAN2-37
+Added Pin To Net: NetName=NetKANAN2_37 Pin=KANAN-37
+Added Net: Name=NetKANAN2_37
+Added Pin To Net: NetName=NetKANAN2_38 Pin=KANAN2-38
+Added Pin To Net: NetName=NetKANAN2_38 Pin=KANAN-38
+Added Net: Name=NetKANAN2_38
+Added Pin To Net: NetName=NetKANAN2_41 Pin=KANAN2-41
+Added Pin To Net: NetName=NetKANAN2_41 Pin=KANAN-41
+Added Net: Name=NetKANAN2_41
+Added Pin To Net: NetName=NetKIRI2_5 Pin=KIRI2-5
+Added Pin To Net: NetName=NetKIRI2_5 Pin=KIRI-5
+Added Net: Name=NetKIRI2_5
+Added Pin To Net: NetName=NetKIRI2_7 Pin=KIRI2-7
+Added Pin To Net: NetName=NetKIRI2_7 Pin=KIRI-7
+Added Net: Name=NetKIRI2_7
+Added Pin To Net: NetName=NetKIRI2_8 Pin=KIRI2-8
+Added Pin To Net: NetName=NetKIRI2_8 Pin=KIRI-8
+Added Net: Name=NetKIRI2_8
+Added Pin To Net: NetName=NetKIRI2_9 Pin=KIRI2-9
+Added Pin To Net: NetName=NetKIRI2_9 Pin=KIRI-9
+Added Net: Name=NetKIRI2_9
+Added Pin To Net: NetName=NetKIRI2_10 Pin=KIRI2-10
+Added Pin To Net: NetName=NetKIRI2_10 Pin=KIRI-10
+Added Net: Name=NetKIRI2_10
+Added Pin To Net: NetName=NetKIRI2_17 Pin=KIRI2-17
+Added Pin To Net: NetName=NetKIRI2_17 Pin=KIRI-17
+Added Net: Name=NetKIRI2_17
+Added Pin To Net: NetName=NetKIRI2_18 Pin=KIRI2-18
+Added Pin To Net: NetName=NetKIRI2_18 Pin=KIRI-18
+Added Net: Name=NetKIRI2_18
+Added Pin To Net: NetName=NetKIRI2_19 Pin=KIRI2-19
+Added Pin To Net: NetName=NetKIRI2_19 Pin=KIRI-19
+Added Net: Name=NetKIRI2_19
+Added Pin To Net: NetName=NetKIRI2_20 Pin=KIRI2-20
+Added Pin To Net: NetName=NetKIRI2_20 Pin=KIRI-20
+Added Net: Name=NetKIRI2_20
+Added Pin To Net: NetName=NetKIRI2_33 Pin=KIRI2-33
+Added Pin To Net: NetName=NetKIRI2_33 Pin=KIRI-33
+Added Net: Name=NetKIRI2_33
+Added Pin To Net: NetName=NetKIRI2_36 Pin=KIRI2-36
+Added Pin To Net: NetName=NetKIRI2_36 Pin=KIRI-36
+Added Net: Name=NetKIRI2_36
+Added Pin To Net: NetName=Netop-amp1_1 Pin=op-amp1-1
+Added Pin To Net: NetName=Netop-amp1_1 Pin=R1-2
+Added Net: Name=Netop-amp1_1
+Added Pin To Net: NetName=Netop-amp1_2 Pin=op-amp1-2
+Added Pin To Net: NetName=Netop-amp1_2 Pin=R1-1
+Added Pin To Net: NetName=Netop-amp1_2 Pin=R2-2
+Added Net: Name=Netop-amp1_2
+Change Class Name : Old Net Name=STM 32 F4 Robusta V1 New Net Name=STM 32 F4 sensor_motor
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component 10v CON2 pin blue
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component C2 Cap
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component HV Header 6
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component LV Header 6
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component op-amp1 LM358P
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component pot10k RPot
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component R1 Res1
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component R2 Res1
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component regulator 7805
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component switch SW-SPST
+Added Room: Name=STM 32 F4 sensor_motor
