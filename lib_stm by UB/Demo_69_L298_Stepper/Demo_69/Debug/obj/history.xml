@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\lib_stm by UB\Demo_69_L298_Stepper\cmsis_lib\include -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\lib_stm by UB\Demo_69_L298_Stepper -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\lib_stm by UB\Demo_69_L298_Stepper\ub_lib -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\lib_stm by UB\Demo_69_L298_Stepper\cmsis_lib -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\lib_stm by UB\Demo_69_L298_Stepper\cmsis -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\lib_stm by UB -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\lib_stm by UB\Demo_69_L298_Stepper\cmsis_boot">
+      <target file="stm32_ub_l298_stepper.o" lastModified="15691035704">
+         <source file="..\..\..\ub_lib\stm32_ub_l298_stepper.c" lastModified="142cc126190"/>
+      </target>
+      <target file="stm32f4xx_tim.o" lastModified="15691036262">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="142cc1697b0"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="15691035b66">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="142cc148c40"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="15691035e06">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="142cc148c40"/>
+      </target>
+      <target file="misc.o" lastModified="15691035f42">
+         <source file="..\..\..\cmsis_lib\source\misc.c" lastModified="142cc16af20"/>
+      </target>
+      <target file="stm32f4xx_gpio.o" lastModified="15691035cde">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="142cc148c40"/>
+      </target>
+      <target file="main.o" lastModified="15691560e18">
+         <source file="..\..\..\main.c" lastModified="1569128d731"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="1569103580b">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="142cc148c40"/>
+      </target>
+   </processor>
+</history>

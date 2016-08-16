@@ -24,11 +24,11 @@
 //--------------------------------------------------------------
 ADC1s_t ADC1s[] = {
   //NAME  ,PORT , PIN      , CLOCK              , Kanal        , Mittelwerte
-  {ADC_PA3,GPIOA,GPIO_Pin_3,RCC_AHB1Periph_GPIOA,ADC_Channel_3 ,MW_32},   // ADC an PA3 = ADC123_IN3
-  {ADC_PC4,GPIOC,GPIO_Pin_4,RCC_AHB1Periph_GPIOC,ADC_Channel_14,MW_64},   // ADC an PC4 = ADC12_IN14
-  {ADC_PC5,GPIOC,GPIO_Pin_5,RCC_AHB1Periph_GPIOC,ADC_Channel_15,MW_NONE}, // ADC an PC5 = ADC12_IN15
-  {ADC_PC0,GPIOC,GPIO_Pin_0,RCC_AHB1Periph_GPIOA,ADC_Channel_10 ,MW_NONE},
-  {ADC_PC1,GPIOC,GPIO_Pin_1,RCC_AHB1Periph_GPIOA,ADC_Channel_11 ,MW_NONE},
+  {ADC_PC0,GPIOC,GPIO_Pin_0,RCC_AHB1Periph_GPIOC,ADC_Channel_10 ,MW_128},   // ADC an PA3 = ADC123_IN3
+  {ADC_PC1,GPIOC,GPIO_Pin_1,RCC_AHB1Periph_GPIOC,ADC_Channel_11 ,MW_NONE},   // ADC an PC4 = ADC12_IN14
+  {ADC_PC2,GPIOC,GPIO_Pin_2,RCC_AHB1Periph_GPIOC,ADC_Channel_12 ,MW_NONE}, // ADC an PC5 = ADC12_IN15
+  {ADC_PC3,GPIOC,GPIO_Pin_3,RCC_AHB1Periph_GPIOC,ADC_Channel_13 ,MW_NONE},
+  {ADC_PC4,GPIOC,GPIO_Pin_4,RCC_AHB1Periph_GPIOC,ADC_Channel_14 ,MW_NONE},
 };
 
 

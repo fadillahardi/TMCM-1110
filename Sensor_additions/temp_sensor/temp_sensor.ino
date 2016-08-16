@@ -107,7 +107,7 @@ void motorFull(){
 
 void loop() {
   // put your main code here, to run repeatedly:
-  //TempSensor();
+  TempSensor();
   //motorFull();
   //delay(100);
   analogWrite(motor,100);

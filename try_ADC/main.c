@@ -5,6 +5,9 @@
 #include "stm32_ub_systick.h"
 
 GPIO_InitTypeDef gpio_InitDef;
+uint16_t value;
+uint16_t Flow;
+uint16_t Temp;
 
 
 int main(void)
@@ -21,9 +24,7 @@ int main(void)
 	gpio_InitDef.GPIO_Speed = GPIO_Speed_100MHz;
 	GPIO_Init(GPIOD, &gpio_InitDef);
 
-	uint16_t value;
-	uint16_t Flow;
-	uint16_t Temp;
+
     SystemInit();
     UB_ADC1_SINGLE_Init();
     UB_DAC_Init(SINGLE_DAC1);
@@ -32,13 +33,14 @@ int main(void)
     while(1)
     {
     	//reading sensors
-    	Temp = UB_ADC1_SINGLE_Read(ADC_PC1);
-    	Flow = UB_ADC1_SINGLE_Read(ADC_PC0);
+    	//Temp = UB_ADC1_SINGLE_Read_MW(ADC_PC0);
+    	Flow = UB_ADC1_SINGLE_Read(ADC_PC1);
 
     	//this is dac code for pin PA4, 0 to 3.3V
     	for(value = 0;value<4096;value++){
     		UB_DAC_SetDAC1(value);
-    		UB_Systick_Pause_ms(5);
+    		Temp = UB_ADC1_SINGLE_Read_MW(ADC_PC0);
+    		UB_Systick_Pause_ms(20);
 
     	}
     }

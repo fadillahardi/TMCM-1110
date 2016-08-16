@@ -21,11 +21,11 @@
 // (keine Nummer doppelt und von 0 beginnend)
 //--------------------------------------------------------------
 typedef enum {
-  ADC_PA3 = 0,  // PA3
-  ADC_PC4 = 1,  // PC4
-  ADC_PC5 = 2,   // PC5
-  ADC_PC0 = 3,
-  ADC_PC1 = 4
+  ADC_PC0 = 0,  // PA3
+  ADC_PC1 = 1,  // PC4
+  ADC_PC2 = 2,   // PC5
+  ADC_PC3 = 3,
+  ADC_PC4 = 4
 }ADC1s_NAME_t;
 
 #define  ADC1s_ANZ   5 // Anzahl von ADC1s_NAME_t
@@ -54,8 +54,8 @@ typedef enum {
 // Moegliche Vorteiler = 2,4,6,8
 //--------------------------------------------------------------
 
-//#define ADC1s_VORTEILER     ADC_Prescaler_Div2 // Frq = 42 MHz
-#define ADC1s_VORTEILER     ADC_Prescaler_Div4   // Frq = 21 MHz
+#define ADC1s_VORTEILER     ADC_Prescaler_Div2 // Frq = 42 MHz
+//#define ADC1s_VORTEILER     ADC_Prescaler_Div4   // Frq = 21 MHz
 //#define ADC1s_VORTEILER     ADC_Prescaler_Div6 // Frq = 14 MHz
 //#define ADC1s_VORTEILER     ADC_Prescaler_Div8 // Frq = 10.5 MHz
 
