@@ -110,16 +110,7 @@ void loop() {
   TempSensor();
   //motorFull();
   //delay(100);
-  analogWrite(motor,100);
-  delay(2000);
-  analogWrite(motor,150);
-  delay(2000);
-  analogWrite(motor,200);
-  delay(2000);
-  analogWrite(motor,150);
-  delay(2000);
-  analogWrite(motor,100);
-  delay(2000);
+  
   
   
 }

@@ -21,8 +21,6 @@
 <part id="3"/>
 <part id="4"/>
 <part id="5"/>
-<part id="6"/>
-<part id="7"/>
 </presentation>
 </folder>
 </info>
@@ -32,32 +30,25 @@
 </input>
 </editor>
 <editor id="org.coocox.builder.ui.editors.repository.RepositoryBrowser" name="Repository" partName="Repository" title="Repository" tooltip="Repository" workbook="DefaultEditorWorkbook">
-<input factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory">&#x0A;<subPage horizontalPosition="0" selectedItemId="515" subPageIndex="2" verticalPosition="299"/>
+<input factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory">
+<subPage horizontalPosition="0" selectedItemId="986" subPageIndex="4" verticalPosition="666"/>
 </input>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/try_ADC/main.c" title="main.c" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/try_ADC/main.c" workbook="DefaultEditorWorkbook">
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/try_ADC/main.c" title="main.c" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/try_ADC/main.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/cobaADC/main.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="933" selectionTopPixel="330"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_adc.c" partName="stm32f4xx_adc.c" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/try_ADC/cmsis_lib/source/stm32f4xx_adc.c" title="stm32f4xx_adc.c" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/try_ADC/cmsis_lib/source/stm32f4xx_adc.c" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/cobaADC/cmsis_lib/source/stm32f4xx_adc.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="6885"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_dac.c" partName="stm32_ub_dac.c" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/try_ADC/cmsis_lib/source/stm32_ub_dac.c" title="stm32_ub_dac.c" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/try_ADC/cmsis_lib/source/stm32_ub_dac.c" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/cobaADC/cmsis_lib/source/stm32_ub_dac.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1824" selectionTopPixel="2084"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="10" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_adc1_single.c" partName="stm32_ub_adc1_single.c" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/try_ADC/cmsis_lib/source/stm32_ub_adc1_single.c" title="stm32_ub_adc1_single.c" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/try_ADC/cmsis_lib/source/stm32_ub_adc1_single.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/cobaADC/cmsis_lib/source/stm32_ub_adc1_single.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="631" selectionTopPixel="0"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_dac.h" partName="stm32_ub_dac.h" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/try_ADC/cmsis_lib/include/stm32_ub_dac.h" title="stm32_ub_dac.h" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/try_ADC/cmsis_lib/include/stm32_ub_dac.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/cobaADC/cmsis_lib/include/stm32_ub_dac.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="67" selectionLength="0" selectionOffset="1014" selectionTopPixel="248"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_adc1_single.h" partName="stm32_ub_adc1_single.h" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/try_ADC/cmsis_lib/include/stm32_ub_adc1_single.h" title="stm32_ub_adc1_single.h" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/try_ADC/cmsis_lib/include/stm32_ub_adc1_single.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/cobaADC/cmsis_lib/include/stm32_ub_adc1_single.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2781" selectionTopPixel="1027"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1417" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="math.h" partName="math.h" title="math.h" tooltip="C:\Program Files (x86)\GNU Tools ARM Embedded\4.9 2015q3\arm-none-eabi\include\math.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" path="C:\Program Files (x86)\GNU Tools ARM Embedded\4.9 2015q3\arm-none-eabi\include\math.h" project="cobaADC"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3162" selectionTopPixel="2031"/>
 </editor>
 </editors>
 <views>
@@ -71,7 +62,7 @@
 <element path="/cobaADC/syscalls"/>
 </expanded>
 <selection>
-<element path="/cobaADC/cmsis_lib/include/stm32_ub_adc1_single.h"/>
+<element path="/cobaADC/cmsis_lib/include"/>
 </selection>
 </viewState>
 </view>
@@ -88,6 +79,9 @@
 <viewState/>
 </view>
 <view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState/>
+</view>
+<view id="org.coocox.component.ui.Help" partName="Help">
 <viewState/>
 </view>
 </views>
@@ -124,6 +118,7 @@
 <view id="org.coocox.component.ui.ComponentView"/>
 <view id="org.coocox.builder.ui.views.ProjectView"/>
 <view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.coocox.component.ui.Help"/>
 <fastViewBars/>
 <layout>
 <mainWindow>
@@ -141,7 +136,7 @@
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@dfeb8d" ratio="0.8031915" ratioLeft="453" ratioRight="111" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1860e69">
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@dfeb8d" ratio="0.64696485" ratioLeft="405" ratioRight="221" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1860e69">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
@@ -149,15 +144,17 @@
 </presentation>
 </folder>
 </info>
-<info part="org.coocox.builder.ui.exampleView" ratio="0.1904059" ratioLeft="258" ratioRight="1097" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1860e69"/>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@70a979" ratio="0.70140845" ratioLeft="249" ratioRight="106" relationship="2" relative="org.coocox.builder.ui.exampleView">
-<folder appearance="2" expanded="2">
-<page content="org.coocox.component.ui.Help" label="LabelNotFound"/>
+<info part="org.coocox.builder.ui.exampleView" ratio="0.19335793" ratioLeft="262" ratioRight="1093" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1860e69"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@70a979" ratio="0.7651376" ratioLeft="834" ratioRight="256" relationship="2" relative="org.coocox.builder.ui.exampleView">
+<folder activePageID="org.coocox.component.ui.Help" appearance="2" expanded="2">
+<page content="org.coocox.component.ui.Help" label="Help"/>
 <page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
 <page content="org.coocox.coassistant.view.CoAssistantView" label="LabelNotFound"/>
 <page content="org.coocox.builder.ui.MoreExampleView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.4499205" ratioLeft="283" ratioRight="346" relationship="4" relative="org.coocox.builder.ui.exampleView"/>
@@ -270,81 +267,68 @@
 <navigationHistory>
 <editors>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/cobaADC/main.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/cobaADC/cmsis_lib/source/stm32f4xx_adc.c"/>
-<editor factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory" id="org.coocox.builder.ui.editors.repository.RepositoryBrowser">
-<subPage horizontalPosition="0" selectedItemId="515" subPageIndex="2" verticalPosition="299"/>
-</editor>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/cobaADC/cmsis_lib/source/stm32_ub_dac.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/cobaADC/cmsis_lib/source/stm32f4xx_adc.c"/>
+<editor factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="C:\Program Files (x86)\arm-none-eabi-gcc-4_6\arm-none-eabi\include\math.h" project="cobaADC"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/cobaADC/cmsis_lib/include/stm32_ub_adc1_single.h"/>
+<editor factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="C:\Program Files (x86)\arm-none-eabi-gcc-4_6\arm-none-eabi\include\math.h" project="cobaADC"/>
+<editor factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="C:\Program Files (x86)\GNU Tools ARM Embedded\4.9 2015q3\arm-none-eabi\include\math.h" project="cobaADC"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/cobaADC/cmsis_lib/source/stm32_ub_adc1_single.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/cobaADC/cmsis_lib/include/stm32_ub_dac.h"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/cobaADC/main.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/cobaADC/main.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/cobaADC/cmsis_lib/source/stm32_ub_dac.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/cobaADC/cmsis_lib/source/stm32f4xx_adc.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/cobaADC/cmsis_lib/include/stm32_ub_dac.h"/>
+<editor factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory" id="org.coocox.builder.ui.editors.repository.RepositoryBrowser">
+<subPage horizontalPosition="0" selectedItemId="986" subPageIndex="4" verticalPosition="666"/>
+</editor>
 </editors>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="648" y="0"/>
-</item>
-<item historyLabel="stm32f4xx_adc.c" index="1">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="math.h" index="1">
+<position info="not_deleted" x="9426" y="4"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="648" y="0"/>
+<position info="not_deleted" x="1179" y="0"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position/>
+<position info="not_deleted" x="1179" y="0"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="0" y="37"/>
+<position info="not_deleted" x="261" y="1"/>
+</item>
+<item historyLabel="math.h" index="1">
+<position info="not_deleted" x="9426" y="4"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.h" index="2">
+<position info="not_deleted" x="1417" y="0"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="891" y="0"/>
+<position info="not_deleted" x="929" y="0"/>
 </item>
-<item historyLabel="Repository" index="2"/>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="1147" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="732" y="0"/>
+<item historyLabel="math.h" index="1">
+<position info="not_deleted" x="9426" y="4"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="1147" y="0"/>
+<position info="not_deleted" x="1031" y="0"/>
+</item>
+<item historyLabel="math.h" index="1">
+<position info="not_deleted" x="9426" y="4"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="1137" y="0"/>
+<position info="not_deleted" x="1175" y="0"/>
 </item>
-<item historyLabel="stm32_ub_dac.c" index="3">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="stm32f4xx_adc.c" index="4">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="math.h" index="1">
+<position info="not_deleted" x="3584" y="3"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position/>
+<position info="not_deleted" x="1175" y="0"/>
 </item>
-<item historyLabel="stm32_ub_dac.c" index="3">
-<position info="not_deleted" x="2067" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position/>
-</item>
-<item historyLabel="stm32_ub_dac.c" index="3">
-<position info="not_deleted" x="1122" y="0"/>
+<item historyLabel="math.h" index="1">
+<position info="not_deleted" x="3584" y="3"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position/>
+<position info="not_deleted" x="1507" y="0"/>
+</item>
+<item historyLabel="math.h" index="1">
+<position info="not_deleted" x="3584" y="3"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position/>
+<position info="not_deleted" x="1507" y="0"/>
 </item>
-<item historyLabel="stm32_ub_adc1_single.h" index="5">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="stm32_ub_adc1_single.c" index="6">
-<position info="not_deleted" x="381" y="0"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="141" y="0"/>
 </item>
 <item historyLabel="main.c" index="0">
 <position/>
@@ -352,86 +336,91 @@
 <item historyLabel="main.c" index="0">
 <position/>
 </item>
-<item historyLabel="stm32_ub_dac.c" index="3">
-<position info="not_deleted" x="4044" y="0"/>
+<item historyLabel="main.c" index="0">
+<position/>
 </item>
 <item historyLabel="main.c" index="0">
 <position/>
 </item>
-<item historyLabel="stm32_ub_dac.h" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="stm32_ub_dac.c" index="3">
-<position info="not_deleted" x="5231" y="0"/>
-</item>
-<item historyLabel="stm32_ub_dac.h" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="stm32_ub_dac.c" index="3">
-<position info="not_deleted" x="1824" y="0"/>
+<item historyLabel="main.c" index="0">
+<position/>
 </item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="1186" y="0"/>
+<position/>
 </item>
-<item historyLabel="stm32_ub_dac.h" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="stm32_ub_adc1_single.c" index="6">
-<position info="not_deleted" x="858" y="0"/>
-</item>
-<item historyLabel="stm32_ub_adc1_single.h" index="5">
-<position info="not_deleted" x="2781" y="0"/>
-</item>
-<item historyLabel="stm32_ub_adc1_single.c" index="6">
-<position info="not_deleted" x="1011" y="0"/>
+<item historyLabel="math.h" index="3">
+<position info="not_deleted" x="10555" y="0"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="851" y="0"/>
+<position/>
 </item>
-<item historyLabel="stm32_ub_dac.c" index="3">
-<position info="not_deleted" x="1824" y="0"/>
+<item historyLabel="math.h" index="3">
+<position info="not_deleted" x="17199" y="34"/>
 </item>
-<item historyLabel="stm32_ub_adc1_single.c" index="6">
-<position info="not_deleted" x="1011" y="0"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="656" y="0"/>
 </item>
-<item historyLabel="main.c" index="8">
-<position info="not_deleted" x="978" y="0"/>
+<item historyLabel="math.h" index="3">
+<position info="not_deleted" x="17199" y="34"/>
 </item>
-<item historyLabel="stm32_ub_adc1_single.c" index="6">
-<position info="not_deleted" x="1011" y="0"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="656" y="0"/>
 </item>
-<item historyLabel="main.c" index="9">
-<position info="not_deleted" x="205" y="0"/>
+<item historyLabel="main.c" index="0">
+<position/>
 </item>
-<item historyLabel="stm32_ub_adc1_single.c" index="6">
-<position info="not_deleted" x="1048" y="7"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="637" y="0"/>
 </item>
-<item historyLabel="main.c" index="9">
-<position info="not_deleted" x="941" y="0"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1258" y="0"/>
 </item>
-<item historyLabel="stm32_ub_adc1_single.c" index="6">
-<position info="not_deleted" x="1048" y="7"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1256" y="0"/>
 </item>
-<item historyLabel="stm32_ub_dac.c" index="10">
-<position info="not_deleted" x="1824" y="0"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="277" y="0"/>
 </item>
-<item historyLabel="stm32f4xx_adc.c" index="11">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1051" y="0"/>
 </item>
-<item historyLabel="main.c" index="9">
-<position info="not_deleted" x="933" y="0"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="658" y="50"/>
 </item>
-<item historyLabel="stm32_ub_dac.c" index="10">
-<position info="not_deleted" x="1824" y="0"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1070" y="0"/>
 </item>
-<item historyLabel="stm32f4xx_adc.c" index="11">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1144" y="0"/>
 </item>
-<item historyLabel="stm32_ub_adc1_single.c" index="6">
-<position info="not_deleted" x="1116" y="0"/>
+<item historyLabel="math.h" index="3">
+<position info="not_deleted" x="8255" y="0"/>
 </item>
-<item active="true" historyLabel="stm32_ub_dac.h" index="12">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1142" y="3"/>
+</item>
+<item historyLabel="math.h" index="4">
+<position info="not_deleted" x="3478" y="3"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1142" y="3"/>
+</item>
+<item historyLabel="math.h" index="4">
+<position info="not_deleted" x="3478" y="3"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="5">
+<position info="not_deleted" x="1014" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="659" y="46"/>
+</item>
+<item historyLabel="Repository" index="6"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="659" y="46"/>
+</item>
+<item historyLabel="Repository" index="6"/>
+<item active="true" historyLabel="main.c" index="0">
+<position info="not_deleted" x="659" y="46"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -440,6 +429,21 @@
 <actionBarAdvisor/>
 </window>
 <mruList>
+<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="math.h" tooltip="C:\Program Files (x86)\GNU Tools ARM Embedded\4.9 2015q3\arm-none-eabi\include\math.h">
+<persistable path="C:\Program Files (x86)\GNU Tools ARM Embedded\4.9 2015q3\arm-none-eabi\include\math.h" project="cobaADC"/>
+</file>
+<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="math.h" tooltip="C:\Program Files (x86)\arm-none-eabi-gcc-4_6\arm-none-eabi\include\math.h">
+<persistable path="C:\Program Files (x86)\arm-none-eabi-gcc-4_6\arm-none-eabi\include\math.h" project="cobaADC"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Read_ADC1.c" tooltip="trialADC/lib_edit_all_func/Read_ADC1.c">
+<persistable path="/trialADC/lib_edit_all_func/Read_ADC1.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Read_ADC1.h" tooltip="trialADC/lib_edit_all_func/Read_ADC1.h">
+<persistable path="/trialADC/lib_edit_all_func/Read_ADC1.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="trialADC/main.c">
+<persistable path="/trialADC/main.c"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_adc1_single.h" tooltip="cobaADC/cmsis_lib/include/stm32_ub_adc1_single.h">
 <persistable path="/cobaADC/cmsis_lib/include/stm32_ub_adc1_single.h"/>
 </file>
@@ -458,10 +462,6 @@
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="cobaADC/main.c">
 <persistable path="/cobaADC/main.c"/>
 </file>
-<file factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory" id="org.coocox.builder.ui.editors.repository.RepositoryBrowser" name="Repository" tooltip="Repository">
-<persistable>&#x0A;<subPage/>
-</persistable>
-</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_tim.h" tooltip="cobastepper2/cmsis_lib/include/stm32f4xx_tim.h">
 <persistable path="/cobastepper2/cmsis_lib/include/stm32f4xx_tim.h"/>
 </file>
@@ -473,18 +473,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_pwm_tim4.h" tooltip="cobastepper2/cmsis_lib/include/stm32_ub_pwm_tim4.h">
 <persistable path="/cobastepper2/cmsis_lib/include/stm32_ub_pwm_tim4.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_pwm_tim4.c" tooltip="cobastepper2/cmsis_lib/source/stm32_ub_pwm_tim4.c">
-<persistable path="/cobastepper2/cmsis_lib/source/stm32_ub_pwm_tim4.c"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_gpio.h" tooltip="cobastepper2/cmsis_lib/include/stm32f4xx_gpio.h">
-<persistable path="/cobastepper2/cmsis_lib/include/stm32f4xx_gpio.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_tim2.h" tooltip="cobastepper2/cmsis_lib/include/stm32_ub_tim2.h">
-<persistable path="/cobastepper2/cmsis_lib/include/stm32_ub_tim2.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_tim2.h" tooltip="cobastepper2/cmsis_lib/include/stm32_ub_tim2.h">
-<persistable path="/cobastepper2/cmsis_lib/include/stm32_ub_tim2.h"/>
 </file>
 </mruList>
 </workbench>
