@@ -58,13 +58,13 @@ void TempSensor()
   Serial.println(R_read);
   
   float Bxlog = log(R_read/10000);
-  //Serial.print("hasil log = ");
-  //Serial.println(Bxlog);
+  Serial.print("hasil log = ");
+  Serial.println(Bxlog);
   
   float steinhart = 298.15*4268.2146/(4268.2146+(298.15*Bxlog));
   //float steinhart = 298.15*3950/(3950+(298.15*Bxlog));
-  //Serial.print("steinhart T = ");
-  //Serial.println(steinhart);
+  Serial.print("steinhart T = ");
+  Serial.println(steinhart);
   
   float inCelcius = steinhart-273.15;
   Serial.print("in celcius = ");

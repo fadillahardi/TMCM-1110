@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=ADC-DAC-motor_control.map -O0 --gc-sections -lm -lgcc -lc -lnosys -LC:\CooCox\CoIDE\configuration\ProgramData\ADC-DAC-motor_control -TC:\CooCox\CoIDE\configuration\ProgramData\ADC-DAC-motor_control/arm-gcc-link.ld -g">
+      <target file="ADC-DAC-motor_control.elf" lastModified="156a175cad7">
+         <source file="..\obj\stm32f4xx_dac.o" lastModified="156a106d605"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="156a0fda0e8"/>
+         <source file="..\obj\main.o" lastModified="156a1758a34"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="156a106d886"/>
+         <source file="..\obj\stm32f4xx_adc.o" lastModified="156a106db36"/>
+         <source file="..\obj\stm32_ub_systick.o" lastModified="156a106dd58"/>
+         <source file="..\obj\stm32_ub_adc1_single.o" lastModified="156a106deef"/>
+         <source file="..\obj\stm32_ub_dac.o" lastModified="156a106e095"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="156a106e289"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="156a106e42f"/>
+         <source file="..\obj\syscalls.o" lastModified="156a0fdb069"/>
+         <source file="..\obj\misc.o" lastModified="156a106e596"/>
+         <source file="..\obj\stm32_ub_icpwm_tim2.o" lastModified="156a1089c2a"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="156a106ed37"/>
+      </target>
+   </processor>
+</history>

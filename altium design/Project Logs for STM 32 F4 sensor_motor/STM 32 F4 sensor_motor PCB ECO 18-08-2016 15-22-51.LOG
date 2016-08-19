@@ -1,0 +1,35 @@
+Added Component: Designator=555(P008)
+Added Component: Designator=C9(My_cap100n)
+Added Component: Designator=C10(My_cap100n)
+Added Component: Designator=Pw(HDR1X3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Pin To Net: NetName=GND Pin=555-1
+Added Pin To Net: NetName=VCC Pin=555-4
+Added Pin To Net: NetName=VCC Pin=555-8
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=Pw-1
+Added Pin To Net: NetName=Net10uF_2 Pin=Pw-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=Net555_2 Pin=555-2
+Added Pin To Net: NetName=Net555_2 Pin=555-6
+Added Pin To Net: NetName=Net555_2 Pin=C9-2
+Added Pin To Net: NetName=Net555_2 Pin=R3-1
+Added Pin To Net: NetName=Net555_2 Pin=R4-2
+Added Net: Name=Net555_2
+Added Pin To Net: NetName=Net555_3 Pin=555-3
+Added Pin To Net: NetName=Net555_3 Pin=KIRI2-8
+Added Pin To Net: NetName=Net555_3 Pin=KIRI-8
+Added Net: Name=Net555_3
+Added Pin To Net: NetName=Net555_5 Pin=555-5
+Added Pin To Net: NetName=Net555_5 Pin=C10-2
+Added Net: Name=Net555_5
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=Pw-3
+Added Net: Name=NetC9_1
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component 555 NE555P
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component C9 Cap
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component C10 Cap
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component Pw Header 3
+Added Member To Class: ClassName=STM 32 F4 sensor_motor Member=Component R4 Res1

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Modul_sensor_flow\cmsis_lib\include -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Modul_sensor_flow\cmsis_lib -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Modul_sensor_flow\cmsis -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110 -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Modul_sensor_flow -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Modul_sensor_flow\lib_ub -I..\..\..\..\..\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\Modul_sensor_flow\cmsis_boot">
+      <target file="syscalls.o" lastModified="156a0fdb069">
+         <source file="..\..\..\syscalls\syscalls.c" lastModified="156a0f806b7"/>
+      </target>
+      <target file="stm32f4xx_gpio.o" lastModified="156a106e289">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="156a0f8fc45"/>
+      </target>
+      <target file="stm32_ub_dac.o" lastModified="156a106e095">
+         <source file="..\..\..\lib_ub\stm32_ub_dac.c" lastModified="13d961e6840"/>
+      </target>
+      <target file="stm32f4xx_adc.o" lastModified="156a106db36">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_adc.c" lastModified="156a0fa29ca"/>
+      </target>
+      <target file="stm32_ub_systick.o" lastModified="156a106dd58">
+         <source file="..\..\..\lib_ub\stm32_ub_systick.c" lastModified="13d669afc50"/>
+      </target>
+      <target file="stm32_ub_icpwm_tim2.o" lastModified="156a1089c2a">
+         <source file="..\..\..\lib_ub\stm32_ub_icpwm_tim2.c" lastModified="156a10863a5"/>
+      </target>
+      <target file="stm32f4xx_tim.o" lastModified="156a106ed37">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="156a0fa2a38"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="156a106e42f">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="156a0f869b0"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="156a0fda0e8">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="156a0f869a0"/>
+      </target>
+      <target file="main.o" lastModified="156a1758a34">
+         <source file="..\..\..\main.c" lastModified="156a17580fc"/>
+      </target>
+      <target file="stm32_ub_adc1_single.o" lastModified="156a106deef">
+         <source file="..\..\..\lib_ub\stm32_ub_adc1_single.c" lastModified="156926e0b33"/>
+      </target>
+      <target file="stm32f4xx_dac.o" lastModified="156a106d605">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_dac.c" lastModified="156a0fa2a18"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="156a106d886">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="156a0f8ab56"/>
+      </target>
+      <target file="misc.o" lastModified="156a106e596">
+         <source file="..\..\..\cmsis_lib\source\misc.c" lastModified="156a104ba81"/>
+      </target>
+   </processor>
+</history>
