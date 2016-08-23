@@ -35,7 +35,7 @@
 //
 // T2_Frq = TIM_CLK/(vorteiler+1)
 //--------------------------------------------------------------
-#define  ICPWM_TIM2_PRESCALE  83     // prescaler => (83 => T2_Frq = 1 MHz)
+#define  ICPWM_TIM2_PRESCALE  839     // prescaler => (83 => T2_Frq = 1 MHz)
 
 
 

@@ -56,6 +56,7 @@ void TempSensor()
   float R_read = 1000/(convert);
   Serial.print("resistance = ");
   Serial.println(R_read);
+  Serial.println(convert);
   
   float Bxlog = log(R_read/10000);
   Serial.print("hasil log = ");

@@ -20,50 +20,66 @@
 <part id="2"/>
 <part id="3"/>
 <part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
 <editor id="org.coocox.welcome.ui.WelcomePage" name="" partName="welcome" title="welcome" tooltip="" workbook="DefaultEditorWorkbook">
-<input factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory">
-<org.coocox.welcome.ui.WelcomePage/>
+<input factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory">&#x0A;<org.coocox.welcome.ui.WelcomePage/>
 </input>
 </editor>
 <editor id="org.coocox.builder.ui.editors.repository.RepositoryBrowser" name="Repository" partName="Repository" title="Repository" tooltip="Repository" workbook="DefaultEditorWorkbook">
-<input factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory">
-<subPage horizontalPosition="0" selectedItemId="524" subPageIndex="2" verticalPosition="753"/>
+<input factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory">&#x0A;<subPage horizontalPosition="0" selectedItemId="524" subPageIndex="2" verticalPosition="753"/>
 </input>
 </editor>
 <editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/main.c" title="main.c" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/main.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ADC-DAC-motor_control/main.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1388" selectionTopPixel="714"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="560" selectionTopPixel="200"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_icpwm_tim2.h" partName="stm32_ub_icpwm_tim2.h" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/lib_ub/stm32_ub_icpwm_tim2.h" title="stm32_ub_icpwm_tim2.h" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/lib_ub/stm32_ub_icpwm_tim2.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_icpwm_tim2.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="896" selectionTopPixel="282"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="896" selectionTopPixel="799"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_icpwm_tim2.c" partName="stm32_ub_icpwm_tim2.c" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/lib_ub/stm32_ub_icpwm_tim2.c" title="stm32_ub_icpwm_tim2.c" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/lib_ub/stm32_ub_icpwm_tim2.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_icpwm_tim2.c"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2046" selectionTopPixel="858"/>
 </editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_adc1_single.c" partName="stm32_ub_adc1_single.c" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/lib_ub/stm32_ub_adc1_single.c" title="stm32_ub_adc1_single.c" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/lib_ub/stm32_ub_adc1_single.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_adc1_single.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1012" selectionTopPixel="232"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_adc1_single.h" partName="stm32_ub_adc1_single.h" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/lib_ub/stm32_ub_adc1_single.h" title="stm32_ub_adc1_single.h" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/lib_ub/stm32_ub_adc1_single.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_adc1_single.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2368" selectionTopPixel="426"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_adc.h" partName="stm32f4xx_adc.h" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/cmsis_lib/include/stm32f4xx_adc.h" title="stm32f4xx_adc.h" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/cmsis_lib/include/stm32f4xx_adc.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ADC-DAC-motor_control/cmsis_lib/include/stm32f4xx_adc.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="19" selectionOffset="3476" selectionTopPixel="1037"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="math.h" partName="math.h" title="math.h" tooltip="C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q2\arm-none-eabi\include\math.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" path="C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q2\arm-none-eabi\include\math.h" project="ADC-DAC-motor_control"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="20360" selectionTopPixel="5261"/>
+</editor>
 </editors>
 <views>
-<view id="org.coocox.component.ui.ComponentView" partName="Components">
-<viewState/>
-</view>
 <view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
-<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="1">
+<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="4">
 <expanded>
 <element path="/ADC-DAC-motor_control"/>
-<element path="/ADC-DAC-motor_control/cmsis_lib"/>
-<element path="/ADC-DAC-motor_control/cmsis_lib/include"/>
 <element path="/ADC-DAC-motor_control/lib_ub"/>
 <element path="/ADC-DAC-motor_control/syscalls"/>
 </expanded>
 <selection>
-<element path="/ADC-DAC-motor_control/lib_ub/stm32_ub_icpwm_tim2.h"/>
+<element path="/ADC-DAC-motor_control/lib_ub/stm32_ub_adc1_single.h"/>
 </selection>
 </viewState>
+</view>
+<view id="org.coocox.component.ui.ComponentView" partName="Components">
+<viewState/>
 </view>
 <view id="org.coocox.codebugger.trace.ui.traceview" partName="Semihosting">
 <viewState/>
@@ -91,23 +107,23 @@
 <alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
 <alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
 <alwaysOnActionSet id="org.coocox.userspace.actionSet"/>
-<hide_menu_item_id id="org.coocox.codebugger.configuration.showConsoleAction"/>
-<hide_menu_item_id id="org.coocox.codebugger.configuration.showDebugAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
 <hide_menu_item_id id="org.coocox.codebugger.configuration.ShowDisassemblyAction"/>
 <hide_menu_item_id id="org.coocox.codebugger.configuration.showExpressionsAction"/>
-<hide_menu_item_id id="org.coocox.codebugger.trace.actions.ShowTraceControlAction"/>
-<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryAction"/>
-<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryBrowserAction"/>
-<hide_menu_item_id id="org.coocox.builder.ui.openProjectExplorerAction"/>
-<hide_menu_item_id id="org.coocox.codebugger.configuration.showRegistersAction"/>
-<hide_menu_item_id id="org.coocox.codebugger.configuration.showVariablesAction"/>
-<hide_menu_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showDebugAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showConsoleAction"/>
 <hide_menu_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
-<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
 <hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
-<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryBrowserAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showVariablesAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openProjectExplorerAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.trace.actions.ShowTraceControlAction"/>
+<hide_menu_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showRegistersAction"/>
 <hide_toolbar_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
 <view id="org.coocox.component.ui.ComponentView"/>
 <view id="org.coocox.builder.ui.views.ProjectView"/>
 <view id="org.eclipse.ui.console.ConsoleView"/>
@@ -136,7 +152,7 @@
 </presentation>
 </folder>
 </info>
-<info part="org.coocox.builder.ui.exampleView" ratio="0.21189025" ratioLeft="139" ratioRight="517" relationship="2" relative="org.eclipse.ui.internal.ViewStack@a893ed"/>
+<info part="org.coocox.builder.ui.exampleView" ratio="0.1800738" ratioLeft="244" ratioRight="1111" relationship="2" relative="org.eclipse.ui.internal.ViewStack@a893ed"/>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@177b76d" ratio="0.7198113" ratioLeft="763" ratioRight="297" relationship="2" relative="org.coocox.builder.ui.exampleView">
 <folder appearance="2" expanded="2">
 <page content="org.coocox.component.ui.Help" label="LabelNotFound"/>
@@ -256,160 +272,164 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/cobaADC/main.c"/>
-<editor factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="C:\Program Files (x86)\GNU Tools ARM Embedded\4.9 2015q3\arm-none-eabi\include\math.h" project="cobaADC"/>
-<editor factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q2\arm-none-eabi\include\math.h" project="cobaADC"/>
-<editor factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor">
-<org.coocox.builder.ui.editors.ConfigEditor horizontalPosition="0" subTagIndex="6" verticalPosition="0"/>
-</editor>
-<editor factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory" id="org.coocox.builder.ui.editors.repository.RepositoryBrowser">
-<subPage horizontalPosition="0" selectedItemId="0" subPageIndex="2" verticalPosition="0"/>
-</editor>
-<editor factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor">
-<org.coocox.builder.ui.editors.ConfigEditor horizontalPosition="0" subTagIndex="6" verticalPosition="0"/>
-</editor>
-<editor factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.welcome.ui.WelcomePage">
-<org.coocox.welcome.ui.WelcomePage/>
-</editor>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ADC-DAC-motor_control/main.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_icpwm_tim2.h"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_icpwm_tim2.c"/>
-<editor factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory" id="org.coocox.builder.ui.editors.repository.RepositoryBrowser">
-<subPage horizontalPosition="0" selectedItemId="524" subPageIndex="2" verticalPosition="753"/>
-</editor>
 <editor factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor">
 <org.coocox.builder.ui.editors.ConfigEditor/>
 </editor>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_icpwm_tim2.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_icpwm_tim2.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_adc1_single.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_adc1_single.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ADC-DAC-motor_control/cmsis_lib/include/stm32f4xx_adc.h"/>
+<editor factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q2\arm-none-eabi\include\math.h" project="ADC-DAC-motor_control"/>
 </editors>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="659" y="46"/>
+<position info="not_deleted" x="1388" y="0"/>
 </item>
-<item historyLabel="math.h" index="1">
-<position info="not_deleted" x="3162" y="0"/>
+<item historyLabel="Configuration" index="1"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1388" y="0"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.c" index="2">
+<position info="not_deleted" x="2046" y="0"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.h" index="3">
+<position info="not_deleted" x="896" y="0"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="16" y="0"/>
+<position info="not_deleted" x="1736" y="0"/>
 </item>
-<item historyLabel="math.h" index="2">
-<position info="not_deleted" x="143" y="0"/>
-</item>
-<item historyLabel="Configuration" index="3"/>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="16" y="0"/>
+<position info="not_deleted" x="560" y="0"/>
 </item>
-<item historyLabel="Configuration" index="3"/>
+<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<position info="not_deleted" x="1012" y="0"/>
+</item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="807" y="0"/>
+<position info="not_deleted" x="560" y="0"/>
 </item>
-<item historyLabel="Repository" index="4"/>
-<item historyLabel="Configuration" index="3"/>
+<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<position info="not_deleted" x="1012" y="0"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.h" index="3">
+<position info="not_deleted" x="896" y="0"/>
+</item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="1045" y="0"/>
+<position info="not_deleted" x="560" y="0"/>
 </item>
-<item historyLabel="Configuration" index="3"/>
+<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<position info="not_deleted" x="1012" y="0"/>
+</item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="1045" y="0"/>
+<position info="not_deleted" x="470" y="0"/>
 </item>
-<item historyLabel="Configuration" index="5"/>
-<item historyLabel="math.h" index="2">
-<position info="not_deleted" x="143" y="0"/>
+<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<position info="not_deleted" x="1012" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.h" index="5">
+<position info="not_deleted" x="1749" y="0"/>
 </item>
 <item historyLabel="main.c" index="0">
 <position/>
 </item>
-<item historyLabel="welcome" index="6"/>
-<item historyLabel="main.c" index="7">
-<position info="not_deleted" x="1399" y="0"/>
+<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<position info="not_deleted" x="5069" y="0"/>
 </item>
-<item historyLabel="stm32_ub_icpwm_tim2.h" index="8">
-<position info="not_deleted" x="2311" y="0"/>
+<item historyLabel="stm32f4xx_adc.h" index="6">
+<position info="not_deleted" x="11862" y="18"/>
 </item>
-<item historyLabel="stm32_ub_icpwm_tim2.c" index="9">
-<position info="not_deleted" x="7397" y="50"/>
+<item historyLabel="main.c" index="0">
+<position/>
 </item>
-<item historyLabel="stm32_ub_icpwm_tim2.c" index="9">
-<position info="not_deleted" x="7395" y="0"/>
+<item historyLabel="stm32_ub_adc1_single.h" index="5">
+<position info="not_deleted" x="1749" y="0"/>
 </item>
-<item historyLabel="stm32_ub_icpwm_tim2.c" index="9">
-<position info="not_deleted" x="7102" y="0"/>
+<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<position info="not_deleted" x="5079" y="0"/>
 </item>
-<item historyLabel="stm32_ub_icpwm_tim2.c" index="9">
-<position info="not_deleted" x="6272" y="61"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.c" index="9">
-<position info="not_deleted" x="6163" y="40"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.h" index="8">
-<position info="not_deleted" x="2311" y="0"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.c" index="9">
-<position info="not_deleted" x="6163" y="40"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.h" index="8">
-<position info="not_deleted" x="2311" y="0"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.c" index="9">
-<position info="not_deleted" x="2907" y="21"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.h" index="8">
-<position info="not_deleted" x="2311" y="0"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.c" index="9">
-<position info="not_deleted" x="6387" y="51"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.h" index="8">
-<position info="not_deleted" x="2311" y="0"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.c" index="9">
-<position info="not_deleted" x="6387" y="51"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.h" index="8">
-<position info="not_deleted" x="2311" y="0"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.c" index="9">
-<position info="not_deleted" x="6387" y="51"/>
-</item>
-<item historyLabel="Repository" index="10"/>
-<item historyLabel="main.c" index="7">
-<position info="not_deleted" x="1399" y="0"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.c" index="9">
-<position info="not_deleted" x="6387" y="51"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.h" index="8">
-<position info="not_deleted" x="565" y="0"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.c" index="9">
-<position info="not_deleted" x="2965" y="0"/>
-</item>
-<item historyLabel="main.c" index="7">
-<position info="not_deleted" x="1399" y="0"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.h" index="8">
-<position info="not_deleted" x="923" y="0"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.c" index="9">
-<position info="not_deleted" x="2046" y="0"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.h" index="8">
+<item historyLabel="stm32_ub_icpwm_tim2.h" index="3">
 <position info="not_deleted" x="896" y="0"/>
 </item>
-<item historyLabel="Repository" index="10"/>
-<item historyLabel="main.c" index="7">
-<position info="not_deleted" x="1399" y="0"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="645" y="0"/>
 </item>
-<item historyLabel="main.c" index="7">
-<position info="not_deleted" x="763" y="0"/>
+<item historyLabel="math.h" index="7">
+<position info="not_deleted" x="20360" y="0"/>
 </item>
-<item historyLabel="main.c" index="7">
-<position info="not_deleted" x="1018" y="0"/>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="561" y="0"/>
 </item>
-<item historyLabel="main.c" index="7">
-<position info="not_deleted" x="1388" y="0"/>
+<item historyLabel="math.h" index="7">
+<position info="not_deleted" x="20360" y="0"/>
 </item>
-<item historyLabel="Configuration" index="11"/>
-<item active="true" historyLabel="main.c" index="7">
-<position info="not_deleted" x="1388" y="0"/>
+<item historyLabel="stm32f4xx_adc.h" index="6">
+<position info="not_deleted" x="11862" y="18"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.h" index="5">
+<position info="not_deleted" x="1813" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<position info="not_deleted" x="5318" y="0"/>
+</item>
+<item historyLabel="stm32f4xx_adc.h" index="6">
+<position info="not_deleted" x="15961" y="19"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.h" index="3">
+<position info="not_deleted" x="896" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<position info="not_deleted" x="5318" y="0"/>
+</item>
+<item historyLabel="stm32f4xx_adc.h" index="6">
+<position info="not_deleted" x="15961" y="19"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<position info="not_deleted" x="5349" y="0"/>
+</item>
+<item historyLabel="stm32f4xx_adc.h" index="6">
+<position info="not_deleted" x="3476" y="19"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.h" index="3">
+<position info="not_deleted" x="896" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="561" y="0"/>
+</item>
+<item historyLabel="math.h" index="7">
+<position info="not_deleted" x="20360" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="392" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<position info="not_deleted" x="5079" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="918" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<position info="not_deleted" x="4817" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.h" index="5">
+<position info="not_deleted" x="1749" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="703" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.h" index="5">
+<position info="not_deleted" x="1749" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<position info="not_deleted" x="1011" y="1"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.h" index="5">
+<position info="not_deleted" x="2368" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<position info="not_deleted" x="1012" y="0"/>
+</item>
+<item active="true" historyLabel="main.c" index="0">
+<position info="not_deleted" x="703" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -418,10 +438,17 @@
 <actionBarAdvisor/>
 </window>
 <mruList>
-<file factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor" name="" tooltip="">
-<persistable>
-<org.coocox.builder.ui.editors.ConfigEditor/>
-</persistable>
+<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="math.h" tooltip="C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q2\arm-none-eabi\include\math.h">
+<persistable path="C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q2\arm-none-eabi\include\math.h" project="ADC-DAC-motor_control"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_adc.h" tooltip="ADC-DAC-motor_control/cmsis_lib/include/stm32f4xx_adc.h">
+<persistable path="/ADC-DAC-motor_control/cmsis_lib/include/stm32f4xx_adc.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_adc1_single.h" tooltip="ADC-DAC-motor_control/lib_ub/stm32_ub_adc1_single.h">
+<persistable path="/ADC-DAC-motor_control/lib_ub/stm32_ub_adc1_single.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_adc1_single.c" tooltip="ADC-DAC-motor_control/lib_ub/stm32_ub_adc1_single.c">
+<persistable path="/ADC-DAC-motor_control/lib_ub/stm32_ub_adc1_single.c"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_icpwm_tim2.c" tooltip="ADC-DAC-motor_control/lib_ub/stm32_ub_icpwm_tim2.c">
 <persistable path="/ADC-DAC-motor_control/lib_ub/stm32_ub_icpwm_tim2.c"/>
@@ -433,17 +460,8 @@
 <persistable path="/ADC-DAC-motor_control/main.c"/>
 </file>
 <file factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory" id="org.coocox.builder.ui.editors.repository.RepositoryBrowser" name="Repository" tooltip="Repository">
-<persistable>
-<subPage horizontalPosition="0" selectedItemId="524" subPageIndex="2" verticalPosition="753"/>
+<persistable>&#x0A;<subPage/>
 </persistable>
-</file>
-<file factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.welcome.ui.WelcomePage" name="" tooltip="">
-<persistable>
-<org.coocox.welcome.ui.WelcomePage/>
-</persistable>
-</file>
-<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="math.h" tooltip="C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q2\arm-none-eabi\include\math.h">
-<persistable path="C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q2\arm-none-eabi\include\math.h" project="cobaADC"/>
 </file>
 <file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="math.h" tooltip="C:\Program Files (x86)\GNU Tools ARM Embedded\4.9 2015q3\arm-none-eabi\include\math.h">
 <persistable path="C:\Program Files (x86)\GNU Tools ARM Embedded\4.9 2015q3\arm-none-eabi\include\math.h" project="cobaADC"/>
@@ -465,9 +483,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_dac.h" tooltip="cobaADC/cmsis_lib/include/stm32_ub_dac.h">
 <persistable path="/cobaADC/cmsis_lib/include/stm32_ub_dac.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_adc1_single.c" tooltip="cobaADC/cmsis_lib/source/stm32_ub_adc1_single.c">
-<persistable path="/cobaADC/cmsis_lib/source/stm32_ub_adc1_single.c"/>
 </file>
 </mruList>
 </workbench>

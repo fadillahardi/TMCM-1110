@@ -54,10 +54,10 @@ typedef enum {
 // Moegliche Vorteiler = 2,4,6,8
 //--------------------------------------------------------------
 
-#define ADC1s_VORTEILER     ADC_Prescaler_Div2 // Frq = 42 MHz
-//#define ADC1s_VORTEILER     ADC_Prescaler_Div4   // Frq = 21 MHz
-//#define ADC1s_VORTEILER     ADC_Prescaler_Div6 // Frq = 14 MHz
-//#define ADC1s_VORTEILER     ADC_Prescaler_Div8 // Frq = 10.5 MHz
+//#define ADC1s_Prescale     ADC_Prescaler_Div2 // Frq = 42 MHz
+#define ADC1s_Prescale     ADC_Prescaler_Div4   // Frq = 21 MHz
+//#define ADC1s_Prescale     ADC_Prescaler_Div6 // Frq = 14 MHz
+//#define ADC1s_Prescale     ADC_Prescaler_Div8 // Frq = 10.5 MHz
 
 
 

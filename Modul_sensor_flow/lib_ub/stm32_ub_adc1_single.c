@@ -24,7 +24,7 @@
 //--------------------------------------------------------------
 ADC1s_t ADC1s[] = {
   //NAME  ,PORT , PIN      , CLOCK              , Kanal        , Mittelwerte
-  {ADC_PC0,GPIOC,GPIO_Pin_0,RCC_AHB1Periph_GPIOC,ADC_Channel_10 ,MW_128},   // ADC an PA3 = ADC123_IN3
+  {ADC_PC0,GPIOC,GPIO_Pin_0,RCC_AHB1Periph_GPIOC,ADC_Channel_10 ,MW_8},   // ADC an PA3 = ADC123_IN3
   {ADC_PC1,GPIOC,GPIO_Pin_1,RCC_AHB1Periph_GPIOC,ADC_Channel_11 ,MW_NONE},   // ADC an PC4 = ADC12_IN14
   {ADC_PC2,GPIOC,GPIO_Pin_2,RCC_AHB1Periph_GPIOC,ADC_Channel_12 ,MW_NONE}, // ADC an PC5 = ADC12_IN15
   {ADC_PC3,GPIOC,GPIO_Pin_3,RCC_AHB1Periph_GPIOC,ADC_Channel_13 ,MW_NONE},
@@ -55,7 +55,7 @@ void UB_ADC1_SINGLE_Init(void)
 //--------------------------------------------------------------
 uint16_t UB_ADC1_SINGLE_Read(ADC1s_NAME_t adc_name)
 {
-  uint16_t messwert=0;
+  uint16_t read_value=0;
 
   // Messkanal einrichten
   ADC_RegularChannelConfig(ADC1,ADC1s[adc_name].ADC_CH,1,ADC_SampleTime_3Cycles);
@@ -64,9 +64,9 @@ uint16_t UB_ADC1_SINGLE_Read(ADC1s_NAME_t adc_name)
   // warte bis Messung fertig ist
   while(ADC_GetFlagStatus(ADC1,ADC_FLAG_EOC)==RESET);
   // Messwert auslesen
-  messwert=ADC_GetConversionValue(ADC1);
+  read_value=ADC_GetConversionValue(ADC1);
 
-  return(messwert);
+  return(read_value);
 }
 
 //--------------------------------------------------------------
@@ -75,8 +75,8 @@ uint16_t UB_ADC1_SINGLE_Read(ADC1s_NAME_t adc_name)
 //--------------------------------------------------------------
 uint16_t UB_ADC1_SINGLE_Read_MW(ADC1s_NAME_t adc_name)
 {
-  uint32_t mittelwert=0;
-  uint16_t messwert,n;
+  uint32_t average=0;
+  uint16_t read_value,n;
   uint16_t anz_mw=1,anz_bit=0;
 
   if(ADC1s[adc_name].ADC_MW==MW_NONE) {
@@ -105,13 +105,13 @@ uint16_t UB_ADC1_SINGLE_Read_MW(ADC1s_NAME_t adc_name)
   }
 
   for(n=0;n<anz_mw;n++) {
-    messwert=UB_ADC1_SINGLE_Read(adc_name);
-    mittelwert+=messwert;
+	read_value=UB_ADC1_SINGLE_Read(adc_name);
+    average+=read_value;
   }
 
-  messwert=(mittelwert >> anz_bit);
+  read_value=(average >> anz_bit);
 
-  return(messwert);
+  return(read_value);
 }
 
 
@@ -149,7 +149,7 @@ void P_ADC1s_InitADC(void)
 
   // ADC-Config
   ADC_CommonInitStructure.ADC_Mode = ADC_Mode_Independent;
-  ADC_CommonInitStructure.ADC_Prescaler = ADC1s_VORTEILER;
+  ADC_CommonInitStructure.ADC_Prescaler = ADC1s_Prescale;
   ADC_CommonInitStructure.ADC_DMAAccessMode = ADC_DMAAccessMode_Disabled;
   ADC_CommonInitStructure.ADC_TwoSamplingDelay = ADC_TwoSamplingDelay_5Cycles;
   ADC_CommonInit(&ADC_CommonInitStructure);
