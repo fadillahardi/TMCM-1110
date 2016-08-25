@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\altium design\power_distribution\Pow_Dist_24_12_5v.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=39.37
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=39.37
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

@@ -1,0 +1,55 @@
+Change Component Designator: OldDesignator=1A_04 NewDesignator=2A_04
+Change Component Designator: OldDesignator=1A_05 NewDesignator=2A_05
+Change Component Designator: OldDesignator=1A_06 NewDesignator=2A_06
+Change Component Designator: OldDesignator=1A_07 NewDesignator=2A_07
+Change Component Designator: OldDesignator=12v_01 NewDesignator=12v_2A
+Change Component Designator: OldDesignator=12v_02 NewDesignator=12v_0.75A
+Change Component Designator: OldDesignator=12v_03 NewDesignator=12v_0.5A
+Change Component Designator: OldDesignator=12v_04 NewDesignator=0.5A
+Change Component Designator: OldDesignator=12v_05 NewDesignator=12v_1A
+Change Component Designator: OldDesignator=R1 NewDesignator=2k4_01
+Change Component Designator: OldDesignator=R2 NewDesignator=2k4_02
+Change Component Designator: OldDesignator=R3 NewDesignator=2k4_03
+Change Component Designator: OldDesignator=R4 NewDesignator=2k4_04
+Change Component Designator: OldDesignator=R5 NewDesignator=2k4_05
+Change Component Designator: OldDesignator=R6 NewDesignator=2k4_06
+Change Component Designator: OldDesignator=R7 NewDesignator=2k4_07
+Change Component Designator: OldDesignator=R8 NewDesignator=2k4_08
+Change Component Designator: OldDesignator=R9 NewDesignator=2k4_09
+Change Component Designator: OldDesignator=R10 NewDesignator=2k4_10
+Change Component Designator: OldDesignator=R11 NewDesignator=1k2_01
+Change Component Designator: OldDesignator=R12 NewDesignator=1k2_02
+Change Component Designator: OldDesignator=R13 NewDesignator=1k2_03
+Change Component Designator: OldDesignator=R14 NewDesignator=1k2_04
+Change Component Designator: OldDesignator=R15 NewDesignator=1k2_05
+Change Component Designator: OldDesignator=R16 NewDesignator=1k2_06
+Change Component Designator: OldDesignator=R17 NewDesignator=1k2_07
+Change Component Designator: OldDesignator=R18 NewDesignator=1k2_08
+Change Component Designator: OldDesignator=R19 NewDesignator=1k2_09
+Change Component Designator: OldDesignator=R20 NewDesignator=1k2_10
+Change Net Name : Old Net Name=Net1A_04_2 New Net Name=Net2A_04_2
+Change Net Name : Old Net Name=Net1A_05_2 New Net Name=Net2A_05_2
+Change Net Name : Old Net Name=Net1A_06_2 New Net Name=Net2A_06_2
+Change Net Name : Old Net Name=Net1A_07_2 New Net Name=Net2A_07_2
+Change Net Name : Old Net Name=Net12_OUT_4_2 New Net Name=Net0.5A_2
+Change Net Name : Old Net Name=Net12v_01_1 New Net Name=Net0.5A_1
+Change Net Name : Old Net Name=NetD1_K New Net Name=Net2k4_01_1
+Change Net Name : Old Net Name=NetD2_K New Net Name=Net2k4_02_1
+Change Net Name : Old Net Name=NetD3_K New Net Name=Net2k4_03_1
+Change Net Name : Old Net Name=NetD4_K New Net Name=Net2k4_04_1
+Change Net Name : Old Net Name=NetD5_K New Net Name=Net2k4_05_1
+Change Net Name : Old Net Name=NetD6_K New Net Name=Net2k4_06_1
+Change Net Name : Old Net Name=NetD7_K New Net Name=Net2k4_07_1
+Change Net Name : Old Net Name=NetD8_K New Net Name=Net2k4_08_1
+Change Net Name : Old Net Name=NetD9_K New Net Name=Net2k4_09_1
+Change Net Name : Old Net Name=NetD10_K New Net Name=Net2k4_10_1
+Change Net Name : Old Net Name=NetD11_K New Net Name=Net1k2_01_1
+Change Net Name : Old Net Name=NetD12_K New Net Name=Net1k2_02_1
+Change Net Name : Old Net Name=NetD13_K New Net Name=Net1k2_03_1
+Change Net Name : Old Net Name=NetD14_K New Net Name=Net1k2_04_1
+Change Net Name : Old Net Name=NetD15_K New Net Name=Net1k2_05_1
+Change Net Name : Old Net Name=NetD16_K New Net Name=Net1k2_06_1
+Change Net Name : Old Net Name=NetD17_K New Net Name=Net1k2_07_1
+Change Net Name : Old Net Name=NetD18_K New Net Name=Net1k2_08_1
+Change Net Name : Old Net Name=NetD19_K New Net Name=Net1k2_09_1
+Change Net Name : Old Net Name=NetD20_K New Net Name=Net1k2_10_1

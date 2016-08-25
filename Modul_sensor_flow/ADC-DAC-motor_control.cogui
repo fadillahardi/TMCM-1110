@@ -38,23 +38,23 @@
 </editor>
 <editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/main.c" title="main.c" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/main.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ADC-DAC-motor_control/main.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="560" selectionTopPixel="200"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="212" selectionTopPixel="90"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_icpwm_tim2.h" partName="stm32_ub_icpwm_tim2.h" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/lib_ub/stm32_ub_icpwm_tim2.h" title="stm32_ub_icpwm_tim2.h" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/lib_ub/stm32_ub_icpwm_tim2.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_icpwm_tim2.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="896" selectionTopPixel="799"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1300" selectionTopPixel="901"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_icpwm_tim2.c" partName="stm32_ub_icpwm_tim2.c" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/lib_ub/stm32_ub_icpwm_tim2.c" title="stm32_ub_icpwm_tim2.c" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/lib_ub/stm32_ub_icpwm_tim2.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_icpwm_tim2.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2046" selectionTopPixel="858"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2390" selectionTopPixel="47"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_adc1_single.c" partName="stm32_ub_adc1_single.c" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/lib_ub/stm32_ub_adc1_single.c" title="stm32_ub_adc1_single.c" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/lib_ub/stm32_ub_adc1_single.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_adc1_single.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1012" selectionTopPixel="232"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4236" selectionTopPixel="1540"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_ub_adc1_single.h" partName="stm32_ub_adc1_single.h" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/lib_ub/stm32_ub_adc1_single.h" title="stm32_ub_adc1_single.h" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/lib_ub/stm32_ub_adc1_single.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_adc1_single.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2368" selectionTopPixel="426"/>
+<editorState selectionHorizontalPixel="0" selectionLength="3" selectionOffset="931" selectionTopPixel="289"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_adc.h" partName="stm32f4xx_adc.h" path="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/cmsis_lib/include/stm32f4xx_adc.h" title="stm32f4xx_adc.h" tooltip="C:/Users/Severuz Wernbeck/Documents/GitHub/TMCM-1110/Modul_sensor_flow/cmsis_lib/include/stm32f4xx_adc.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ADC-DAC-motor_control/cmsis_lib/include/stm32f4xx_adc.h"/>
@@ -74,7 +74,7 @@
 <element path="/ADC-DAC-motor_control/syscalls"/>
 </expanded>
 <selection>
-<element path="/ADC-DAC-motor_control/lib_ub/stm32_ub_adc1_single.h"/>
+<element path="/ADC-DAC-motor_control/lib_ub/stm32_ub_icpwm_tim2.c"/>
 </selection>
 </viewState>
 </view>
@@ -273,9 +273,9 @@
 <navigationHistory>
 <editors>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ADC-DAC-motor_control/main.c"/>
-<editor factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor">
-<org.coocox.builder.ui.editors.ConfigEditor/>
-</editor>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_adc1_single.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_adc1_single.h"/>
+<editor factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q2\arm-none-eabi\include\math.h" project="ADC-DAC-motor_control"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_icpwm_tim2.c"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_icpwm_tim2.h"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ADC-DAC-motor_control/lib_ub/stm32_ub_adc1_single.c"/>
@@ -284,152 +284,154 @@
 <editor factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="C:\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q2\arm-none-eabi\include\math.h" project="ADC-DAC-motor_control"/>
 </editors>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="1388" y="0"/>
-</item>
-<item historyLabel="Configuration" index="1"/>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="1388" y="0"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.c" index="2">
-<position info="not_deleted" x="2046" y="0"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.h" index="3">
-<position info="not_deleted" x="896" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="1736" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="560" y="0"/>
-</item>
-<item historyLabel="stm32_ub_adc1_single.c" index="4">
-<position info="not_deleted" x="1012" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="560" y="0"/>
-</item>
-<item historyLabel="stm32_ub_adc1_single.c" index="4">
-<position info="not_deleted" x="1012" y="0"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.h" index="3">
-<position info="not_deleted" x="896" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="560" y="0"/>
-</item>
-<item historyLabel="stm32_ub_adc1_single.c" index="4">
-<position info="not_deleted" x="1012" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="470" y="0"/>
-</item>
-<item historyLabel="stm32_ub_adc1_single.c" index="4">
-<position info="not_deleted" x="1012" y="0"/>
-</item>
-<item historyLabel="stm32_ub_adc1_single.h" index="5">
-<position info="not_deleted" x="1749" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position/>
-</item>
-<item historyLabel="stm32_ub_adc1_single.c" index="4">
-<position info="not_deleted" x="5069" y="0"/>
-</item>
-<item historyLabel="stm32f4xx_adc.h" index="6">
-<position info="not_deleted" x="11862" y="18"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position/>
-</item>
-<item historyLabel="stm32_ub_adc1_single.h" index="5">
-<position info="not_deleted" x="1749" y="0"/>
-</item>
-<item historyLabel="stm32_ub_adc1_single.c" index="4">
-<position info="not_deleted" x="5079" y="0"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.h" index="3">
-<position info="not_deleted" x="896" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="645" y="0"/>
-</item>
-<item historyLabel="math.h" index="7">
-<position info="not_deleted" x="20360" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
 <position info="not_deleted" x="561" y="0"/>
 </item>
-<item historyLabel="math.h" index="7">
-<position info="not_deleted" x="20360" y="0"/>
-</item>
-<item historyLabel="stm32f4xx_adc.h" index="6">
-<position info="not_deleted" x="11862" y="18"/>
-</item>
-<item historyLabel="stm32_ub_adc1_single.h" index="5">
-<position info="not_deleted" x="1813" y="0"/>
-</item>
-<item historyLabel="stm32_ub_adc1_single.c" index="4">
-<position info="not_deleted" x="5318" y="0"/>
-</item>
-<item historyLabel="stm32f4xx_adc.h" index="6">
-<position info="not_deleted" x="15961" y="19"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.h" index="3">
-<position info="not_deleted" x="896" y="0"/>
-</item>
-<item historyLabel="stm32_ub_adc1_single.c" index="4">
-<position info="not_deleted" x="5318" y="0"/>
-</item>
-<item historyLabel="stm32f4xx_adc.h" index="6">
-<position info="not_deleted" x="15961" y="19"/>
-</item>
-<item historyLabel="stm32_ub_adc1_single.c" index="4">
-<position info="not_deleted" x="5349" y="0"/>
-</item>
-<item historyLabel="stm32f4xx_adc.h" index="6">
-<position info="not_deleted" x="3476" y="19"/>
-</item>
-<item historyLabel="stm32_ub_icpwm_tim2.h" index="3">
-<position info="not_deleted" x="896" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="561" y="0"/>
-</item>
-<item historyLabel="math.h" index="7">
+<item historyLabel="math.h" index="3">
 <position info="not_deleted" x="20360" y="0"/>
 </item>
 <item historyLabel="main.c" index="0">
 <position info="not_deleted" x="392" y="0"/>
 </item>
-<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<item historyLabel="stm32_ub_adc1_single.c" index="1">
 <position info="not_deleted" x="5079" y="0"/>
 </item>
 <item historyLabel="main.c" index="0">
 <position info="not_deleted" x="918" y="0"/>
 </item>
-<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<item historyLabel="stm32_ub_adc1_single.c" index="1">
 <position info="not_deleted" x="4817" y="0"/>
 </item>
-<item historyLabel="stm32_ub_adc1_single.h" index="5">
+<item historyLabel="stm32_ub_adc1_single.h" index="2">
 <position info="not_deleted" x="1749" y="0"/>
 </item>
 <item historyLabel="main.c" index="0">
 <position info="not_deleted" x="703" y="0"/>
 </item>
-<item historyLabel="stm32_ub_adc1_single.h" index="5">
+<item historyLabel="stm32_ub_adc1_single.h" index="2">
 <position info="not_deleted" x="1749" y="0"/>
 </item>
-<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<item historyLabel="stm32_ub_adc1_single.c" index="1">
 <position info="not_deleted" x="1011" y="1"/>
 </item>
-<item historyLabel="stm32_ub_adc1_single.h" index="5">
+<item historyLabel="stm32_ub_adc1_single.h" index="2">
 <position info="not_deleted" x="2368" y="0"/>
 </item>
-<item historyLabel="stm32_ub_adc1_single.c" index="4">
+<item historyLabel="stm32_ub_adc1_single.c" index="1">
 <position info="not_deleted" x="1012" y="0"/>
 </item>
-<item active="true" historyLabel="main.c" index="0">
+<item historyLabel="main.c" index="0">
 <position info="not_deleted" x="703" y="0"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.c" index="4">
+<position info="not_deleted" x="2046" y="0"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.h" index="5">
+<position info="not_deleted" x="1300" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="561" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="6">
+<position info="not_deleted" x="1012" y="0"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.c" index="4">
+<position info="not_deleted" x="2390" y="0"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.h" index="5">
+<position info="not_deleted" x="1300" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1415" y="0"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.h" index="5">
+<position info="not_deleted" x="1300" y="0"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.c" index="4">
+<position info="not_deleted" x="2390" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1064" y="0"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.c" index="4">
+<position info="not_deleted" x="2390" y="0"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.h" index="5">
+<position info="not_deleted" x="1300" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="212" y="0"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.c" index="4">
+<position info="not_deleted" x="2390" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="6">
+<position info="not_deleted" x="1012" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.h" index="7">
+<position info="not_deleted" x="2364" y="0"/>
+</item>
+<item historyLabel="stm32f4xx_adc.h" index="8">
+<position info="not_deleted" x="3476" y="19"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.h" index="7">
+<position info="not_deleted" x="2364" y="0"/>
+</item>
+<item historyLabel="math.h" index="9">
+<position info="not_deleted" x="20360" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.h" index="7">
+<position info="not_deleted" x="2364" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="6">
+<position info="not_deleted" x="2507" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.h" index="7">
+<position info="not_deleted" x="2129" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="6">
+<position info="not_deleted" x="3544" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.h" index="7">
+<position info="not_deleted" x="1902" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="6">
+<position info="not_deleted" x="3442" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.h" index="7">
+<position info="not_deleted" x="935" y="0"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.h" index="5">
+<position info="not_deleted" x="1300" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="6">
+<position info="not_deleted" x="3442" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.h" index="7">
+<position info="not_deleted" x="935" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="6">
+<position info="not_deleted" x="3929" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.h" index="7">
+<position info="not_deleted" x="935" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="6">
+<position info="not_deleted" x="1409" y="0"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.h" index="7">
+<position info="not_deleted" x="931" y="3"/>
+</item>
+<item historyLabel="stm32_ub_adc1_single.c" index="6">
+<position info="not_deleted" x="4236" y="0"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.h" index="5">
+<position info="not_deleted" x="1300" y="0"/>
+</item>
+<item historyLabel="stm32_ub_icpwm_tim2.c" index="4">
+<position info="not_deleted" x="2390" y="0"/>
+</item>
+<item active="true" historyLabel="main.c" index="0">
+<position info="not_deleted" x="212" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>

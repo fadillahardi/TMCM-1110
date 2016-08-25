@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=GND Pin=5_OUT_1-1
+Removed Pin From Net: NetName=GND Pin=5_OUT_2-1
+Removed Pin From Net: NetName=GND Pin=5_OUT_3-1
+Removed Pin From Net: NetName=GND Pin=5_OUT_4-1
+Removed Pin From Net: NetName=GND Pin=12_OUT_1-2
+Removed Pin From Net: NetName=GND Pin=12_OUT_2-2
+Removed Pin From Net: NetName=GND Pin=12_OUT_3-2
+Removed Pin From Net: NetName=GND Pin=12_OUT_4-2
+Added Pin To Net: NetName=GND Pin=5_OUT_1-2
+Added Pin To Net: NetName=GND Pin=5_OUT_2-2
+Added Pin To Net: NetName=GND Pin=5_OUT_3-2
+Added Pin To Net: NetName=GND Pin=5_OUT_4-2
+Added Pin To Net: NetName=GND Pin=12_OUT_1-1
+Added Pin To Net: NetName=GND Pin=12_OUT_2-1
+Added Pin To Net: NetName=GND Pin=12_OUT_3-1
+Added Pin To Net: NetName=GND Pin=12_OUT_4-1
+Added Pin To Net: NetName=Net5_OUT_1_1 Pin=5_OUT_1-1
+Added Pin To Net: NetName=Net5_OUT_1_1 Pin=5v_01-2
+Added Pin To Net: NetName=Net5_OUT_1_1 Pin=D21-A
+Added Net: Name=Net5_OUT_1_1
+Added Pin To Net: NetName=Net5_OUT_2_1 Pin=5_OUT_2-1
+Added Pin To Net: NetName=Net5_OUT_2_1 Pin=5v_02-2
+Added Pin To Net: NetName=Net5_OUT_2_1 Pin=D22-A
+Added Net: Name=Net5_OUT_2_1
+Added Pin To Net: NetName=Net5_OUT_3_1 Pin=5_OUT_3-1
+Added Pin To Net: NetName=Net5_OUT_3_1 Pin=5v_03-2
+Added Pin To Net: NetName=Net5_OUT_3_1 Pin=D23-A
+Added Net: Name=Net5_OUT_3_1
+Added Pin To Net: NetName=Net5_OUT_4_1 Pin=5_OUT_4-1
+Added Pin To Net: NetName=Net5_OUT_4_1 Pin=5v_04-2
+Added Pin To Net: NetName=Net5_OUT_4_1 Pin=D24-A
+Added Net: Name=Net5_OUT_4_1
+Added Pin To Net: NetName=Net12_OUT_1_2 Pin=12_OUT_1-2
+Added Pin To Net: NetName=Net12_OUT_1_2 Pin=12v_01-2
+Added Pin To Net: NetName=Net12_OUT_1_2 Pin=D11-A
+Added Net: Name=Net12_OUT_1_2
+Added Pin To Net: NetName=Net12_OUT_2_2 Pin=12_OUT_2-2
+Added Pin To Net: NetName=Net12_OUT_2_2 Pin=12v_02-2
+Added Pin To Net: NetName=Net12_OUT_2_2 Pin=D12-A
+Added Net: Name=Net12_OUT_2_2
+Added Pin To Net: NetName=Net12_OUT_3_2 Pin=12_OUT_3-2
+Added Pin To Net: NetName=Net12_OUT_3_2 Pin=12v_03-2
+Added Pin To Net: NetName=Net12_OUT_3_2 Pin=D13-A
+Added Net: Name=Net12_OUT_3_2
+Added Pin To Net: NetName=Net12_OUT_4_2 Pin=12_OUT_4-2
+Added Pin To Net: NetName=Net12_OUT_4_2 Pin=12v_04-2
+Added Pin To Net: NetName=Net12_OUT_4_2 Pin=D14-A
+Added Net: Name=Net12_OUT_4_2

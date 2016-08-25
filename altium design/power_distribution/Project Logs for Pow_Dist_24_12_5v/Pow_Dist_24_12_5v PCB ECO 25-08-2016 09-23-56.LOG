@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=Net1A_01_1 Pin=1A_01-1
+Removed Pin From Net: NetName=Net0.5A_1 Pin=12v_2A-1
+Added Component: Designator=-12_Out_1(My_CN2)
+Added Component: Designator=-12_Out_2(My_CN2)
+Added Component: Designator=-12_Out_3(My_CN2)
+Added Component: Designator=-12_Out_4(My_CN2)
+Added Component: Designator=PWR_-12_IN(My_CN2)
+Added Pin To Net: NetName=GND Pin=-12_Out_1-2
+Added Pin To Net: NetName=GND Pin=-12_Out_2-2
+Added Pin To Net: NetName=GND Pin=-12_Out_3-1
+Added Pin To Net: NetName=GND Pin=-12_Out_4-1
+Added Pin To Net: NetName=Net12_OUT_2_2 Pin=12_OUT_1-2
+Added Pin To Net: NetName=Net1A_02_2 Pin=24_OUT_1-1
+Added Pin To Net: NetName=GND Pin=PWR_-12_IN-2
+Change Net Name : Old Net Name=Net1A_01_1 New Net Name=Net1A_02_1
+Change Net Name : Old Net Name=Net12_OUT_2_2 New Net Name=Net12_OUT_1_2
+Added Pin To Net: NetName=Net1A_01_1 Pin=1A_01-1
+Added Pin To Net: NetName=Net1A_01_1 Pin=12v_2A-1
+Added Pin To Net: NetName=Net1A_01_1 Pin=PWR_-12_IN-1
+Added Net: Name=Net1A_01_1
+Added Pin To Net: NetName=Net-12_Out_1_1 Pin=-12_Out_1-1
+Added Pin To Net: NetName=Net-12_Out_1_1 Pin=-12_Out_2-1
+Added Pin To Net: NetName=Net-12_Out_1_1 Pin=1A_01-2
+Added Pin To Net: NetName=Net-12_Out_1_1 Pin=D1-A
+Added Net: Name=Net-12_Out_1_1
+Added Pin To Net: NetName=Net-12_Out_3_2 Pin=-12_Out_3-2
+Added Pin To Net: NetName=Net-12_Out_3_2 Pin=-12_Out_4-2
+Added Pin To Net: NetName=Net-12_Out_3_2 Pin=12v_2A-2
+Added Pin To Net: NetName=Net-12_Out_3_2 Pin=D11-A
+Added Net: Name=Net-12_Out_3_2

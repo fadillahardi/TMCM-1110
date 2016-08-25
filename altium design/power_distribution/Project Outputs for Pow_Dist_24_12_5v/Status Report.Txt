@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Pow_Dist_24_12_5v.PrjPcb]
+   Generated File[Pow_Dist_24_12_5v.GTL]
+   Generated File[Pow_Dist_24_12_5v.GBL]
+   Generated File[Pow_Dist_24_12_5v.GPB]
+   Generated File[Pow_Dist_24_12_5v.GPT]
+   Generated File[Pow_Dist_24_12_5v.GTO]
+   Generated File[Pow_Dist_24_12_5v.GTP]
+   Generated File[Pow_Dist_24_12_5v.GTS]
+   Generated File[Pow_Dist_24_12_5v.GBS]
+   Generated File[Pow_Dist_24_12_5v.GBP]
+   Generated File[Pow_Dist_24_12_5v.GBO]
+   Generated File[Pow_Dist_24_12_5v.GM1]
+   Generated File[Pow_Dist_24_12_5v.GKO]
+   Generated File[Pow_Dist_24_12_5v.GD1]
+   Generated File[Pow_Dist_24_12_5v.GG1]
+   Generated File[Pow_Dist_24_12_5v.RUL]
+   Generated File[Pow_Dist_24_12_5v.EXTREP]
+   Generated File[Pow_Dist_24_12_5v.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 12:11:14 On 25/08/2016
