@@ -31,7 +31,7 @@
 
 
 //--------------------------------------------------------------
-// interne Funktionen
+// internal function
 //--------------------------------------------------------------
 void P_ICPWM_InitIO(void);
 void P_ICPWM_InitTIM(void); 
@@ -39,14 +39,14 @@ void P_ICPWM_InitNVIC(void);
 
 
 //--------------------------------------------------------------
-// Globale Variabeln
+// Global Variable
 //--------------------------------------------------------------
 ICPWM_TIM2_Var_t ICPWM_TIM2_Var;
 
 
 //--------------------------------------------------------------
-// Definition vom InputCapture Pin (zur PWM-Messung)
 //
+// Pin reserved for input
 // Channel : [1...2]
 //--------------------------------------------------------------
 ICPWM_TIM2_t ICPWM_TIM2 = {
@@ -76,13 +76,13 @@ void UB_ICPWM_TIM2_Init(void)
 
 
 //--------------------------------------------------------------
-// auslesen vom Input-Capture Wert (Frq)
+// Reading of input capture value (Frequency)
 //
-// Return_Wert : 0         => Messwert nicht gültig
-//               1...65535 => Messwert
+// Return_Wert : 0         => value invalid
+//               1...65535 => value
 // Formeln :
-//  Mess_Frq = T2_Frq / Messwert
-//  Messwert = T2_Frq / Mess_Frq
+//  Mess_Frq = T2_Frq / value
+//  value = T2_Frq / Mess_Frq
 //--------------------------------------------------------------
 uint16_t UB_ICPWM_TIM2_ReadFRQ(void)
 {

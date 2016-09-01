@@ -7,16 +7,16 @@
 
 
 uint16_t value;
-//uint16_t Flow;
-uint32_t messwert=0,freuqenz=0,impuls=0,litre,lpm;
-//float litre,lpm;
-//float convert,R_read,Bxlog,steinhart,inCelcius;
-double convert,R_read,steinhart,inCelcius,Bxlog,Temp,x;
 
+//flowmeter variables
+uint16_t frq_read=0,frq_get=0,impuls=0,litre,rate = 0;
+
+//temperature sensor variables
+double convert,R_read,steinhart,inCelcius,Bxlog,Temp,x;
+float lpm;
 
 void Get_Temp(){
-
-	//reading value from temp_sensor
+	//reading value from sensor
 	Temp = (UB_ADC1_SINGLE_Read_MW(ADC_PC0));
 
 	//conversion method
@@ -28,30 +28,29 @@ void Get_Temp(){
 	Bxlog = log(x);
 	//steinhart = 298.15*3892.04/(3892.04+(298.15*Bxlog));
 	steinhart = 298.15*4268.2146/(4268.2146+(298.15*Bxlog));
-	//double T = 1/(0.001125161025848 +(0.000234721098632*log(R_read))+(0.000000085877049*log(R_read)*log(R_read)*log(R_read)));
 	inCelcius = steinhart-273.15;
-
 }
 
 //reading freq of flow sensor
 void Read_Flow(){
-
-	messwert=UB_ICPWM_TIM2_ReadFRQ();
-	if(messwert>0) {
-	// if messwert valid
+	frq_read=UB_ICPWM_TIM2_ReadFRQ();
+	if(frq_read>0) {
+	// if reading valid
 	// read frequency
-	freuqenz=(100000/messwert);
-	litre = freuqenz/36000.0;
-	lpm = litre*60.0;
-	// impuls auslesen
+	frq_get=(100000/frq_read);
+	litre = frq_get/36000.0;
+	//lpm = frq_get*60.0/k_fact;
 	impuls=UB_ICPWM_TIM2_ReadDUTY();
+	if(impuls>0){
+		rate = 100000/impuls;
+		lpm = impuls/600.0;
+	}
 	}
 }
 
 //code for speed control
 void DAC_motorspeed(){
-	for(value=2048;value<4096;value++){
-		//Flow = UB_ADC1_SINGLE_Read_MW(ADC_PC1);
+	for(value=1024;value<3000;value++){
 		Get_Temp();
 		Read_Flow();
 		UB_DAC_SetDAC1(value);
@@ -68,13 +67,7 @@ int main(void)
 
     while(1)
     {
-    	//int r;
-    	//for(r=0;r<1000;r++){
-    		//Get_Temp();
-    		DAC_motorspeed();
-    		//Read_Flow();
-    		//UB_Systick_Pause_ms(10);
-    	//}
+    	DAC_motorspeed();
 	}
 
 }

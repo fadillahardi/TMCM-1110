@@ -28,12 +28,12 @@
 
 
 //--------------------------------------------------------------
-// Input-Capture Einstellungen (Frequenz vom Timer2)
+// Input-Capture Settings (Timer 2 frequency)
 //
-// Grundfrequenz = 2*APB1 (APB1=42MHz) => TIM_CLK=84MHz
+// Frequency_max = 2*APB1 (APB1=42MHz) => TIM_CLK=84MHz
 // prescale  : 0 bis 0xFFFF
 //
-// T2_Frq = TIM_CLK/(vorteiler+1)
+// T2_Frq = TIM_CLK/(prescale+1)
 //--------------------------------------------------------------
 #define  ICPWM_TIM2_PRESCALE  839     // prescaler => (83 => T2_Frq = 1 MHz)
 

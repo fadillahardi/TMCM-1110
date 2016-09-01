@@ -42,17 +42,20 @@
          <include file="..\..\..\cmsis_lib\include\stm32f4xx_adc.h"/>
          <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
       </source>
+      <source file="..\..\..\lib_ub\stm32_ub_adc1_single.c" lastModified="156b5b596c5">
+         <include file="..\..\..\lib_ub\stm32_ub_adc1_single.h"/>
+      </source>
       <source file="..\..\..\cmsis_lib\include\misc.h" lastModified="156a104ba72">
          <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
       </source>
-      <source file="..\..\..\lib_ub\stm32_ub_icpwm_tim2.h" lastModified="156b548692e">
+      <source file="..\..\..\lib_ub\stm32_ub_icpwm_tim2.h" lastModified="156c068a7ce">
          <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
          <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
          <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
          <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
          <include file="..\..\..\cmsis_lib\include\misc.h"/>
       </source>
-      <source file="..\..\..\lib_ub\stm32_ub_icpwm_tim2.c" lastModified="156a10863a5">
+      <source file="..\..\..\lib_ub\stm32_ub_icpwm_tim2.c" lastModified="156c06c2971">
          <include file="..\..\..\lib_ub\stm32_ub_icpwm_tim2.h"/>
       </source>
       <source file="..\..\..\cmsis_boot\stm32f4xx_conf.h" lastModified="156a0f8b7d0">
@@ -78,30 +81,23 @@
       </source>
       <source file="..\..\..\syscalls\syscalls.c" lastModified="156a0f81657">
       </source>
-      <source file="..\..\..\main.c" lastModified="156b5b05dd8">
-         <include file="..\..\..\lib_ub\stm32_ub_adc1_single.h"/>
-         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
-         <include file="..\..\..\lib_ub\stm32_ub_dac.h"/>
-         <include file="..\..\..\lib_ub\stm32_ub_systick.h"/>
-         <include file="..\..\..\lib_ub\stm32_ub_icpwm_tim2.h"/>
-      </source>
       <source file="..\..\..\cmsis\core_cmFunc.h" lastModified="156a0f83375">
       </source>
       <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="156a0f8ab56">
          <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
       </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="156a0f869a0">
+      </source>
       <source file="..\..\..\cmsis_lib\source\stm32f4xx_dac.c" lastModified="156a0fa2a18">
          <include file="..\..\..\cmsis_lib\include\stm32f4xx_dac.h"/>
          <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
       </source>
-      <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="156a0f869a0">
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="156a0f8fc45">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
       </source>
       <source file="..\..\..\lib_ub\stm32_ub_systick.h" lastModified="1557190f33b">
          <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
-         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
-      </source>
-      <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="156a0f8fc45">
-         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
          <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
       </source>
       <source file="..\..\..\cmsis\core_cm4_simd.h" lastModified="156a0f83365">
