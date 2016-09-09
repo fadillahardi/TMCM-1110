@@ -1,0 +1,930 @@
+Added Component: Designator=2k2_2(AXIAL-0.3)
+Added Component: Designator=2k2(AXIAL-0.3)
+Added Component: Designator=4k7_2(AXIAL-0.3)
+Added Component: Designator=4k7(AXIAL-0.3)
+Added Component: Designator=5V to 3.3V(My_TO-220)
+Added Component: Designator=10k_2(AXIAL-0.3)
+Added Component: Designator=10k(AXIAL-0.3)
+Added Component: Designator=10uF(CAPR5-4X5)
+Added Component: Designator=33uF_c(CAPR5-4X5)
+Added Component: Designator=47_pF(My_cap100n)
+Added Component: Designator=47pF(My_cap100n)
+Added Component: Designator=47p(My_cap100n)
+Added Component: Designator=100uF(CAPR5-4X5)
+Added Component: Designator=470nF(CAPR5-4X5)
+Added Component: Designator=7407_2(646-06)
+Added Component: Designator=7407_3(646-06)
+Added Component: Designator=7407_4(646-06)
+Added Component: Designator=7810(My_TO-220)
+Added Component: Designator=C1(CAPR5-4X5)
+Added Component: Designator=C2(CAPR5-4X5)
+Added Component: Designator=C3(CAPR5-4X5)
+Added Component: Designator=C4(CAPR5-4X5)
+Added Component: Designator=C5(CAPR5-4X5)
+Added Component: Designator=C6(CAPR5-4X5)
+Added Component: Designator=C7(CAPR5-4X5)
+Added Component: Designator=C8(CAPR5-4X5)
+Added Component: Designator=C9(CAPR5-4X5)
+Added Component: Designator=C10(CAPR5-4X5)
+Added Component: Designator=can1(My_cap100n)
+Added Component: Designator=can2(My_cap100n)
+Added Component: Designator=can_1(AXIAL-0.3)
+Added Component: Designator=can_2(AXIAL-0.3)
+Added Component: Designator=CAN_out1(HDR1X4)
+Added Component: Designator=CAN_out2(HDR1X4)
+Added Component: Designator=CAN bus 1(PDIP300-P8)
+Added Component: Designator=CAN bus 2(PDIP300-P8)
+Added Component: Designator=CS_1(AXIAL-0.3)
+Added Component: Designator=CS_2(AXIAL-0.3)
+Added Component: Designator=CS_3(AXIAL-0.3)
+Added Component: Designator=CS_4(AXIAL-0.3)
+Added Component: Designator=CS_5(AXIAL-0.3)
+Added Component: Designator=CS_6(AXIAL-0.3)
+Added Component: Designator=D_1(DO-41)
+Added Component: Designator=D_2(DO-41)
+Added Component: Designator=DC_motor1(HDR1X5)
+Added Component: Designator=DC_motor2(HDR1X5)
+Added Component: Designator=DC_MotorDriver1(7407)(646-06)
+Added Component: Designator=diode1(DO-41)
+Added Component: Designator=diode2(DO-41)
+Added Component: Designator=diode11(DO-41)
+Added Component: Designator=diode21(DO-41)
+Added Component: Designator=DSwitch2(648C-02)
+Added Component: Designator=DSwitch3(648C-02)
+Added Component: Designator=DSwitch(648C-02)
+Added Component: Designator=Inductive1(HDR1X3)
+Added Component: Designator=Inductive2(HDR1X3)
+Added Component: Designator=Inductive3(HDR1X3)
+Added Component: Designator=Inductive IC(7407)(646-06)
+Added Component: Designator=Inductive Sensor_LLC(LOGIC_LEVEL_CONVERTER)
+Added Component: Designator=IS1_47pF(My_cap100n)
+Added Component: Designator=IS1(AXIAL-0.3)
+Added Component: Designator=IS2_47pF(My_cap100n)
+Added Component: Designator=IS2(AXIAL-0.3)
+Added Component: Designator=IS3_47pF(My_cap100n)
+Added Component: Designator=IS3(AXIAL-0.3)
+Added Component: Designator=IS4(AXIAL-0.3)
+Added Component: Designator=IS5(AXIAL-0.3)
+Added Component: Designator=IS6(AXIAL-0.3)
+Added Component: Designator=IS7(AXIAL-0.3)
+Added Component: Designator=IS8(AXIAL-0.3)
+Added Component: Designator=IS9(AXIAL-0.3)
+Added Component: Designator=IS10(AXIAL-0.3)
+Added Component: Designator=IS11(AXIAL-0.3)
+Added Component: Designator=IS12(AXIAL-0.3)
+Added Component: Designator=IS_1(TO-92)
+Added Component: Designator=IS_2(TO-92)
+Added Component: Designator=IS_3(TO-92)
+Added Component: Designator=IS_4(TO-92)
+Added Component: Designator=IS_5(TO-92)
+Added Component: Designator=IS_6(TO-92)
+Added Component: Designator=J9(HDR1X6)
+Added Component: Designator=J10(HDR1X3)
+Added Component: Designator=J12(HDR1X4)
+Added Component: Designator=KANAN(HDR2X25)
+Added Component: Designator=KIRI(HDR2X25)
+Added Component: Designator=LCC_comm(LOGIC_LEVEL_CONVERTER)
+Added Component: Designator=LLC_1(LOGIC_LEVEL_CONVERTER)
+Added Component: Designator=LLC_2(LOGIC_LEVEL_CONVERTER)
+Added Component: Designator=LLC_3(LOGIC_LEVEL_CONVERTER)
+Added Component: Designator=LLC_4(LOGIC_LEVEL_CONVERTER)
+Added Component: Designator=LLC_5(LOGIC_LEVEL_CONVERTER)
+Added Component: Designator=LLC_6(LOGIC_LEVEL_CONVERTER)
+Added Component: Designator=LLC_CAN bus(LOGIC_LEVEL_CONVERTER)
+Added Component: Designator=LLC_DCMotor1(LOGIC_LEVEL_CONVERTER)
+Added Component: Designator=LLC_DCMotor2(LOGIC_LEVEL_CONVERTER)
+Added Component: Designator=MAX232_1(PE16A)
+Added Component: Designator=MAX232_2(PE16A)
+Added Component: Designator=op-amp1(P008)
+Added Component: Designator=OPA2340(buffer)(P008)
+Added Component: Designator=OPA2340_CS(P008)
+Added Component: Designator=pressure_2(HDR1X3)
+Added Component: Designator=Pressure_transmit(HDR1X6)
+Added Component: Designator=PWR_5_IN(My_CN2)
+Added Component: Designator=PWR_12_IN(My_CN2)
+Added Component: Designator=PWR_24_IN(My_CN2)
+Added Component: Designator=RS232 out 1(HDR2X5)
+Added Component: Designator=RS232 out 2(HDR2X5)
+Added Component: Designator=Sol_valve1(HDR1X8)
+Added Component: Designator=Sol_valve2(HDR1X8)
+Added Component: Designator=Sol_valve3(HDR1X8)
+Added Component: Designator=SW_5(SPST-2)
+Added Component: Designator=SW_12(SPST-2)
+Added Component: Designator=SW_24(SPST-2)
+Added Pin To Net: NetName=3V Pin=LLC_1-P$3
+Added Net: Name=3V
+Added Pin To Net: NetName=5V Pin=LLC_1-P$10
+Added Net: Name=5V
+Added Pin To Net: NetName=DINPLC1 Pin=J9-4
+Added Pin To Net: NetName=DINPLC1 Pin=LLC_1-P$12
+Added Net: Name=DINPLC1
+Added Pin To Net: NetName=DOPLC1 Pin=J9-1
+Added Pin To Net: NetName=DOPLC1 Pin=LLC_1-P$7
+Added Net: Name=DOPLC1
+Added Pin To Net: NetName=DOPLC2 Pin=J9-2
+Added Pin To Net: NetName=DOPLC2 Pin=LLC_1-P$8
+Added Net: Name=DOPLC2
+Added Pin To Net: NetName=DOPLC3 Pin=J9-3
+Added Pin To Net: NetName=DOPLC3 Pin=LLC_1-P$11
+Added Net: Name=DOPLC3
+Added Pin To Net: NetName=DTR_5V Pin=LLC_5-P$11
+Added Pin To Net: NetName=DTR_5V Pin=Pressure_transmit-4
+Added Net: Name=DTR_5V
+Added Pin To Net: NetName=GND Pin=2k2-1
+Added Pin To Net: NetName=GND Pin=2k2_2-1
+Added Pin To Net: NetName=GND Pin=5V to 3.3V-2
+Added Pin To Net: NetName=GND Pin=10uF-2
+Added Pin To Net: NetName=GND Pin=33uF_c-2
+Added Pin To Net: NetName=GND Pin=47_pF-1
+Added Pin To Net: NetName=GND Pin=47p-1
+Added Pin To Net: NetName=GND Pin=47pF-1
+Added Pin To Net: NetName=GND Pin=100uF-2
+Added Pin To Net: NetName=GND Pin=470nF-2
+Added Pin To Net: NetName=GND Pin=7407_2-7
+Added Pin To Net: NetName=GND Pin=7407_3-7
+Added Pin To Net: NetName=GND Pin=7407_4-7
+Added Pin To Net: NetName=GND Pin=7810-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=can1-1
+Added Pin To Net: NetName=GND Pin=can2-1
+Added Pin To Net: NetName=GND Pin=CAN_out1-1
+Added Pin To Net: NetName=GND Pin=CAN_out2-1
+Added Pin To Net: NetName=GND Pin=CAN bus 1-2
+Added Pin To Net: NetName=GND Pin=CAN bus 2-2
+Added Pin To Net: NetName=GND Pin=CS_4-1
+Added Pin To Net: NetName=GND Pin=D_1-1
+Added Pin To Net: NetName=GND Pin=DC_motor1-5
+Added Pin To Net: NetName=GND Pin=DC_motor2-5
+Added Pin To Net: NetName=GND Pin=DC_MotorDriver1(7407)-7
+Added Pin To Net: NetName=GND Pin=diode2-1
+Added Pin To Net: NetName=GND Pin=diode21-1
+Added Pin To Net: NetName=GND Pin=DSwitch2-4
+Added Pin To Net: NetName=GND Pin=DSwitch2-5
+Added Pin To Net: NetName=GND Pin=DSwitch2-12
+Added Pin To Net: NetName=GND Pin=DSwitch2-13
+Added Pin To Net: NetName=GND Pin=DSwitch3-4
+Added Pin To Net: NetName=GND Pin=DSwitch3-5
+Added Pin To Net: NetName=GND Pin=DSwitch3-12
+Added Pin To Net: NetName=GND Pin=DSwitch3-13
+Added Pin To Net: NetName=GND Pin=DSwitch-4
+Added Pin To Net: NetName=GND Pin=DSwitch-5
+Added Pin To Net: NetName=GND Pin=DSwitch-12
+Added Pin To Net: NetName=GND Pin=DSwitch-13
+Added Pin To Net: NetName=GND Pin=Inductive1-1
+Added Pin To Net: NetName=GND Pin=Inductive2-1
+Added Pin To Net: NetName=GND Pin=Inductive3-1
+Added Pin To Net: NetName=GND Pin=Inductive IC(7407)-7
+Added Pin To Net: NetName=GND Pin=Inductive Sensor_LLC-P$4
+Added Pin To Net: NetName=GND Pin=Inductive Sensor_LLC-P$9
+Added Pin To Net: NetName=GND Pin=IS1_47pF-1
+Added Pin To Net: NetName=GND Pin=IS2_47pF-1
+Added Pin To Net: NetName=GND Pin=IS3_47pF-1
+Added Pin To Net: NetName=GND Pin=IS_1-3
+Added Pin To Net: NetName=GND Pin=IS_2-3
+Added Pin To Net: NetName=GND Pin=IS_3-3
+Added Pin To Net: NetName=GND Pin=IS_4-3
+Added Pin To Net: NetName=GND Pin=IS_5-3
+Added Pin To Net: NetName=GND Pin=IS_6-3
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=GND Pin=J12-4
+Added Pin To Net: NetName=GND Pin=KANAN-1
+Added Pin To Net: NetName=GND Pin=KANAN-2
+Added Pin To Net: NetName=GND Pin=KANAN-49
+Added Pin To Net: NetName=GND Pin=KANAN-50
+Added Pin To Net: NetName=GND Pin=KIRI-1
+Added Pin To Net: NetName=GND Pin=KIRI-2
+Added Pin To Net: NetName=GND Pin=KIRI-6
+Added Pin To Net: NetName=GND Pin=KIRI-24
+Added Pin To Net: NetName=GND Pin=KIRI-49
+Added Pin To Net: NetName=GND Pin=KIRI-50
+Added Pin To Net: NetName=GND Pin=LCC_comm-P$4
+Added Pin To Net: NetName=GND Pin=LCC_comm-P$9
+Added Pin To Net: NetName=GND Pin=LLC_1-P$4
+Added Pin To Net: NetName=GND Pin=LLC_1-P$9
+Added Pin To Net: NetName=GND Pin=LLC_2-P$4
+Added Pin To Net: NetName=GND Pin=LLC_2-P$9
+Added Pin To Net: NetName=GND Pin=LLC_3-P$4
+Added Pin To Net: NetName=GND Pin=LLC_3-P$9
+Added Pin To Net: NetName=GND Pin=LLC_4-P$4
+Added Pin To Net: NetName=GND Pin=LLC_4-P$9
+Added Pin To Net: NetName=GND Pin=LLC_5-P$4
+Added Pin To Net: NetName=GND Pin=LLC_5-P$9
+Added Pin To Net: NetName=GND Pin=LLC_6-P$4
+Added Pin To Net: NetName=GND Pin=LLC_6-P$9
+Added Pin To Net: NetName=GND Pin=LLC_CAN bus-P$4
+Added Pin To Net: NetName=GND Pin=LLC_CAN bus-P$9
+Added Pin To Net: NetName=GND Pin=LLC_DCMotor1-P$4
+Added Pin To Net: NetName=GND Pin=LLC_DCMotor1-P$9
+Added Pin To Net: NetName=GND Pin=LLC_DCMotor2-P$4
+Added Pin To Net: NetName=GND Pin=LLC_DCMotor2-P$9
+Added Pin To Net: NetName=GND Pin=MAX232_1-15
+Added Pin To Net: NetName=GND Pin=MAX232_2-15
+Added Pin To Net: NetName=GND Pin=op-amp1-4
+Added Pin To Net: NetName=GND Pin=OPA2340(buffer)-4
+Added Pin To Net: NetName=GND Pin=OPA2340_CS-4
+Added Pin To Net: NetName=GND Pin=pressure_2-3
+Added Pin To Net: NetName=GND Pin=Pressure_transmit-1
+Added Pin To Net: NetName=GND Pin=PWR_5_IN-2
+Added Pin To Net: NetName=GND Pin=PWR_12_IN-2
+Added Pin To Net: NetName=GND Pin=PWR_24_IN-2
+Added Pin To Net: NetName=GND Pin=RS232 out 1-9
+Added Pin To Net: NetName=GND Pin=RS232 out 2-9
+Added Net: Name=GND
+Added Pin To Net: NetName=Net2k2_2_2 Pin=2k2_2-2
+Added Pin To Net: NetName=Net2k2_2_2 Pin=4k7_2-1
+Added Pin To Net: NetName=Net2k2_2_2 Pin=op-amp1-6
+Added Net: Name=Net2k2_2_2
+Added Pin To Net: NetName=Net2k2_2 Pin=2k2-2
+Added Pin To Net: NetName=Net2k2_2 Pin=4k7-1
+Added Pin To Net: NetName=Net2k2_2 Pin=op-amp1-2
+Added Net: Name=Net2k2_2
+Added Pin To Net: NetName=Net4k7_2_2 Pin=4k7_2-2
+Added Pin To Net: NetName=Net4k7_2_2 Pin=10k_2-1
+Added Pin To Net: NetName=Net4k7_2_2 Pin=op-amp1-7
+Added Net: Name=Net4k7_2_2
+Added Pin To Net: NetName=Net4k7_2 Pin=4k7-2
+Added Pin To Net: NetName=Net4k7_2 Pin=10k-1
+Added Pin To Net: NetName=Net4k7_2 Pin=op-amp1-1
+Added Net: Name=Net4k7_2
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=5V to 3.3V-1
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=470nF-1
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=C3-2
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=C5-1
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=C8-2
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=C9-1
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=can1-2
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=can2-2
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=CAN_out1-2
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=CAN_out2-2
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=CAN bus 1-3
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=CAN bus 2-3
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=D_2-2
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=diode1-2
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=diode11-2
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=Inductive Sensor_LLC-P$10
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=IS1-1
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=IS3-1
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=IS5-1
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=IS6-1
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=IS9-1
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=IS10-1
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=J12-3
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=LCC_comm-P$10
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=LLC_2-P$10
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=LLC_3-P$10
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=LLC_4-P$10
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=LLC_5-P$10
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=LLC_6-P$10
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=LLC_CAN bus-P$10
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=LLC_DCMotor1-P$10
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=LLC_DCMotor2-P$10
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=MAX232_1-16
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=MAX232_2-16
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=OPA2340(buffer)-8
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=OPA2340_CS-8
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=Pressure_transmit-2
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=SW_5-2
+Added Net: Name=Net5V to 3.3V_1
+Added Pin To Net: NetName=Net5V to 3.3V_3 Pin=5V to 3.3V-3
+Added Pin To Net: NetName=Net5V to 3.3V_3 Pin=33uF_c-1
+Added Pin To Net: NetName=Net5V to 3.3V_3 Pin=Inductive Sensor_LLC-P$3
+Added Pin To Net: NetName=Net5V to 3.3V_3 Pin=LCC_comm-P$3
+Added Pin To Net: NetName=Net5V to 3.3V_3 Pin=LLC_2-P$3
+Added Pin To Net: NetName=Net5V to 3.3V_3 Pin=LLC_3-P$3
+Added Pin To Net: NetName=Net5V to 3.3V_3 Pin=LLC_4-P$3
+Added Pin To Net: NetName=Net5V to 3.3V_3 Pin=LLC_5-P$3
+Added Pin To Net: NetName=Net5V to 3.3V_3 Pin=LLC_6-P$3
+Added Pin To Net: NetName=Net5V to 3.3V_3 Pin=LLC_CAN bus-P$3
+Added Pin To Net: NetName=Net5V to 3.3V_3 Pin=LLC_DCMotor1-P$3
+Added Pin To Net: NetName=Net5V to 3.3V_3 Pin=LLC_DCMotor2-P$3
+Added Net: Name=Net5V to 3.3V_3
+Added Pin To Net: NetName=Net10k_2_2 Pin=10k_2-2
+Added Pin To Net: NetName=Net10k_2_2 Pin=DC_motor2-4
+Added Net: Name=Net10k_2_2
+Added Pin To Net: NetName=Net10k_2 Pin=10k-2
+Added Pin To Net: NetName=Net10k_2 Pin=DC_motor1-4
+Added Net: Name=Net10k_2
+Added Pin To Net: NetName=Net10uF_1 Pin=10uF-1
+Added Pin To Net: NetName=Net10uF_1 Pin=7810-3
+Added Pin To Net: NetName=Net10uF_1 Pin=DSwitch2-14
+Added Pin To Net: NetName=Net10uF_1 Pin=DSwitch3-14
+Added Pin To Net: NetName=Net10uF_1 Pin=DSwitch-14
+Added Pin To Net: NetName=Net10uF_1 Pin=Inductive1-2
+Added Pin To Net: NetName=Net10uF_1 Pin=Inductive2-2
+Added Pin To Net: NetName=Net10uF_1 Pin=Inductive3-2
+Added Pin To Net: NetName=Net10uF_1 Pin=op-amp1-8
+Added Net: Name=Net10uF_1
+Added Pin To Net: NetName=Net47_pF_2 Pin=47_pF-2
+Added Pin To Net: NetName=Net47_pF_2 Pin=diode11-1
+Added Pin To Net: NetName=Net47_pF_2 Pin=diode21-2
+Added Pin To Net: NetName=Net47_pF_2 Pin=OPA2340(buffer)-5
+Added Pin To Net: NetName=Net47_pF_2 Pin=pressure_2-1
+Added Net: Name=Net47_pF_2
+Added Pin To Net: NetName=Net47p_2 Pin=47p-2
+Added Pin To Net: NetName=Net47p_2 Pin=CS_6-2
+Added Pin To Net: NetName=Net47p_2 Pin=D_1-2
+Added Pin To Net: NetName=Net47p_2 Pin=D_2-1
+Added Pin To Net: NetName=Net47p_2 Pin=OPA2340_CS-3
+Added Net: Name=Net47p_2
+Added Pin To Net: NetName=Net47pF_2 Pin=47pF-2
+Added Pin To Net: NetName=Net47pF_2 Pin=diode1-1
+Added Pin To Net: NetName=Net47pF_2 Pin=diode2-2
+Added Pin To Net: NetName=Net47pF_2 Pin=J10-1
+Added Pin To Net: NetName=Net47pF_2 Pin=OPA2340(buffer)-3
+Added Net: Name=Net47pF_2
+Added Pin To Net: NetName=Net100uF_1 Pin=100uF-1
+Added Pin To Net: NetName=Net100uF_1 Pin=7810-1
+Added Pin To Net: NetName=Net100uF_1 Pin=DSwitch2-1
+Added Pin To Net: NetName=Net100uF_1 Pin=DSwitch2-9
+Added Pin To Net: NetName=Net100uF_1 Pin=DSwitch3-1
+Added Pin To Net: NetName=Net100uF_1 Pin=DSwitch3-9
+Added Pin To Net: NetName=Net100uF_1 Pin=DSwitch-1
+Added Pin To Net: NetName=Net100uF_1 Pin=DSwitch-9
+Added Pin To Net: NetName=Net100uF_1 Pin=J10-2
+Added Pin To Net: NetName=Net100uF_1 Pin=pressure_2-2
+Added Pin To Net: NetName=Net100uF_1 Pin=Sol_valve1-2
+Added Pin To Net: NetName=Net100uF_1 Pin=Sol_valve1-4
+Added Pin To Net: NetName=Net100uF_1 Pin=Sol_valve1-6
+Added Pin To Net: NetName=Net100uF_1 Pin=Sol_valve1-8
+Added Pin To Net: NetName=Net100uF_1 Pin=Sol_valve2-2
+Added Pin To Net: NetName=Net100uF_1 Pin=Sol_valve2-4
+Added Pin To Net: NetName=Net100uF_1 Pin=Sol_valve2-6
+Added Pin To Net: NetName=Net100uF_1 Pin=Sol_valve2-8
+Added Pin To Net: NetName=Net100uF_1 Pin=Sol_valve3-2
+Added Pin To Net: NetName=Net100uF_1 Pin=Sol_valve3-4
+Added Pin To Net: NetName=Net100uF_1 Pin=Sol_valve3-6
+Added Pin To Net: NetName=Net100uF_1 Pin=Sol_valve3-8
+Added Pin To Net: NetName=Net100uF_1 Pin=SW_24-2
+Added Net: Name=Net100uF_1
+Added Pin To Net: NetName=Net7407_2_1 Pin=7407_2-1
+Added Pin To Net: NetName=Net7407_2_1 Pin=LLC_3-P$12
+Added Net: Name=Net7407_2_1
+Added Pin To Net: NetName=Net7407_2_2 Pin=7407_2-2
+Added Pin To Net: NetName=Net7407_2_2 Pin=DSwitch-3
+Added Net: Name=Net7407_2_2
+Added Pin To Net: NetName=Net7407_2_3 Pin=7407_2-3
+Added Pin To Net: NetName=Net7407_2_3 Pin=LLC_3-P$11
+Added Net: Name=Net7407_2_3
+Added Pin To Net: NetName=Net7407_2_4 Pin=7407_2-4
+Added Pin To Net: NetName=Net7407_2_4 Pin=DSwitch-6
+Added Net: Name=Net7407_2_4
+Added Pin To Net: NetName=Net7407_2_5 Pin=7407_2-5
+Added Pin To Net: NetName=Net7407_2_5 Pin=LLC_3-P$8
+Added Net: Name=Net7407_2_5
+Added Pin To Net: NetName=Net7407_2_6 Pin=7407_2-6
+Added Pin To Net: NetName=Net7407_2_6 Pin=DSwitch-11
+Added Net: Name=Net7407_2_6
+Added Pin To Net: NetName=Net7407_2_8 Pin=7407_2-8
+Added Pin To Net: NetName=Net7407_2_8 Pin=DSwitch-15
+Added Net: Name=Net7407_2_8
+Added Pin To Net: NetName=Net7407_2_9 Pin=7407_2-9
+Added Pin To Net: NetName=Net7407_2_9 Pin=LLC_3-P$7
+Added Net: Name=Net7407_2_9
+Added Pin To Net: NetName=Net7407_3_1 Pin=7407_3-1
+Added Pin To Net: NetName=Net7407_3_1 Pin=LLC_2-P$12
+Added Net: Name=Net7407_3_1
+Added Pin To Net: NetName=Net7407_3_2 Pin=7407_3-2
+Added Pin To Net: NetName=Net7407_3_2 Pin=DSwitch2-3
+Added Net: Name=Net7407_3_2
+Added Pin To Net: NetName=Net7407_3_3 Pin=7407_3-3
+Added Pin To Net: NetName=Net7407_3_3 Pin=LLC_2-P$11
+Added Net: Name=Net7407_3_3
+Added Pin To Net: NetName=Net7407_3_4 Pin=7407_3-4
+Added Pin To Net: NetName=Net7407_3_4 Pin=DSwitch2-6
+Added Net: Name=Net7407_3_4
+Added Pin To Net: NetName=Net7407_3_5 Pin=7407_3-5
+Added Pin To Net: NetName=Net7407_3_5 Pin=LLC_2-P$8
+Added Net: Name=Net7407_3_5
+Added Pin To Net: NetName=Net7407_3_6 Pin=7407_3-6
+Added Pin To Net: NetName=Net7407_3_6 Pin=DSwitch2-11
+Added Net: Name=Net7407_3_6
+Added Pin To Net: NetName=Net7407_3_8 Pin=7407_3-8
+Added Pin To Net: NetName=Net7407_3_8 Pin=DSwitch2-15
+Added Net: Name=Net7407_3_8
+Added Pin To Net: NetName=Net7407_3_9 Pin=7407_3-9
+Added Pin To Net: NetName=Net7407_3_9 Pin=LLC_2-P$7
+Added Net: Name=Net7407_3_9
+Added Pin To Net: NetName=Net7407_4_1 Pin=7407_4-1
+Added Pin To Net: NetName=Net7407_4_1 Pin=LLC_4-P$12
+Added Net: Name=Net7407_4_1
+Added Pin To Net: NetName=Net7407_4_2 Pin=7407_4-2
+Added Pin To Net: NetName=Net7407_4_2 Pin=DSwitch3-3
+Added Net: Name=Net7407_4_2
+Added Pin To Net: NetName=Net7407_4_3 Pin=7407_4-3
+Added Pin To Net: NetName=Net7407_4_3 Pin=LLC_4-P$11
+Added Net: Name=Net7407_4_3
+Added Pin To Net: NetName=Net7407_4_4 Pin=7407_4-4
+Added Pin To Net: NetName=Net7407_4_4 Pin=DSwitch3-6
+Added Net: Name=Net7407_4_4
+Added Pin To Net: NetName=Net7407_4_5 Pin=7407_4-5
+Added Pin To Net: NetName=Net7407_4_5 Pin=LLC_4-P$8
+Added Net: Name=Net7407_4_5
+Added Pin To Net: NetName=Net7407_4_6 Pin=7407_4-6
+Added Pin To Net: NetName=Net7407_4_6 Pin=DSwitch3-11
+Added Net: Name=Net7407_4_6
+Added Pin To Net: NetName=Net7407_4_8 Pin=7407_4-8
+Added Pin To Net: NetName=Net7407_4_8 Pin=DSwitch3-15
+Added Net: Name=Net7407_4_8
+Added Pin To Net: NetName=Net7407_4_9 Pin=7407_4-9
+Added Pin To Net: NetName=Net7407_4_9 Pin=LLC_4-P$7
+Added Net: Name=Net7407_4_9
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=MAX232_1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=MAX232_1-3
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=MAX232_1-4
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=MAX232_1-5
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=MAX232_1-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=MAX232_1-6
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=MAX232_2-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=MAX232_2-3
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=MAX232_2-4
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=MAX232_2-5
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=MAX232_2-2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=MAX232_2-6
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=Netcan_1_1 Pin=can_1-1
+Added Pin To Net: NetName=Netcan_1_1 Pin=CAN_out1-4
+Added Pin To Net: NetName=Netcan_1_1 Pin=CAN bus 1-6
+Added Net: Name=Netcan_1_1
+Added Pin To Net: NetName=Netcan_1_2 Pin=can_1-2
+Added Pin To Net: NetName=Netcan_1_2 Pin=CAN_out1-3
+Added Pin To Net: NetName=Netcan_1_2 Pin=CAN bus 1-7
+Added Net: Name=Netcan_1_2
+Added Pin To Net: NetName=Netcan_2_1 Pin=can_2-1
+Added Pin To Net: NetName=Netcan_2_1 Pin=CAN_out2-4
+Added Pin To Net: NetName=Netcan_2_1 Pin=CAN bus 2-6
+Added Net: Name=Netcan_2_1
+Added Pin To Net: NetName=Netcan_2_2 Pin=can_2-2
+Added Pin To Net: NetName=Netcan_2_2 Pin=CAN_out2-3
+Added Pin To Net: NetName=Netcan_2_2 Pin=CAN bus 2-7
+Added Net: Name=Netcan_2_2
+Added Pin To Net: NetName=NetCAN bus 1_1 Pin=CAN bus 1-1
+Added Pin To Net: NetName=NetCAN bus 1_1 Pin=LLC_CAN bus-P$12
+Added Net: Name=NetCAN bus 1_1
+Added Pin To Net: NetName=NetCAN bus 1_4 Pin=CAN bus 1-4
+Added Pin To Net: NetName=NetCAN bus 1_4 Pin=LLC_CAN bus-P$11
+Added Net: Name=NetCAN bus 1_4
+Added Pin To Net: NetName=NetCAN bus 2_1 Pin=CAN bus 2-1
+Added Pin To Net: NetName=NetCAN bus 2_1 Pin=LLC_CAN bus-P$8
+Added Net: Name=NetCAN bus 2_1
+Added Pin To Net: NetName=NetCAN bus 2_4 Pin=CAN bus 2-4
+Added Pin To Net: NetName=NetCAN bus 2_4 Pin=LLC_CAN bus-P$7
+Added Net: Name=NetCAN bus 2_4
+Added Pin To Net: NetName=NetCS_1_1 Pin=CS_1-1
+Added Pin To Net: NetName=NetCS_1_1 Pin=CS_2-2
+Added Pin To Net: NetName=NetCS_1_1 Pin=J9-5
+Added Net: Name=NetCS_1_1
+Added Pin To Net: NetName=NetCS_1_2 Pin=CS_1-2
+Added Pin To Net: NetName=NetCS_1_2 Pin=CS_5-1
+Added Pin To Net: NetName=NetCS_1_2 Pin=OPA2340_CS-6
+Added Net: Name=NetCS_1_2
+Added Pin To Net: NetName=NetCS_2_1 Pin=CS_2-1
+Added Pin To Net: NetName=NetCS_2_1 Pin=CS_3-1
+Added Pin To Net: NetName=NetCS_2_1 Pin=J9-6
+Added Net: Name=NetCS_2_1
+Added Pin To Net: NetName=NetCS_3_2 Pin=CS_3-2
+Added Pin To Net: NetName=NetCS_3_2 Pin=CS_4-2
+Added Pin To Net: NetName=NetCS_3_2 Pin=OPA2340_CS-5
+Added Net: Name=NetCS_3_2
+Added Pin To Net: NetName=NetCS_5_2 Pin=CS_5-2
+Added Pin To Net: NetName=NetCS_5_2 Pin=CS_6-1
+Added Pin To Net: NetName=NetCS_5_2 Pin=OPA2340_CS-7
+Added Net: Name=NetCS_5_2
+Added Pin To Net: NetName=NetDC_motor1_1 Pin=DC_motor1-1
+Added Pin To Net: NetName=NetDC_motor1_1 Pin=DC_MotorDriver1(7407)-2
+Added Net: Name=NetDC_motor1_1
+Added Pin To Net: NetName=NetDC_motor1_2 Pin=DC_motor1-2
+Added Pin To Net: NetName=NetDC_motor1_2 Pin=DC_MotorDriver1(7407)-4
+Added Net: Name=NetDC_motor1_2
+Added Pin To Net: NetName=NetDC_motor1_3 Pin=DC_motor1-3
+Added Pin To Net: NetName=NetDC_motor1_3 Pin=DC_MotorDriver1(7407)-6
+Added Net: Name=NetDC_motor1_3
+Added Pin To Net: NetName=NetDC_motor2_1 Pin=DC_motor2-1
+Added Pin To Net: NetName=NetDC_motor2_1 Pin=DC_MotorDriver1(7407)-8
+Added Net: Name=NetDC_motor2_1
+Added Pin To Net: NetName=NetDC_motor2_2 Pin=DC_motor2-2
+Added Pin To Net: NetName=NetDC_motor2_2 Pin=DC_MotorDriver1(7407)-10
+Added Net: Name=NetDC_motor2_2
+Added Pin To Net: NetName=NetDC_motor2_3 Pin=DC_motor2-3
+Added Pin To Net: NetName=NetDC_motor2_3 Pin=DC_MotorDriver1(7407)-12
+Added Net: Name=NetDC_motor2_3
+Added Pin To Net: NetName=NetDC_MotorDriver1(7407)_1 Pin=DC_MotorDriver1(7407)-1
+Added Pin To Net: NetName=NetDC_MotorDriver1(7407)_1 Pin=LLC_DCMotor1-P$12
+Added Net: Name=NetDC_MotorDriver1(7407)_1
+Added Pin To Net: NetName=NetDC_MotorDriver1(7407)_3 Pin=DC_MotorDriver1(7407)-3
+Added Pin To Net: NetName=NetDC_MotorDriver1(7407)_3 Pin=LLC_DCMotor1-P$11
+Added Net: Name=NetDC_MotorDriver1(7407)_3
+Added Pin To Net: NetName=NetDC_MotorDriver1(7407)_5 Pin=DC_MotorDriver1(7407)-5
+Added Pin To Net: NetName=NetDC_MotorDriver1(7407)_5 Pin=LLC_DCMotor1-P$8
+Added Net: Name=NetDC_MotorDriver1(7407)_5
+Added Pin To Net: NetName=NetDC_MotorDriver1(7407)_9 Pin=DC_MotorDriver1(7407)-9
+Added Pin To Net: NetName=NetDC_MotorDriver1(7407)_9 Pin=LLC_DCMotor2-P$12
+Added Net: Name=NetDC_MotorDriver1(7407)_9
+Added Pin To Net: NetName=NetDC_MotorDriver1(7407)_11 Pin=DC_MotorDriver1(7407)-11
+Added Pin To Net: NetName=NetDC_MotorDriver1(7407)_11 Pin=LLC_DCMotor2-P$11
+Added Net: Name=NetDC_MotorDriver1(7407)_11
+Added Pin To Net: NetName=NetDC_MotorDriver1(7407)_13 Pin=DC_MotorDriver1(7407)-13
+Added Pin To Net: NetName=NetDC_MotorDriver1(7407)_13 Pin=LLC_DCMotor2-P$8
+Added Net: Name=NetDC_MotorDriver1(7407)_13
+Added Pin To Net: NetName=NetDSwitch2_2 Pin=DSwitch2-2
+Added Pin To Net: NetName=NetDSwitch2_2 Pin=Sol_valve2-1
+Added Net: Name=NetDSwitch2_2
+Added Pin To Net: NetName=NetDSwitch2_8 Pin=DSwitch2-8
+Added Pin To Net: NetName=NetDSwitch2_8 Pin=Sol_valve2-3
+Added Net: Name=NetDSwitch2_8
+Added Pin To Net: NetName=NetDSwitch2_10 Pin=DSwitch2-10
+Added Pin To Net: NetName=NetDSwitch2_10 Pin=Sol_valve2-5
+Added Net: Name=NetDSwitch2_10
+Added Pin To Net: NetName=NetDSwitch2_16 Pin=DSwitch2-16
+Added Pin To Net: NetName=NetDSwitch2_16 Pin=Sol_valve2-7
+Added Net: Name=NetDSwitch2_16
+Added Pin To Net: NetName=NetDSwitch3_2 Pin=DSwitch3-2
+Added Pin To Net: NetName=NetDSwitch3_2 Pin=Sol_valve3-1
+Added Net: Name=NetDSwitch3_2
+Added Pin To Net: NetName=NetDSwitch3_8 Pin=DSwitch3-8
+Added Pin To Net: NetName=NetDSwitch3_8 Pin=Sol_valve3-3
+Added Net: Name=NetDSwitch3_8
+Added Pin To Net: NetName=NetDSwitch3_10 Pin=DSwitch3-10
+Added Pin To Net: NetName=NetDSwitch3_10 Pin=Sol_valve3-5
+Added Net: Name=NetDSwitch3_10
+Added Pin To Net: NetName=NetDSwitch3_16 Pin=DSwitch3-16
+Added Pin To Net: NetName=NetDSwitch3_16 Pin=Sol_valve3-7
+Added Net: Name=NetDSwitch3_16
+Added Pin To Net: NetName=NetDSwitch_2 Pin=DSwitch-2
+Added Pin To Net: NetName=NetDSwitch_2 Pin=Sol_valve1-1
+Added Net: Name=NetDSwitch_2
+Added Pin To Net: NetName=NetDSwitch_8 Pin=DSwitch-8
+Added Pin To Net: NetName=NetDSwitch_8 Pin=Sol_valve1-3
+Added Net: Name=NetDSwitch_8
+Added Pin To Net: NetName=NetDSwitch_10 Pin=DSwitch-10
+Added Pin To Net: NetName=NetDSwitch_10 Pin=Sol_valve1-5
+Added Net: Name=NetDSwitch_10
+Added Pin To Net: NetName=NetDSwitch_16 Pin=DSwitch-16
+Added Pin To Net: NetName=NetDSwitch_16 Pin=Sol_valve1-7
+Added Net: Name=NetDSwitch_16
+Added Pin To Net: NetName=NetInductive1_3 Pin=Inductive1-3
+Added Pin To Net: NetName=NetInductive1_3 Pin=IS4-2
+Added Net: Name=NetInductive1_3
+Added Pin To Net: NetName=NetInductive2_3 Pin=Inductive2-3
+Added Pin To Net: NetName=NetInductive2_3 Pin=IS8-2
+Added Net: Name=NetInductive2_3
+Added Pin To Net: NetName=NetInductive3_3 Pin=Inductive3-3
+Added Pin To Net: NetName=NetInductive3_3 Pin=IS12-2
+Added Net: Name=NetInductive3_3
+Added Pin To Net: NetName=NetInductive IC(7407)_1 Pin=Inductive IC(7407)-1
+Added Pin To Net: NetName=NetInductive IC(7407)_1 Pin=IS1-2
+Added Pin To Net: NetName=NetInductive IC(7407)_1 Pin=IS1_47pF-2
+Added Pin To Net: NetName=NetInductive IC(7407)_1 Pin=IS_2-1
+Added Net: Name=NetInductive IC(7407)_1
+Added Pin To Net: NetName=NetInductive IC(7407)_2 Pin=Inductive IC(7407)-2
+Added Pin To Net: NetName=NetInductive IC(7407)_2 Pin=Inductive Sensor_LLC-P$12
+Added Net: Name=NetInductive IC(7407)_2
+Added Pin To Net: NetName=NetInductive IC(7407)_3 Pin=Inductive IC(7407)-3
+Added Pin To Net: NetName=NetInductive IC(7407)_3 Pin=IS2_47pF-2
+Added Pin To Net: NetName=NetInductive IC(7407)_3 Pin=IS5-2
+Added Pin To Net: NetName=NetInductive IC(7407)_3 Pin=IS_4-1
+Added Net: Name=NetInductive IC(7407)_3
+Added Pin To Net: NetName=NetInductive IC(7407)_4 Pin=Inductive IC(7407)-4
+Added Pin To Net: NetName=NetInductive IC(7407)_4 Pin=Inductive Sensor_LLC-P$11
+Added Net: Name=NetInductive IC(7407)_4
+Added Pin To Net: NetName=NetInductive IC(7407)_5 Pin=Inductive IC(7407)-5
+Added Pin To Net: NetName=NetInductive IC(7407)_5 Pin=IS3_47pF-2
+Added Pin To Net: NetName=NetInductive IC(7407)_5 Pin=IS9-2
+Added Pin To Net: NetName=NetInductive IC(7407)_5 Pin=IS_6-1
+Added Net: Name=NetInductive IC(7407)_5
+Added Pin To Net: NetName=NetInductive IC(7407)_6 Pin=Inductive IC(7407)-6
+Added Pin To Net: NetName=NetInductive IC(7407)_6 Pin=Inductive Sensor_LLC-P$8
+Added Net: Name=NetInductive IC(7407)_6
+Added Pin To Net: NetName=NetIS2_1 Pin=IS2-1
+Added Pin To Net: NetName=NetIS2_1 Pin=IS_2-2
+Added Net: Name=NetIS2_1
+Added Pin To Net: NetName=NetIS2_2 Pin=IS2-2
+Added Pin To Net: NetName=NetIS2_2 Pin=IS3-2
+Added Pin To Net: NetName=NetIS2_2 Pin=IS_1-1
+Added Net: Name=NetIS2_2
+Added Pin To Net: NetName=NetIS4_1 Pin=IS4-1
+Added Pin To Net: NetName=NetIS4_1 Pin=IS_1-2
+Added Net: Name=NetIS4_1
+Added Pin To Net: NetName=NetIS6_2 Pin=IS6-2
+Added Pin To Net: NetName=NetIS6_2 Pin=IS7-2
+Added Pin To Net: NetName=NetIS6_2 Pin=IS_3-1
+Added Net: Name=NetIS6_2
+Added Pin To Net: NetName=NetIS7_1 Pin=IS7-1
+Added Pin To Net: NetName=NetIS7_1 Pin=IS_4-2
+Added Net: Name=NetIS7_1
+Added Pin To Net: NetName=NetIS8_1 Pin=IS8-1
+Added Pin To Net: NetName=NetIS8_1 Pin=IS_3-2
+Added Net: Name=NetIS8_1
+Added Pin To Net: NetName=NetIS10_2 Pin=IS10-2
+Added Pin To Net: NetName=NetIS10_2 Pin=IS11-2
+Added Pin To Net: NetName=NetIS10_2 Pin=IS_5-1
+Added Net: Name=NetIS10_2
+Added Pin To Net: NetName=NetIS11_1 Pin=IS11-1
+Added Pin To Net: NetName=NetIS11_1 Pin=IS_6-2
+Added Net: Name=NetIS11_1
+Added Pin To Net: NetName=NetIS12_1 Pin=IS12-1
+Added Pin To Net: NetName=NetIS12_1 Pin=IS_5-2
+Added Net: Name=NetIS12_1
+Added Pin To Net: NetName=NetKANAN_5 Pin=KANAN-5
+Added Pin To Net: NetName=NetKANAN_5 Pin=KANAN-6
+Added Net: Name=NetKANAN_5
+Added Pin To Net: NetName=NetKANAN_7 Pin=KANAN-7
+Added Net: Name=NetKANAN_7
+Added Pin To Net: NetName=NetKANAN_8 Pin=KANAN-8
+Added Net: Name=NetKANAN_8
+Added Pin To Net: NetName=NetKANAN_9 Pin=KANAN-9
+Added Net: Name=NetKANAN_9
+Added Pin To Net: NetName=NetKANAN_10 Pin=KANAN-10
+Added Net: Name=NetKANAN_10
+Added Pin To Net: NetName=NetKANAN_11 Pin=KANAN-11
+Added Net: Name=NetKANAN_11
+Added Pin To Net: NetName=NetKANAN_12 Pin=KANAN-12
+Added Net: Name=NetKANAN_12
+Added Pin To Net: NetName=NetKANAN_13 Pin=KANAN-13
+Added Net: Name=NetKANAN_13
+Added Pin To Net: NetName=NetKANAN_14 Pin=KANAN-14
+Added Net: Name=NetKANAN_14
+Added Pin To Net: NetName=NetKANAN_15 Pin=KANAN-15
+Added Net: Name=NetKANAN_15
+Added Pin To Net: NetName=NetKANAN_16 Pin=KANAN-16
+Added Net: Name=NetKANAN_16
+Added Pin To Net: NetName=NetKANAN_17 Pin=KANAN-17
+Added Net: Name=NetKANAN_17
+Added Pin To Net: NetName=NetKANAN_18 Pin=KANAN-18
+Added Net: Name=NetKANAN_18
+Added Pin To Net: NetName=NetKANAN_19 Pin=KANAN-19
+Added Pin To Net: NetName=NetKANAN_19 Pin=LLC_CAN bus-P$5
+Added Net: Name=NetKANAN_19
+Added Pin To Net: NetName=NetKANAN_20 Pin=KANAN-20
+Added Pin To Net: NetName=NetKANAN_20 Pin=LLC_CAN bus-P$6
+Added Net: Name=NetKANAN_20
+Added Pin To Net: NetName=NetKANAN_21 Pin=KANAN-21
+Added Pin To Net: NetName=NetKANAN_21 Pin=KIRI-3
+Added Pin To Net: NetName=NetKANAN_21 Pin=KIRI-4
+Added Net: Name=NetKANAN_21
+Added Pin To Net: NetName=NetKANAN_22 Pin=KANAN-22
+Added Net: Name=NetKANAN_22
+Added Pin To Net: NetName=NetKANAN_23 Pin=KANAN-23
+Added Net: Name=NetKANAN_23
+Added Pin To Net: NetName=NetKANAN_24 Pin=KANAN-24
+Added Pin To Net: NetName=NetKANAN_24 Pin=LLC_CAN bus-P$1
+Added Net: Name=NetKANAN_24
+Added Pin To Net: NetName=NetKANAN_25 Pin=KANAN-25
+Added Pin To Net: NetName=NetKANAN_25 Pin=LLC_CAN bus-P$2
+Added Net: Name=NetKANAN_25
+Added Pin To Net: NetName=NetKANAN_26 Pin=KANAN-26
+Added Net: Name=NetKANAN_26
+Added Pin To Net: NetName=NetKANAN_27 Pin=KANAN-27
+Added Net: Name=NetKANAN_27
+Added Pin To Net: NetName=NetKANAN_28 Pin=KANAN-28
+Added Net: Name=NetKANAN_28
+Added Pin To Net: NetName=NetKANAN_29 Pin=KANAN-29
+Added Net: Name=NetKANAN_29
+Added Pin To Net: NetName=NetKANAN_30 Pin=KANAN-30
+Added Net: Name=NetKANAN_30
+Added Pin To Net: NetName=NetKANAN_31 Pin=KANAN-31
+Added Net: Name=NetKANAN_31
+Added Pin To Net: NetName=NetKANAN_32 Pin=KANAN-32
+Added Net: Name=NetKANAN_32
+Added Pin To Net: NetName=NetKANAN_33 Pin=KANAN-33
+Added Net: Name=NetKANAN_33
+Added Pin To Net: NetName=NetKANAN_34 Pin=KANAN-34
+Added Net: Name=NetKANAN_34
+Added Pin To Net: NetName=NetKANAN_35 Pin=KANAN-35
+Added Net: Name=NetKANAN_35
+Added Pin To Net: NetName=NetKANAN_36 Pin=KANAN-36
+Added Net: Name=NetKANAN_36
+Added Pin To Net: NetName=NetKANAN_37 Pin=KANAN-37
+Added Net: Name=NetKANAN_37
+Added Pin To Net: NetName=NetKANAN_38 Pin=KANAN-38
+Added Net: Name=NetKANAN_38
+Added Pin To Net: NetName=NetKANAN_39 Pin=KANAN-39
+Added Net: Name=NetKANAN_39
+Added Pin To Net: NetName=NetKANAN_40 Pin=KANAN-40
+Added Net: Name=NetKANAN_40
+Added Pin To Net: NetName=NetKANAN_41 Pin=KANAN-41
+Added Net: Name=NetKANAN_41
+Added Pin To Net: NetName=NetKANAN_42 Pin=KANAN-42
+Added Net: Name=NetKANAN_42
+Added Pin To Net: NetName=NetKANAN_43 Pin=KANAN-43
+Added Net: Name=NetKANAN_43
+Added Pin To Net: NetName=NetKANAN_44 Pin=KANAN-44
+Added Net: Name=NetKANAN_44
+Added Pin To Net: NetName=NetKANAN_45 Pin=KANAN-45
+Added Net: Name=NetKANAN_45
+Added Pin To Net: NetName=NetKANAN_46 Pin=KANAN-46
+Added Net: Name=NetKANAN_46
+Added Pin To Net: NetName=NetKANAN_47 Pin=KANAN-47
+Added Net: Name=NetKANAN_47
+Added Pin To Net: NetName=NetKANAN_48 Pin=KANAN-48
+Added Net: Name=NetKANAN_48
+Added Pin To Net: NetName=NetKIRI_5 Pin=KIRI-5
+Added Net: Name=NetKIRI_5
+Added Pin To Net: NetName=NetKIRI_7 Pin=KIRI-7
+Added Net: Name=NetKIRI_7
+Added Pin To Net: NetName=NetKIRI_8 Pin=KIRI-8
+Added Net: Name=NetKIRI_8
+Added Pin To Net: NetName=NetKIRI_9 Pin=KIRI-9
+Added Net: Name=NetKIRI_9
+Added Pin To Net: NetName=NetKIRI_10 Pin=KIRI-10
+Added Net: Name=NetKIRI_10
+Added Pin To Net: NetName=NetKIRI_11 Pin=KIRI-11
+Added Net: Name=NetKIRI_11
+Added Pin To Net: NetName=NetKIRI_12 Pin=KIRI-12
+Added Net: Name=NetKIRI_12
+Added Pin To Net: NetName=NetKIRI_13 Pin=KIRI-13
+Added Pin To Net: NetName=NetKIRI_13 Pin=LLC_6-P$5
+Added Net: Name=NetKIRI_13
+Added Pin To Net: NetName=NetKIRI_14 Pin=KIRI-14
+Added Pin To Net: NetName=NetKIRI_14 Pin=LLC_6-P$6
+Added Net: Name=NetKIRI_14
+Added Pin To Net: NetName=NetKIRI_15 Pin=KIRI-15
+Added Net: Name=NetKIRI_15
+Added Pin To Net: NetName=NetKIRI_16 Pin=KIRI-16
+Added Net: Name=NetKIRI_16
+Added Pin To Net: NetName=NetKIRI_17 Pin=KIRI-17
+Added Net: Name=NetKIRI_17
+Added Pin To Net: NetName=NetKIRI_18 Pin=KIRI-18
+Added Net: Name=NetKIRI_18
+Added Pin To Net: NetName=NetKIRI_19 Pin=KIRI-19
+Added Net: Name=NetKIRI_19
+Added Pin To Net: NetName=NetKIRI_20 Pin=KIRI-20
+Added Net: Name=NetKIRI_20
+Added Pin To Net: NetName=NetKIRI_21 Pin=KIRI-21
+Added Net: Name=NetKIRI_21
+Added Pin To Net: NetName=NetKIRI_22 Pin=KIRI-22
+Added Net: Name=NetKIRI_22
+Added Pin To Net: NetName=NetKIRI_23 Pin=KIRI-23
+Added Net: Name=NetKIRI_23
+Added Pin To Net: NetName=NetKIRI_25 Pin=KIRI-25
+Added Net: Name=NetKIRI_25
+Added Pin To Net: NetName=NetKIRI_26 Pin=KIRI-26
+Added Net: Name=NetKIRI_26
+Added Pin To Net: NetName=NetKIRI_27 Pin=KIRI-27
+Added Net: Name=NetKIRI_27
+Added Pin To Net: NetName=NetKIRI_28 Pin=KIRI-28
+Added Net: Name=NetKIRI_28
+Added Pin To Net: NetName=NetKIRI_29 Pin=KIRI-29
+Added Net: Name=NetKIRI_29
+Added Pin To Net: NetName=NetKIRI_30 Pin=KIRI-30
+Added Net: Name=NetKIRI_30
+Added Pin To Net: NetName=NetKIRI_31 Pin=KIRI-31
+Added Net: Name=NetKIRI_31
+Added Pin To Net: NetName=NetKIRI_32 Pin=KIRI-32
+Added Net: Name=NetKIRI_32
+Added Pin To Net: NetName=NetKIRI_33 Pin=KIRI-33
+Added Pin To Net: NetName=NetKIRI_33 Pin=LLC_5-P$6
+Added Net: Name=NetKIRI_33
+Added Pin To Net: NetName=NetKIRI_34 Pin=KIRI-34
+Added Net: Name=NetKIRI_34
+Added Pin To Net: NetName=NetKIRI_35 Pin=KIRI-35
+Added Net: Name=NetKIRI_35
+Added Pin To Net: NetName=NetKIRI_36 Pin=KIRI-36
+Added Pin To Net: NetName=NetKIRI_36 Pin=LLC_5-P$5
+Added Net: Name=NetKIRI_36
+Added Pin To Net: NetName=NetKIRI_37 Pin=KIRI-37
+Added Net: Name=NetKIRI_37
+Added Pin To Net: NetName=NetKIRI_38 Pin=KIRI-38
+Added Net: Name=NetKIRI_38
+Added Pin To Net: NetName=NetKIRI_39 Pin=KIRI-39
+Added Net: Name=NetKIRI_39
+Added Pin To Net: NetName=NetKIRI_40 Pin=KIRI-40
+Added Net: Name=NetKIRI_40
+Added Pin To Net: NetName=NetKIRI_41 Pin=KIRI-41
+Added Net: Name=NetKIRI_41
+Added Pin To Net: NetName=NetKIRI_42 Pin=KIRI-42
+Added Net: Name=NetKIRI_42
+Added Pin To Net: NetName=NetKIRI_43 Pin=KIRI-43
+Added Pin To Net: NetName=NetKIRI_43 Pin=LLC_5-P$1
+Added Net: Name=NetKIRI_43
+Added Pin To Net: NetName=NetKIRI_44 Pin=KIRI-44
+Added Pin To Net: NetName=NetKIRI_44 Pin=LLC_5-P$2
+Added Net: Name=NetKIRI_44
+Added Pin To Net: NetName=NetKIRI_45 Pin=KIRI-45
+Added Net: Name=NetKIRI_45
+Added Pin To Net: NetName=NetKIRI_46 Pin=KIRI-46
+Added Net: Name=NetKIRI_46
+Added Pin To Net: NetName=NetKIRI_47 Pin=KIRI-47
+Added Net: Name=NetKIRI_47
+Added Pin To Net: NetName=NetKIRI_48 Pin=KIRI-48
+Added Net: Name=NetKIRI_48
+Added Pin To Net: NetName=NetLCC_comm_P$7 Pin=LCC_comm-P$7
+Added Pin To Net: NetName=NetLCC_comm_P$7 Pin=MAX232_2-10
+Added Net: Name=NetLCC_comm_P$7
+Added Pin To Net: NetName=NetLCC_comm_P$8 Pin=LCC_comm-P$8
+Added Pin To Net: NetName=NetLCC_comm_P$8 Pin=MAX232_2-9
+Added Net: Name=NetLCC_comm_P$8
+Added Pin To Net: NetName=NetLCC_comm_P$11 Pin=LCC_comm-P$11
+Added Pin To Net: NetName=NetLCC_comm_P$11 Pin=MAX232_1-9
+Added Net: Name=NetLCC_comm_P$11
+Added Pin To Net: NetName=NetLCC_comm_P$12 Pin=LCC_comm-P$12
+Added Pin To Net: NetName=NetLCC_comm_P$12 Pin=MAX232_1-10
+Added Net: Name=NetLCC_comm_P$12
+Added Pin To Net: NetName=NetLLC_5_P$12 Pin=LLC_5-P$12
+Added Pin To Net: NetName=NetLLC_5_P$12 Pin=Pressure_transmit-3
+Added Net: Name=NetLLC_5_P$12
+Added Pin To Net: NetName=NetMAX232_1_7 Pin=MAX232_1-7
+Added Pin To Net: NetName=NetMAX232_1_7 Pin=RS232 out 1-5
+Added Net: Name=NetMAX232_1_7
+Added Pin To Net: NetName=NetMAX232_1_8 Pin=MAX232_1-8
+Added Pin To Net: NetName=NetMAX232_1_8 Pin=RS232 out 1-3
+Added Net: Name=NetMAX232_1_8
+Added Pin To Net: NetName=NetMAX232_2_7 Pin=MAX232_2-7
+Added Pin To Net: NetName=NetMAX232_2_7 Pin=RS232 out 2-5
+Added Net: Name=NetMAX232_2_7
+Added Pin To Net: NetName=NetMAX232_2_8 Pin=MAX232_2-8
+Added Pin To Net: NetName=NetMAX232_2_8 Pin=RS232 out 2-3
+Added Net: Name=NetMAX232_2_8
+Added Pin To Net: NetName=NetPWR_5_IN_1 Pin=PWR_5_IN-1
+Added Pin To Net: NetName=NetPWR_5_IN_1 Pin=SW_5-1
+Added Net: Name=NetPWR_5_IN_1
+Added Pin To Net: NetName=NetPWR_12_IN_1 Pin=PWR_12_IN-1
+Added Pin To Net: NetName=NetPWR_12_IN_1 Pin=SW_12-1
+Added Net: Name=NetPWR_12_IN_1
+Added Pin To Net: NetName=NetPWR_24_IN_1 Pin=PWR_24_IN-1
+Added Pin To Net: NetName=NetPWR_24_IN_1 Pin=SW_24-1
+Added Net: Name=NetPWR_24_IN_1
+Added Pin To Net: NetName=NetSW_12_2 Pin=SW_12-2
+Added Net: Name=NetSW_12_2
+Added Pin To Net: NetName=NRX Pin=J12-2
+Added Pin To Net: NetName=NRX Pin=LLC_6-P$8
+Added Net: Name=NRX
+Added Pin To Net: NetName=NTX Pin=J12-1
+Added Pin To Net: NetName=NTX Pin=LLC_6-P$7
+Added Net: Name=NTX
+Added Pin To Net: NetName=PE9 Pin=Inductive Sensor_LLC-P$1
+Added Pin To Net: NetName=PE9 Pin=Inductive Sensor_LLC-P$2
+Added Pin To Net: NetName=PE9 Pin=Inductive Sensor_LLC-P$5
+Added Pin To Net: NetName=PE9 Pin=LCC_comm-P$1
+Added Pin To Net: NetName=PE9 Pin=LCC_comm-P$2
+Added Pin To Net: NetName=PE9 Pin=LCC_comm-P$5
+Added Pin To Net: NetName=PE9 Pin=LCC_comm-P$6
+Added Pin To Net: NetName=PE9 Pin=LLC_1-P$1
+Added Pin To Net: NetName=PE9 Pin=LLC_1-P$2
+Added Pin To Net: NetName=PE9 Pin=LLC_1-P$5
+Added Pin To Net: NetName=PE9 Pin=LLC_1-P$6
+Added Pin To Net: NetName=PE9 Pin=LLC_2-P$1
+Added Pin To Net: NetName=PE9 Pin=LLC_2-P$2
+Added Pin To Net: NetName=PE9 Pin=LLC_2-P$5
+Added Pin To Net: NetName=PE9 Pin=LLC_2-P$6
+Added Pin To Net: NetName=PE9 Pin=LLC_3-P$1
+Added Pin To Net: NetName=PE9 Pin=LLC_3-P$2
+Added Pin To Net: NetName=PE9 Pin=LLC_3-P$5
+Added Pin To Net: NetName=PE9 Pin=LLC_3-P$6
+Added Pin To Net: NetName=PE9 Pin=LLC_4-P$1
+Added Pin To Net: NetName=PE9 Pin=LLC_4-P$2
+Added Pin To Net: NetName=PE9 Pin=LLC_4-P$5
+Added Pin To Net: NetName=PE9 Pin=LLC_4-P$6
+Added Pin To Net: NetName=PE9 Pin=LLC_DCMotor1-P$1
+Added Pin To Net: NetName=PE9 Pin=LLC_DCMotor1-P$2
+Added Pin To Net: NetName=PE9 Pin=LLC_DCMotor1-P$5
+Added Pin To Net: NetName=PE9 Pin=LLC_DCMotor2-P$1
+Added Pin To Net: NetName=PE9 Pin=LLC_DCMotor2-P$2
+Added Pin To Net: NetName=PE9 Pin=LLC_DCMotor2-P$5
+Added Pin To Net: NetName=PE9 Pin=OPA2340(buffer)-1
+Added Pin To Net: NetName=PE9 Pin=OPA2340(buffer)-2
+Added Pin To Net: NetName=PE9 Pin=OPA2340(buffer)-6
+Added Pin To Net: NetName=PE9 Pin=OPA2340(buffer)-7
+Added Pin To Net: NetName=PE9 Pin=OPA2340_CS-1
+Added Pin To Net: NetName=PE9 Pin=OPA2340_CS-2
+Added Net: Name=PE9
+Added Pin To Net: NetName=RXD_5V Pin=LLC_5-P$7
+Added Pin To Net: NetName=RXD_5V Pin=Pressure_transmit-6
+Added Net: Name=RXD_5V
+Added Pin To Net: NetName=TXD_5V Pin=LLC_5-P$8
+Added Pin To Net: NetName=TXD_5V Pin=Pressure_transmit-5
+Added Net: Name=TXD_5V
+Added Pin To Net: NetName=VCC Pin=KANAN-3
+Added Pin To Net: NetName=VCC Pin=KANAN-4
+Added Net: Name=VCC
+Added Pin To Net: NetName=VDD Pin=7407_2-14
+Added Pin To Net: NetName=VDD Pin=7407_3-14
+Added Pin To Net: NetName=VDD Pin=7407_4-14
+Added Pin To Net: NetName=VDD Pin=DC_MotorDriver1(7407)-14
+Added Pin To Net: NetName=VDD Pin=Inductive IC(7407)-14
+Added Net: Name=VDD

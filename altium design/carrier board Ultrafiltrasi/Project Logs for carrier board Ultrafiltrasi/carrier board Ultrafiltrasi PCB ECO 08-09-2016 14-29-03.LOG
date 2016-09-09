@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PE9 Pin=OPA2340(buffer)-1
+Removed Pin From Net: NetName=PE9 Pin=OPA2340(buffer)-2
+Removed Pin From Net: NetName=PE9 Pin=OPA2340(buffer)-6
+Removed Pin From Net: NetName=PE9 Pin=OPA2340(buffer)-7
+Added Pin To Net: NetName=VDD Pin=Inductive IC(7407)-14
+Added Pin To Net: NetName=NetKIRI_9 Pin=OPA2340(buffer)-1
+Added Pin To Net: NetName=NetKIRI_9 Pin=OPA2340(buffer)-2
+Added Pin To Net: NetName=NetKIRI_8 Pin=OPA2340(buffer)-6
+Added Pin To Net: NetName=NetKIRI_8 Pin=OPA2340(buffer)-7

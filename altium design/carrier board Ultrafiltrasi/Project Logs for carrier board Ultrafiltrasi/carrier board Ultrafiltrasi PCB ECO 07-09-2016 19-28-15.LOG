@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Net5V to 3.3V_1 Pin=SW_5-2
+Removed Pin From Net: NetName=NetPWR_12_IN_1 Pin=SW_12-1
+Removed Pin From Net: NetName=Net100uF_1 Pin=SW_24-2
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=PWR_5_IN-1
+Added Pin To Net: NetName=Net100uF_1 Pin=PWR_24_IN-1

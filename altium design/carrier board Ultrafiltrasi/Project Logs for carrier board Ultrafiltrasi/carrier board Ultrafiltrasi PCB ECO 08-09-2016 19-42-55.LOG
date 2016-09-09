@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetDC_MotorDriver1(7407)_5 Pin=LLC_DCMotor1-P$8
+Removed Pin From Net: NetName=NetDC_MotorDriver1(7407)_3 Pin=LLC_DCMotor1-P$11
+Removed Pin From Net: NetName=NetDC_MotorDriver1(7407)_1 Pin=LLC_DCMotor1-P$12
+Added Pin To Net: NetName=VDD Pin=Inductive IC(7407)-14
+Added Pin To Net: NetName=NetDC_MotorDriver1(7407)_1 Pin=LLC_DCMotor1-P$7
+Added Pin To Net: NetName=NetDC_MotorDriver1(7407)_3 Pin=LLC_DCMotor1-P$8
+Added Pin To Net: NetName=NetDC_MotorDriver1(7407)_5 Pin=LLC_DCMotor1-P$11
+Change Net Name : Old Net Name=PE9 New Net Name=NetInductive Sensor_LLC_P$1

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Net7407_2_9 Pin=LLC_3-P$7
+Removed Pin From Net: NetName=Net7407_2_5 Pin=LLC_3-P$8
+Removed Pin From Net: NetName=Net7407_2_3 Pin=LLC_3-P$11
+Removed Pin From Net: NetName=Net7407_2_1 Pin=LLC_3-P$12
+Added Pin To Net: NetName=Net7407_2_1 Pin=LLC_3-P$7
+Added Pin To Net: NetName=Net7407_2_3 Pin=LLC_3-P$8
+Added Pin To Net: NetName=Net7407_2_5 Pin=LLC_3-P$11
+Added Pin To Net: NetName=Net7407_2_9 Pin=LLC_3-P$12
