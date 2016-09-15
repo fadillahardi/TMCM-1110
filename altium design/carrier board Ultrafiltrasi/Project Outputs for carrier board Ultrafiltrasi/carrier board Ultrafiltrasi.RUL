@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\Severuz Wernbeck\Documents\GitHub\TMCM-1110\altium design\carrier board Ultrafiltrasi\carrier board Ultrafiltrasi.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

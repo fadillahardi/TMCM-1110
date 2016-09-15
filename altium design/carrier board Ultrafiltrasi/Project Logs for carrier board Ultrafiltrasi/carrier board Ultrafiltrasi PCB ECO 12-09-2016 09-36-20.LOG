@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=J9 NewDesignator=Conductivity
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=7407_2-14
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=7407_3-14
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=7407_4-14
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=DC_MotorDriver1(7407)-14
+Added Pin To Net: NetName=Net5V to 3.3V_1 Pin=Inductive IC(7407)-14
+Change Net Name : Old Net Name=NetCS_1_1 New Net Name=NetConductivity_5
+Change Net Name : Old Net Name=NetCS_2_1 New Net Name=NetConductivity_6

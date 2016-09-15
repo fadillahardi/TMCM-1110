@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [carrier board Ultrafiltrasi.PrjPCB]
+   Generated File[carrier board Ultrafiltrasi.GTL]
+   Generated File[carrier board Ultrafiltrasi.GBL]
+   Generated File[carrier board Ultrafiltrasi.GTO]
+   Generated File[carrier board Ultrafiltrasi.GTP]
+   Generated File[carrier board Ultrafiltrasi.GTS]
+   Generated File[carrier board Ultrafiltrasi.GBS]
+   Generated File[carrier board Ultrafiltrasi.GBP]
+   Generated File[carrier board Ultrafiltrasi.GBO]
+   Generated File[carrier board Ultrafiltrasi.GKO]
+   Generated File[carrier board Ultrafiltrasi.GD1]
+   Generated File[carrier board Ultrafiltrasi.GG1]
+   Generated File[carrier board Ultrafiltrasi.RUL]
+   Generated File[carrier board Ultrafiltrasi.EXTREP]
+   Generated File[carrier board Ultrafiltrasi.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 11:34:31 On 14/09/2016

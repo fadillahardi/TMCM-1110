@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetLLC_DCMotor1_P$1 Pin=LLC_InductiveSensor-P$1
+Removed Pin From Net: NetName=NetLLC_DCMotor1_P$1 Pin=LLC_InductiveSensor-P$2
+Removed Pin From Net: NetName=Net5V to 3.3V_3 Pin=LLC_InductiveSensor-P$3
+Removed Pin From Net: NetName=NetLLC_DCMotor1_P$1 Pin=LLC_SolenoidValve1-P$1
+Removed Pin From Net: NetName=NetLLC_DCMotor1_P$1 Pin=LLC_SolenoidValve1-P$2
+Removed Pin From Net: NetName=NetLLC_DCMotor1_P$1 Pin=LLC_SolenoidValve1-P$5
+Removed Pin From Net: NetName=NetLLC_DCMotor1_P$1 Pin=LLC_SolenoidValve1-P$6
+Removed Pin From Net: NetName=NetLLC_DCMotor1_P$1 Pin=LLC_SolenoidValve2-P$1
+Removed Pin From Net: NetName=NetLLC_DCMotor1_P$1 Pin=LLC_SolenoidValve2-P$2
+Removed Pin From Net: NetName=NetLLC_DCMotor1_P$1 Pin=LLC_SolenoidValve2-P$5
+Removed Pin From Net: NetName=NetLLC_DCMotor1_P$1 Pin=LLC_SolenoidValve2-P$6
+Removed Pin From Net: NetName=NetLLC_DCMotor1_P$1 Pin=LLC_SolenoidValve3-P$1
+Removed Pin From Net: NetName=NetLLC_DCMotor1_P$1 Pin=LLC_SolenoidValve3-P$2
+Removed Pin From Net: NetName=NetLLC_DCMotor1_P$1 Pin=LLC_SolenoidValve3-P$5
+Removed Pin From Net: NetName=NetLLC_DCMotor1_P$1 Pin=LLC_SolenoidValve3-P$6
+Added Pin To Net: NetName=VDD Pin=7407_3-14
+Added Pin To Net: NetName=VDD Pin=7407_4-14
+Added Pin To Net: NetName=VDD Pin=Inductive IC(7407)-14
+Added Pin To Net: NetName=NetKIRI_39 Pin=LLC_InductiveSensor-P$1
+Added Pin To Net: NetName=NetKIRI_42 Pin=LLC_InductiveSensor-P$2
+Added Pin To Net: NetName=NetKIRI_41 Pin=LLC_InductiveSensor-P$3
+Added Pin To Net: NetName=NetKANAN_14 Pin=LLC_SolenoidValve1-P$1
+Added Pin To Net: NetName=NetKANAN_13 Pin=LLC_SolenoidValve1-P$2
+Added Pin To Net: NetName=NetKANAN_12 Pin=LLC_SolenoidValve1-P$5
+Added Pin To Net: NetName=NetKIRI_26 Pin=LLC_SolenoidValve1-P$6
+Added Pin To Net: NetName=NetKIRI_25 Pin=LLC_SolenoidValve2-P$1
+Added Pin To Net: NetName=NetKIRI_28 Pin=LLC_SolenoidValve2-P$2
+Added Pin To Net: NetName=NetKIRI_27 Pin=LLC_SolenoidValve2-P$5
+Added Pin To Net: NetName=NetKIRI_30 Pin=LLC_SolenoidValve2-P$6
+Added Pin To Net: NetName=NetKIRI_29 Pin=LLC_SolenoidValve3-P$1
+Added Pin To Net: NetName=NetKIRI_32 Pin=LLC_SolenoidValve3-P$2
+Added Pin To Net: NetName=NetKIRI_31 Pin=LLC_SolenoidValve3-P$5
+Added Pin To Net: NetName=NetKIRI_34 Pin=LLC_SolenoidValve3-P$6
