@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=VDD Pin=7407_2-14
+Added Pin To Net: NetName=VDD Pin=7407_3-14
+Added Pin To Net: NetName=VDD Pin=7407_4-14
+Added Pin To Net: NetName=VDD Pin=DC_MotorDriver1(7407)-14
+Added Pin To Net: NetName=VDD Pin=Inductive IC(7407)-14
+Added Class: Name=carrier board Ultrafiltrasi
+Added Room: Name=carrier board Ultrafiltrasi
